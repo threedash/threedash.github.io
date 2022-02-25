@@ -1,0 +1,19 @@
+<p>list works!</p>
+
+<div>
+  <table mat-table [dataSource]="dataSource" class="mat-elevation-z8">
+    <div *ngFor="let item of displayedColumns">
+      <ng-container [matColumnDef]="item">
+        <th mat-header-cell *matHeaderCellDef> {{item}} </th>
+
+        <td *matCellDef="let row; let i = index;">
+          {{getScores(row, i, item)}}
+        </td>
+      </ng-container>
+    </div>
+
+
+    <tr cdk-header-row *cdkHeaderRowDef="displayedColumns"></tr>
+    <tr cdk-row *cdkRowDef="let row; columns: displayedColumns;">{{row}}</tr>
+  </table>
+</div>

@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "player": "John Fer",
+    "result": 2000
+  },
+  {
+    "id": 2,
+    "player": "John Doe",
+    "result": 1000
+  }
+]
