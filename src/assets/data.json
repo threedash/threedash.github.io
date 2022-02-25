@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "player": "John Doe",
+    "result": [
+      {
+        "eventName": "World Championship",
+        "score": 12400
+      },
+      {
+        "eventName": "State Championship",
+        "score": -2400
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "player": "Elvis Presley",
+    "result": [
+      {
+        "eventName": "World Championship",
+        "score": -1000
+      },
+      {
+        "eventName": "State Championship",
+        "score": 23000
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "player": "Butthead Presley",
+    "result": [
+      {
+        "eventName": "World Championship",
+        "score": 300
+      },
+      {
+        "eventName": "State Championship",
+        "score": 3000
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "player": "Taj Mahal",
+    "result": [
+      {
+        "eventName": "World Championship",
+        "score": -8900
+      },
+      {
+        "eventName": "State Championship",
+        "score": 3670
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "player": "Ray Ban",
+    "result": [
+      {
+        "eventName": "World Championship",
+        "score": 900
+      },
+      {
+        "eventName": "State Championship",
+        "score": 8900
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "player": "Bill Gates",
+    "result": [
+      {
+        "eventName": "World Championship",
+        "score": 7900
+      },
+      {
+        "eventName": "State Championship",
+        "score": 7300
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "player": "Steven Seagate",
+    "result": [
+      {
+        "eventName": "World Championship",
+        "score": 10000
+      },
+      {
+        "eventName": "State Championship",
+        "score": -29000
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "player": "Elon Musk",
+    "result": [
+      {
+        "eventName": "World Championship",
+        "score": -8800
+      },
+      {
+        "eventName": "State Championship",
+        "score": 55400
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "player": "Butthead Beavis",
+    "result": [
+      {
+        "eventName": "World Championship",
+        "score": -1000
+      },
+      {
+        "eventName": "State Championship",
+        "score": -21000
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "player": "Eon Presley",
+    "result": [
+      {
+        "eventName": "World Championship",
+        "score": 7899
+      },
+      {
+        "eventName": "State Championship",
+        "score": 9237
+      }
+    ]
+  }
+]
