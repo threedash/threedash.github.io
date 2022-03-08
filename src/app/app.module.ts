@@ -5,16 +5,25 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { ListComponent } from './components/list/list.component';
-import { DetailComponent } from './components/detail/detail.component';
-import {MatTableModule} from '@angular/material/table';
-import {CdkTableModule} from '@angular/cdk/table';
-import {HttpClientModule} from '@angular/common/http';
+import { UserInfoComponent } from './components/user-info/user-info.component';
+import { MatTableModule } from '@angular/material/table';
+import { CdkTableModule } from '@angular/cdk/table';
+import { HttpClientModule } from '@angular/common/http';
+import { GameInfoComponent } from './components/game-info/game-info.component';
+import {MatCardModule} from '@angular/material/card';
+import {MatFormFieldModule} from '@angular/material/form-field';
+import {MatAutocompleteModule} from '@angular/material/autocomplete';
+import {MatInputModule} from '@angular/material/input';
+import {ReactiveFormsModule} from '@angular/forms';
+import {MatButtonModule} from '@angular/material/button';
+import {MatIconModule} from '@angular/material/icon';
 
 @NgModule({
   declarations: [
     AppComponent,
     ListComponent,
-    DetailComponent
+    UserInfoComponent,
+    GameInfoComponent
   ],
   imports: [
     BrowserModule,
@@ -22,7 +31,14 @@ import {HttpClientModule} from '@angular/common/http';
     BrowserAnimationsModule,
     HttpClientModule,
     MatTableModule,
-    CdkTableModule
+    CdkTableModule,
+    MatCardModule,
+    MatFormFieldModule,
+    MatAutocompleteModule,
+    MatInputModule,
+    ReactiveFormsModule,
+    MatButtonModule,
+    MatIconModule
   ],
   providers: [],
   bootstrap: [AppComponent]

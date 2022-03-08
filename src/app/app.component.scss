@@ -1,0 +1,210 @@
+$green: #11B479;
+$red: #FD0303;
+$gray: #E3E3E3;
+* {
+  font-size: 16px;
+  line-height: 19px;
+  font-family: Roboto, sans-serif;
+}
+
+.container {
+  width: 100%;
+  margin: 50px auto;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-content: center;
+  align-items: baseline;
+  justify-content: flex-start;
+}
+
+
+::ng-deep {
+  .mat-form-field-underline {
+    display: none;
+  }
+  .mat-autocomplete-panel{
+    border: 2px solid #434959 !important;
+    border-radius: 10px !important;
+  }
+  .search {
+    width: 80%;
+    margin: 20px auto;
+
+    .search-form-field {
+      width: 100%;
+
+      .mat-form-field-flex {
+        background: #FFFFFF !important;
+        border: 2px solid #434959 !important;
+        border-radius: 10px !important;
+      }
+
+    }
+
+    input {
+      //background: black;
+    }
+
+    mat-form-field {
+
+    }
+  }
+
+  mat-card {
+    max-width: 600px;
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+    padding: 0 !important;
+
+    .header {
+      display: flex;
+      align-content: center;
+      justify-content: space-between;
+      border-bottom: 1px solid $gray;
+      padding: 19px 0 13px 34px;
+
+      .title {
+        color: #1D2120;
+        font-weight: bold;
+        font-size: 14px;
+      }
+
+    }
+
+    .icon {
+      margin-right: 54px;
+
+      mat-icon {
+        font-family: 'Material Icons', sans-serif !important;
+        //color: white;
+      }
+
+      span {
+        width: 18px;
+        height: 18px;
+      }
+
+    }
+
+    mat-card-title, mat-card-subtitle {
+      text-align: center;
+    }
+
+    mat-card-title {
+      font-weight: bold !important;
+      font-size: 32px !important;
+      margin-top: 40px !important;
+    }
+
+    mat-card-subtitle {
+      margin-top: 9px !important;
+      font-size: 12px !important;
+    }
+
+    .footer {
+      display: flex;
+      flex-direction: column;
+      height: 100%;
+      padding: 51px 51px 20px 46px;
+      border-top: 1px solid $gray;
+
+      .block {
+        margin-bottom: 42px;
+
+        .title {
+          font-size: 24px;
+          line-height: 20px;
+          font-weight: 700;
+          margin-bottom: 20px;
+        }
+
+        .text {
+          font-size: 12px;
+          line-height: 20px;
+          font-weight: 400;
+        }
+      }
+
+      .block:nth-last-of-type(1) {
+        margin-bottom: 0;
+      }
+
+      .crypt-info {
+        font-weight: 700;
+        color: black;
+        font-size: 12px;
+        line-height: 14px;
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        align-content: center;
+
+        .item {
+          margin-right: 3px;
+        }
+      }
+    }
+  }
+
+  table {
+    box-shadow: none !important;
+    padding-left: 28px;
+    width: 100%;
+    margin-bottom: 150px;
+
+    tr {
+      height: 39px;
+    }
+
+    thead {
+      tr:first-child {
+        th {
+          border-bottom: none;
+        }
+      }
+    }
+
+    tbody {
+      tr {
+        td:first-child {
+          padding-left: 5px !important;
+          text-align: center;
+        }
+
+        td:last-child {
+          text-align: right;
+          padding-right: 51px !important;
+        }
+      }
+    }
+  }
+
+  th {
+    text-align: left;
+  }
+
+  .green {
+    color: $green;
+  }
+
+  .red {
+    color: $red;
+  }
+
+  .button-row {
+    border-bottom: 1px solid $gray;
+
+    .mat-button-wrapper {
+      font-weight: normal;
+    }
+
+    .active {
+      .mat-button-wrapper {
+        font-weight: bold;
+      }
+    }
+  }
+
+}

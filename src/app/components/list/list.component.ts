@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import {DataService} from '../../services/data.service';
-import {IPlayer} from '../../interfaces/itable';
+import {ICompetition} from '../../interfaces/itable';
 import {Observable, Subject} from 'rxjs';
 import {MatTableDataSource, MatTableModule} from '@angular/material/table';
 
@@ -11,7 +11,7 @@ import {MatTableDataSource, MatTableModule} from '@angular/material/table';
   styleUrls: ['./list.component.scss']
 })
 export class ListComponent implements OnInit {
-  data$: IPlayer[];
+  data: ICompetition[];
   displayedColumns: string[] = [];
   dataSource: MatTableDataSource<IPlayer[]>;
 
@@ -24,35 +24,57 @@ export class ListComponent implements OnInit {
   }
 
   private getData() {
-   this.dataService.getData().subscribe((data) => {
-     this.dataSource = new MatTableDataSource<any>(data);
-     this.data$ = data;
-     this.getDisplayedColumns();
-   });
-  }
-  private getDisplayedColumns() {
-    if (this.data$) {
-      this.displayedColumns = ['id', 'player'];
-      this.data$.forEach((item) => {
-        item.result.forEach((res) => {
-          if (!this.displayedColumns.includes(res.eventName)) {
-            this.displayedColumns.push(res.eventName);
+    this.dataService.getData().subscribe((data) => {
+      data.forEach((ep) => {
+        ep.game.forEach((game) => {
+          if (!this.players[game.player]) {
+            this.players[game.player] = {
+              result: game.result,
+              count: 1
+            };
+          } else {
+            this.players[game.player].result += game.result;
+            this.players[game.player].count += 1;
           }
         });
       });
+
+      this.sortData();
+      this.data = data;
+      this.getDisplayedColumns();
+    });
+  }
+  private getDisplayedColumns() {
+    if (this.data) {
+      this.displayedColumns = ['index', 'name', 'result'];
     }
   }
 
-  getScores(row: IPlayer, i, item) {
-    if (row[item]){
-      return row[item];
-    } else {
-      const res =  row.result.find((search) => {
-        return search.eventName === item;
-      });
-      return res?.score;
+  sortTable(name: string) {
+    switch (name) {
+      case 'win':
+        this.isActive.topWinning = true;
+        this.isActive.notSoWinning = false;
+        this.isActive.mostAppearances = false;
+        this.sortOption = 'desc';
+        this.sortData();
+        break;
+      case 'loose':
+        this.isActive.topWinning = false;
+        this.isActive.notSoWinning = true;
+        this.isActive.mostAppearances = false;
+        this.sortOption = 'asc';
+        this.sortData();
+        break;
+      case 'appearance':
+        this.isActive.topWinning = false;
+        this.isActive.notSoWinning = false;
+        this.isActive.mostAppearances = true;
+        this.sortOption = 'count';
+        this.sortData();
+        break;
+      default:
+        break;
     }
-
-
   }
 }

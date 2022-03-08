@@ -91,7 +91,7 @@
         "asyncArrow": "always",
         "constructor": "never",
         "method": "never",
-        "named": "never"
+        "named": "always"
       }
     },
     "typedef-whitespace": {
@@ -116,6 +116,7 @@
       "options": [
         "ban-keywords",
         "check-format",
+        "allow-leading-underscore",
         "allow-pascal-case"
       ]
     },

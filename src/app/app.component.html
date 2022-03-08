@@ -1,4 +1,75 @@
-main component
-<app-list>
+<div class="container">
+  <mat-card>
+    <div class="header">
+      <div class="title">
+        Poker Tracker
+      </div>
+      <div class="icon">
+        <mat-icon class="md-18">nightlight</mat-icon>
+      </div>
+    </div>
+    <mat-card-title>Hustler Casino Live Poker Tracker</mat-card-title>
+    <mat-card-subtitle>Updated : 01/05/2022</mat-card-subtitle>
+    <div class="search">
+      <form [formGroup]="form" class="example-form">
+        <mat-form-field class="search-form-field" appearance="fill">
+          <mat-label>Search Player</mat-label>
+          <input type="text"
+                 placeholder="Pick one"
+                 aria-label="Number"
+                 matInput
+                 formControlName="search"
+                 class="search-input"
+                 [matAutocomplete]="auto">
+          <mat-autocomplete #auto="matAutocomplete">
+            <mat-option (onSelectionChange)="getUser($event)" *ngFor="let option of filteredOptions | async"
+                        [value]="option">
+              {{option}}
+            </mat-option>
+          </mat-autocomplete>
+        </mat-form-field>
+      </form>
+    </div>
+    <mat-card-content>
+      <router-outlet></router-outlet>
+    </mat-card-content>
+    <div class="footer">
+      <div class="block">
+        <div class="title">
+          DISCLAIMER
+        </div>
+        <div class="text">
+          *Data provided by live stream “cumlative winnings”
+          <br>
+          ** This website was intended for entertainment purposes and not to use as any financial indicator or tax purposes.
+          <br>
+          *** Players play off stream, wins and loss might are not be accurately reflected. This information is for on stream only.
+        </div>
+      </div>
+      <div class="block">
+        <div class="title">
+          Shout Out
+        </div>
+        <div class="text">
+          *Shoutout to Ryan Fieldmen & Nick Vertucci for creating the stream. This website is in no way affilated with the show, just a fan site.
+        </div>
+      </div>
+      <div class="block">
+        <div class="title">
+          Tips & Donations
+        </div>
+        <div class="text">
+          *While all this was hard effort on my parts and many man hours of data tracking and learning how to build a website from scratch. If you feel inclinde to donate, I’ve provided my wallet for donations!
+        </div>
+      </div>
+      <div class="crypt-info">
+      <div class="item">Bitcoin</div>
+      <div class="item">|</div>
+      <div class="item">Eth</div>
+    </div>
+    </div>
 
-</app-list>
+
+  </mat-card>
+</div>
+

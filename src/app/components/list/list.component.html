@@ -1,19 +1,49 @@
-<p>list works!</p>
-
-<div>
-  <table mat-table [dataSource]="dataSource" class="mat-elevation-z8">
-    <div *ngFor="let item of displayedColumns">
-      <ng-container [matColumnDef]="item">
-        <th mat-header-cell *matHeaderCellDef> {{item}} </th>
-
-        <td *matCellDef="let row; let i = index;">
-          {{getScores(row, i, item)}}
-        </td>
-      </ng-container>
-    </div>
-
-
-    <tr cdk-header-row *cdkHeaderRowDef="displayedColumns"></tr>
-    <tr cdk-row *cdkRowDef="let row; columns: displayedColumns;">{{row}}</tr>
-  </table>
+<div class="button-row">
+  <button
+    [ngClass]="isActive.topWinning ? 'active' : ''"
+    (click)="sortTable('win')"
+    class="winning-sort"
+    mat-button>Top Winning</button>
+  <button
+    [ngClass]="isActive.notSoWinning ? 'active' : ''"
+    (click)="sortTable('loose')"
+    class="loosing-sort"
+    mat-button>Not So Winning</button>
+  <button
+    [ngClass]="isActive.mostAppearances ? 'active' : ''"
+    (click)="sortTable('appearance')"
+    class="appearance-sort"
+    mat-button>Most Appearances</button>
 </div>
+<table mat-table [dataSource]="dataSource" class="mat-elevation-z8">
+  <ng-container matColumnDef="index">
+    <th mat-header-cell *matHeaderCellDef>
+    </th>
+    <td class="td" mat-cell *matCellDef="let item; let i = index">
+      {{ i + 1 }}
+    </td>
+  </ng-container>
+
+  <ng-container matColumnDef="name">
+    <th mat-header-cell *matHeaderCellDef>
+<!--      {{ 'Name'}}-->
+    </th>
+    <td class="td" mat-cell *matCellDef="let item">
+      {{ item.name }} ({{item.count}})
+    </td>
+  </ng-container>
+
+  <ng-container matColumnDef="result">
+    <th mat-header-cell *matHeaderCellDef>
+<!--      {{ 'Result'}}-->
+    </th>
+    <td class="td" mat-cell [ngClass]="item.result > 0 ? 'green' : 'red'" *matCellDef="let item">
+      {{ item.result | currency: '$':'symbol' : '3.0-0' }}
+    </td>
+  </ng-container>
+
+  <tr cdk-header-row *cdkHeaderRowDef="displayedColumns"></tr>
+  <tr cdk-row *cdkRowDef="let row; columns: displayedColumns;" [routerLink]="['/user-info/', row.name]">
+    {{row}}
+  </tr>
+</table>
