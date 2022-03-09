@@ -1,0 +1,82 @@
+[{
+  "e": "ep1",
+  "date": "Aug 3, 2021",
+  "yTitle": "FIRST SHOW EVER!!! WILD ACTION $5/5",
+  "yLink": "https://www.youtube.com/watch?v=PzTAD77ay78&t=8730s&ab_channel=HustlerCasinoLive",
+  "game": [
+    { "player": "Jhon", "result": 1000 }, {
+      "player": "Nick",
+      "result": 3000
+    }, {
+      "player": "Boris",
+      "result": -3000
+    },  {
+      "player": "Petya",
+      "result": -13000
+    }
+  ],
+  "total": 21000
+},{
+  "e": "ep2",
+  "date": "Aug 4, 2021",
+  "yTitle": "$50 Ante Game",
+  "yLink": "https://www.youtube.com/watch?v=PzTAD77ay78&t=8730s&ab_channel=HustlerCasinoLive",
+  "game": [
+    {
+      "player": "Jhon",
+      "result": -1000
+    }, {
+      "player": "Nick",
+      "result": -3000
+    }, {
+      "player": "Boris",
+      "result": 3000
+    },  {
+      "player": "Petya",
+      "result": -13000
+    }
+  ],
+  "total": 21000
+},{
+  "e": "ep3",
+  "date": "Sept 3, 2021",
+  "yTitle": "Hustler Casino Live - YouTube Competition",
+  "yLink": "https://www.youtube.com/watch?v=PzTAD77ay78&t=8730s&ab_channel=HustlerCasinoLive",
+  "game": [
+    {
+      "player": "Jhon",
+      "result": -11000
+    }, {
+      "player": "Nick",
+      "result": -13000
+    }, {
+      "player": "Boris",
+      "result": 13000
+    },  {
+      "player": "Petya",
+      "result": 23000
+    }
+  ],
+  "total": 21000
+},{
+  "e": "ep4",
+  "date": "Sept 4, 2021",
+  "yTitle": "Hustler Casino Live - YouTube Competition2",
+  "yLink": "https://www.youtube.com/watch?v=PzTAD77ay78&t=8730s&ab_channel=HustlerCasinoLive",
+  "game": [
+    {
+      "player": "Jhon",
+      "result": -11000
+    }, {
+      "player": "Nicky",
+      "result": -13000
+    }, {
+      "player": "Boris Red",
+      "result": 13000
+    },  {
+      "player": "Petya",
+      "result": 23000
+    }
+  ],
+  "total": 21000
+}]

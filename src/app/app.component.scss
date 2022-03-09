@@ -7,6 +7,7 @@ $gray: #E3E3E3;
   font-family: Roboto, sans-serif;
 }
 
+
 .container {
   width: 100%;
   margin: 50px auto;
@@ -16,10 +17,16 @@ $gray: #E3E3E3;
   align-content: center;
   align-items: baseline;
   justify-content: flex-start;
+  padding-bottom: 50px;
 }
 
 
+
+
 ::ng-deep {
+  body {
+    background-color: #e5e5e5;
+  }
   .mat-form-field-underline {
     display: none;
   }
@@ -152,7 +159,7 @@ $gray: #E3E3E3;
     box-shadow: none !important;
     padding-left: 28px;
     width: 100%;
-    margin-bottom: 150px;
+    margin-bottom: 30px;
 
     tr {
       height: 39px;
@@ -178,6 +185,10 @@ $gray: #E3E3E3;
           padding-right: 51px !important;
         }
       }
+      tr:hover {
+        cursor: pointer;
+        background: #e5e5e5;
+      }
     }
   }
 
@@ -195,6 +206,7 @@ $gray: #E3E3E3;
 
   .button-row {
     border-bottom: 1px solid $gray;
+    padding-left: 43px;
 
     .mat-button-wrapper {
       font-weight: normal;
@@ -207,4 +219,15 @@ $gray: #E3E3E3;
     }
   }
 
+  .name-row {
+    width: 80%;
+    display: flex;
+    margin: 0 auto 30px auto;
+    height: 50px;
+    flex-direction: column;
+    .name-wrapper {
+      display: flex;
+      justify-content: space-between;
+    }
+  }
 }

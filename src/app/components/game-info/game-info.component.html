@@ -1,4 +1,16 @@
-{{data.e}}: {{data.yTitle}}, {{data.date}}
+<div class="name-row"> <div class="name-wrapper"><div>{{data.e}}</div> <div>{{data.date}}</div></div> <br> {{data.yTitle}}</div>
+<div class="button-row">
+  <button
+    [ngClass]="isActive.topWinning ? 'active' : ''"
+    (click)="sortTable('win')"
+    class="winning-sort"
+    mat-button>Top Winning</button>
+  <button
+    [ngClass]="isActive.notSoWinning ? 'active' : ''"
+    (click)="sortTable('loose')"
+    class="loosing-sort"
+    mat-button>Not So Winning</button>
+</div>
 <table mat-table [dataSource]="dataSource" class="mat-elevation-z8">
   <ng-container matColumnDef="index">
     <th mat-header-cell *matHeaderCellDef>
@@ -30,6 +42,6 @@
   <tr cdk-row *cdkRowDef="let row; columns: displayedColumns;">
     {{row}}</tr>
 </table>
-
-<iframe id="ytplayer" type="text/html" width="640" height="360"
-        src="http://www.youtube.com/embed/PzTAD77ay78?autoplay=1">
+<div *ngIf="youTubeLink">
+  <iframe class="e2e-iframe-trusted-src" width="100%" height="360" [src]="youTubeLink"></iframe>
+</div>

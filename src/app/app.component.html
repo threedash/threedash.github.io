@@ -1,7 +1,7 @@
 <div class="container">
   <mat-card>
     <div class="header">
-      <div class="title">
+      <div class="title" [routerLink]="['/']">
         Poker Tracker
       </div>
       <div class="icon">
@@ -15,7 +15,7 @@
         <mat-form-field class="search-form-field" appearance="fill">
           <mat-label>Search Player</mat-label>
           <input type="text"
-                 placeholder="Pick one"
+                 placeholder=""
                  aria-label="Number"
                  matInput
                  formControlName="search"
