@@ -1,4 +1,4 @@
-<div class="name-row"></div>
+<!--<div class="name-row"></div>-->
 <div class="button-row">
   <button
     [ngClass]="isActive.topWinning ? 'active' : ''"
@@ -14,7 +14,7 @@
     [ngClass]="isActive.mostAppearances ? 'active' : ''"
     (click)="sortTable('appearance')"
     class="appearance-sort"
-    mat-button>Most Appearances</button>
+    mat-button>Regulars</button>
 </div>
 <table mat-table [dataSource]="dataSource" class="mat-elevation-z8">
   <ng-container matColumnDef="index">
@@ -39,7 +39,7 @@
 <!--      {{ 'Result'}}-->
     </th>
     <td class="td" mat-cell [ngClass]="item.result > 0 ? 'green' : 'red'" *matCellDef="let item">
-      {{ item.result | currency: '$':'symbol' : '3.0-0' }}
+      {{ +item.result | currency: '$':'symbol' : '3.0-0' }}
     </td>
   </ng-container>
 

@@ -1,16 +1,18 @@
-import { Component, OnInit } from '@angular/core';
-import { ActivatedRoute } from '@angular/router';
+import {Component, OnInit, ViewChild} from '@angular/core';
+import {ActivatedRoute} from '@angular/router';
 import {DataService} from '../../services/data.service';
 import {BehaviorSubject} from 'rxjs';
-import {IGame, IUserGame, IUserInfo} from '../../interfaces/itable';
+import {IPlayer, IUserGame, IUserInfo} from '../../interfaces/itable';
 import {MatTableDataSource} from '@angular/material/table';
+import {MatPaginator} from '@angular/material/paginator';
+import * as moment from 'moment';
 
 @Component({
   selector: 'app-user-info',
   templateUrl: './user-info.component.html',
   styleUrls: ['./user-info.component.scss']
 })
-export class UserInfoComponent implements OnInit {
+export class UserInfoComponent implements OnInit{
   user: any = {};
   userId: string;
   userData: IUserInfo = {
@@ -18,7 +20,7 @@ export class UserInfoComponent implements OnInit {
     total: undefined
   };
   displayedColumns: string[] = [];
-  dataSource: MatTableDataSource<IGame>;
+  dataSource: MatTableDataSource<IPlayer>;
   asyncData$: BehaviorSubject<any> = new BehaviorSubject('');
   total = 0;
   sortOption = 'desc';
@@ -27,6 +29,8 @@ export class UserInfoComponent implements OnInit {
     notSoWinning: false,
     mostAppearances: false
   };
+  @ViewChild(MatPaginator)
+  paginator: MatPaginator;
 
   constructor(
     private route: ActivatedRoute,
@@ -36,14 +40,21 @@ export class UserInfoComponent implements OnInit {
   }
 
   ngOnInit(): void {
+    setTimeout(() => this.setViewVars(), 0);
     this.route.params.subscribe(paramsId => {
       this.userId = paramsId.id;
       this.getUser(this.userId);
     });
   }
+  private setViewVars() {
+    this.dataService.searchHide = false;
+    this.dataService.episodeId = null;
+    this.dataService.title = 'Live Poker Tracker';
+  }
 
   private getUser(name: string): void {
     this.dataService.getUserInfo(name).subscribe((data) => {
+      console.log(data);
       this.asyncData$.next(data);
     });
   }
@@ -58,20 +69,22 @@ export class UserInfoComponent implements OnInit {
   // }
   private onData(val: IUserInfo) {
     this.userData = val;
-    this.total = +this.userData.total;
+    this.total = this.dataService.userScoreCalc(this.userData.total);
+    console.log(this.total);
     if (this.userData.games) {
-      this.sortTable('win');
+      this.sortTable('date');
     }
   }
 
   private getTable(data: IUserGame[]) {
-    data.push({
-      title: 'Total',
-      score: this.total,
-    });
+    // data.push({
+    //   title: 'Total',
+    //   score: this.total,
+    // });
     // @ts-ignore
     this.dataSource = new MatTableDataSource<IUserGame[]>(data);
-    this.displayedColumns = ['index', 'title', 'score'];
+    this.displayedColumns = ['date', 'e', 'score'];
+    this.setPaginator();
   }
 
   sortTable(name: string) {
@@ -80,6 +93,12 @@ export class UserInfoComponent implements OnInit {
         this.isActive.topWinning = true;
         this.isActive.notSoWinning = false;
         this.sortOption = 'desc';
+        this.sortData();
+        break;
+      case 'date':
+        this.isActive.topWinning = true;
+        this.isActive.notSoWinning = false;
+        this.sortOption = 'date';
         this.sortData();
         break;
       case 'loose':
@@ -94,16 +113,18 @@ export class UserInfoComponent implements OnInit {
   }
 
   private sortData() {
-    console.log('this.userData', this.userData);
     const pure = this.userData.games.filter(item => item.title !== 'Total');
-    console.log('pure', pure);
     if (this.sortOption === 'asc') {
       pure.sort((a, b) => +a.score - +b.score);
     } else if (this.sortOption === 'desc') {
       pure.sort((a, b) => +b.score - +a.score);
+    } else if (this.sortOption === 'date') {
+      pure.sort((a, b) => (moment(new Date(b.date)).diff(moment( new Date(a.date)))));
     }
-    // pure
-    console.log('this.userData.games ', this.userData.games);
     this.getTable(pure);
+  }
+
+  private setPaginator() {
+    this.dataSource.paginator = this.paginator;
   }
 }

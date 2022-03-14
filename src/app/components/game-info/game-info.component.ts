@@ -1,7 +1,7 @@
 import {Component, OnInit} from '@angular/core';
 import {ActivatedRoute} from '@angular/router';
 import {DataService} from '../../services/data.service';
-import {ICompetition, IGame} from '../../interfaces/itable';
+import {ICompetition, IPlayer} from '../../interfaces/itable';
 import {MatTableDataSource} from '@angular/material/table';
 import {DomSanitizer, SafeUrl} from '@angular/platform-browser';
 
@@ -12,7 +12,7 @@ import {DomSanitizer, SafeUrl} from '@angular/platform-browser';
 })
 export class GameInfoComponent implements OnInit {
   displayedColumns: string[] = [];
-  dataSource: MatTableDataSource<IGame>;
+  dataSource: MatTableDataSource<IPlayer>;
   isActive = {
     topWinning: true,
     notSoWinning: false,
@@ -34,7 +34,7 @@ export class GameInfoComponent implements OnInit {
     date: undefined,
     yTitle: undefined,
     yLink: undefined,
-    game: [],
+    players: [],
     total: undefined,
   };
   iframeHtml: any;
@@ -48,23 +48,38 @@ export class GameInfoComponent implements OnInit {
   }
 
   ngOnInit(): void {
+    setTimeout(() => this.setViewVars(), 0);
     this.route.params.subscribe(paramsId => {
       this.getGameInfo(paramsId.id);
     });
   }
+  // tslint:disable-next-line:use-lifecycle-interface
+  private setViewVars() {
+    this.dataService.searchHide = true;
+    this.dataService.episodeId = this.data?.e;
+    this.dataService.title = 'Live Stream';
+  }
 
   private getGameInfo(id: string) {
     this.dataService.getGameInfo(id).subscribe((data) => {
-      console.log(data);
+      // console.log(data);
       this.data = data;
       this.drawTable();
       this.getYouTubeLink();
+      this.setViewVars();
     });
 
   }
 
   private drawTable() {
-    this.dataSource = new MatTableDataSource<IGame>(this.data.game);
+    const newObj = [];
+    this.data.players.forEach((player) => {
+      newObj.push({
+        player: player.player,
+        result: this.dataService.userScoreCalc(String(player.result)),
+      });
+    });
+    this.dataSource = new MatTableDataSource<IPlayer>(newObj);
     this.displayedColumns = ['index', 'player', 'result'];
   }
 
@@ -89,17 +104,16 @@ export class GameInfoComponent implements OnInit {
 
   private sortData() {
     if (this.sortOption === 'asc') {
-      this.data.game.sort((a, b) => +a.result - +b.result);
+      this.data.players.sort((a, b) => this.dataService.userScoreCalc(a.result) - this.dataService.userScoreCalc(b.result));
     } else if (this.sortOption === 'desc') {
-      this.data.game.sort((a, b) => +b.result - +a.result);
+      this.data.players.sort((a, b) => this.dataService.userScoreCalc(b.result) - this.dataService.userScoreCalc(a.result));
     }
     this.drawTable();
   }
 
   private getYouTubeLink() {
-    const template = '<iframe id="ytplayer" width="100%" height="360" [src]="youTubeLink"></iframe>';
     const tempLink = 'https://www.youtube.com/embed/' + this.data.yLink.split('=')[1].split('&')[0] + '?autoplay=1';
-    this.youTubeLink = this.sanitizer.bypassSecurityTrustResourceUrl(tempLink);
-    console.log(this.youTubeLink);
+    this.youTubeLink = this.sanitizer.bypassSecurityTrustResourceUrl(tempLink || '');
+    // console.log(this.youTubeLink);
   }
 }

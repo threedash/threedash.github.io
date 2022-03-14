@@ -19,13 +19,14 @@ export class AppComponent implements OnInit, OnDestroy {
   private destroy$ = new Subject();
 
   constructor(
-    private dataService: DataService,
+    public dataService: DataService,
     private fb: FormBuilder,
     private router: Router,
   ) {
   }
 
   ngOnInit() {
+    this.setViewVars();
     this.initForm();
     this.initSubscription();
     this.getPlayersNames();
@@ -56,7 +57,7 @@ export class AppComponent implements OnInit, OnDestroy {
   }
 
   getUser($event: MatOptionSelectionChange) {
-    console.log($event);
+    // console.log($event);
     this.router.navigate(['/user-info', $event.source.value]).then();
   }
 
@@ -65,4 +66,9 @@ export class AppComponent implements OnInit, OnDestroy {
     this.destroy$.complete();
   }
 
+  private setViewVars() {
+    this.dataService.searchHide = false;
+    this.dataService.episodeId = null;
+    this.dataService.title = 'Live Poker Tracker';
+  }
 }

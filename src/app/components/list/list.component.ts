@@ -1,8 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import {DataService} from '../../services/data.service';
 import {ICompetition} from '../../interfaces/itable';
-import {Observable, Subject} from 'rxjs';
-import {MatTableDataSource, MatTableModule} from '@angular/material/table';
+import {MatTableDataSource} from '@angular/material/table';
 
 
 @Component({
@@ -26,14 +25,14 @@ export class ListComponent implements OnInit {
   private getData() {
     this.dataService.getData().subscribe((data) => {
       data.forEach((ep) => {
-        ep.game.forEach((game) => {
+        ep.players.forEach((game) => {
           if (!this.players[game.player]) {
             this.players[game.player] = {
-              result: game.result,
+              result: this.dataService.userScoreCalc(game.result),
               count: 1
             };
           } else {
-            this.players[game.player].result += game.result;
+            this.players[game.player].result += this.dataService.userScoreCalc(game.result);
             this.players[game.player].count += 1;
           }
         });

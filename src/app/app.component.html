@@ -2,20 +2,20 @@
   <mat-card>
     <div class="header">
       <div class="title" [routerLink]="['/']">
-        Poker Tracker
+        live stream <div class="episode-id" *ngIf="dataService.episodeId"> | {{dataService.episodeId}}</div>
       </div>
       <div class="icon">
-        <mat-icon class="md-18">nightlight</mat-icon>
+        dark mode
       </div>
     </div>
-    <mat-card-title>Hustler Casino Live Poker Tracker</mat-card-title>
-    <mat-card-subtitle>Updated : 01/05/2022</mat-card-subtitle>
-    <div class="search">
+    <mat-card-title><div class="card-title-wrapper" [ngClass]="!dataService.searchHide ? 'wrapper-shift' : ''">Hustler Casino <div class="card-title-var"> {{dataService.title || 'Live Poker Tracker'}} </div></div></mat-card-title>
+    <mat-card-subtitle [ngClass]="dataService.searchHide ? 'wrapper-shift' : ''">Updated : 01/05/2022</mat-card-subtitle>
+    <div class="search" *ngIf="!dataService.searchHide">
       <form [formGroup]="form" class="example-form">
         <mat-form-field class="search-form-field" appearance="fill">
-          <mat-label>Search Player</mat-label>
+<!--          <mat-label>| Search your favorite degenerate</mat-label>-->
           <input type="text"
-                 placeholder=""
+                 placeholder="Search Your Favorite Poker Player"
                  aria-label="Number"
                  matInput
                  formControlName="search"
@@ -41,9 +41,11 @@
         <div class="text">
           *Data provided by live stream “cumlative winnings”
           <br>
-          ** This website was intended for entertainment purposes and not to use as any financial indicator or tax purposes.
+          ** This website was intended for entertainment purposes and not to use as any financial indicator or tax
+          purposes.
           <br>
-          *** Players play off stream, wins and loss might are not be accurately reflected. This information is for on stream only.
+          *** Players play off stream, wins and loss might are not be accurately reflected. This information is for on
+          stream only.
         </div>
       </div>
       <div class="block">
@@ -51,22 +53,29 @@
           Shout Out
         </div>
         <div class="text">
-          *Shoutout to Ryan Fieldmen & Nick Vertucci for creating the stream. This website is in no way affilated with the show, just a fan site.
+          *Shoutout to Ryan Fieldmen & Nick Vertucci for producing the stream.
+          <br>
+          **To the regulars, thanks for making the stream fun to watch.
         </div>
       </div>
       <div class="block">
         <div class="title">
-          Tips & Donations
+          donations & Sponsorship🍻
         </div>
         <div class="text">
-          *While all this was hard effort on my parts and many man hours of data tracking and learning how to build a website from scratch. If you feel inclinde to donate, I’ve provided my wallet for donations!
+          *I created this site for the regular “chat pros” in the live chat and all the millionssss of viewers! You guys
+          keep the stream entertaining and cheers to you. All of this work is for you guys! If anyone feels... “barry
+          generous”, I’ve provided my wallets for donations! If you like to be a sponsor for this site,
         </div>
       </div>
       <div class="crypt-info">
-      <div class="item">Bitcoin</div>
-      <div class="item">|</div>
-      <div class="item">Eth</div>
-    </div>
+        <div class="item">Bitcoin</div>
+        <div class="item">|</div>
+        <div class="item">Eth</div>
+      </div>
+      <div class="ps">
+        *This website is in no way affiliated with the show, just a fan site.
+      </div>
     </div>
 
 
