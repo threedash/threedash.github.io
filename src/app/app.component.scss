@@ -48,7 +48,9 @@ $gray: #E3E3E3;
   }
   .search {
     width: 100%;
-    margin-bottom: 126px;
+    max-width: 875px;
+    margin: 0 auto 126px;
+    //margin-bottom: 126px;
 
     .search-form-field {
       width: 100%;
@@ -106,12 +108,15 @@ $gray: #E3E3E3;
       margin-top: unset!important;
     }
     .game-info-video-block-wrapper{
+      margin-top: 88px;
       .game-info-video-block {
         //display: flex;
         width: 100%;
+        max-width: 875px;
         font-size: 24px;
         border-bottom: 2px solid #F5F3F3;
-        margin-top: 57px;
+        margin: 57px auto 0 auto;
+        //margin-top: 57px;
         .title-row {
           display: flex;
           font-family: 'PT Sans Caption', sans-serif;
@@ -170,38 +175,46 @@ $gray: #E3E3E3;
       //border-bottom: 1px solid $gray;
       //padding: 19px 0 13px 34px;
       text-transform: uppercase;
-      margin-bottom: 100px;
-      .title {
-        //font-family: "PT Mono", sans-serif !important;
-        font-family: 'PT Mono', sans-serif;
-        font-style: normal;
-        font-weight: 400;
-        font-size: 20px;
-        line-height: 22px;
-        letter-spacing: 0.05em;
-        text-transform: uppercase;
-        color: #000000;
-        cursor: pointer;
+      margin: 0 auto 100px;
+      max-width: 875px;
+      .header-wrapper{
         display: flex;
-        .episode-id {
-          margin-left: 20px;
-        }
-        p.active {
-          z-index: 2;
-          position: relative;
-        }
-        p.active::before{
-          transform: translateX(7px) translateY(7px);
-          content: "";
-          position: absolute;
-          top: 0;
-          left: 0;
-          bottom: 0;
-          right: 0;
-          background: #FFC83C;
-          z-index: -1;
+        width: 100%;
+        justify-content: space-between;
+        margin: 0 5px;
+        .title {
+          //font-family: "PT Mono", sans-serif !important;
+          font-family: 'PT Mono', sans-serif;
+          font-style: normal;
+          font-weight: 400;
+          font-size: 20px;
+          line-height: 22px;
+          letter-spacing: 0.05em;
+          text-transform: uppercase;
+          color: #000000;
+          cursor: pointer;
+          display: flex;
+          .episode-id {
+            margin-left: 20px;
+          }
+          p.active {
+            z-index: 2;
+            position: relative;
+          }
+          p.active::before{
+            transform: translateX(7px) translateY(7px);
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            bottom: 0;
+            right: 0;
+            background: #FFC83C;
+            z-index: -1;
+          }
         }
       }
+
     }
 
     .icon {
@@ -214,12 +227,14 @@ $gray: #E3E3E3;
 
     mat-card-title {
       font-weight: 700 !important;
-      font-size: 42px!important;
-      line-height: 47px!important;
-      margin-bottom: 16px!important;
+      font-size: 22px!important;
+      margin: -4px 5px 16px 5px;
+      //margin-bottom: 16px!important;
       .card-title-wrapper{
         display: flex;
         justify-content: flex-start;
+        max-width: 875px;
+        margin: 0 auto;
         &.wrapper-shift {
           justify-content: center;
         }
@@ -231,22 +246,38 @@ $gray: #E3E3E3;
     }
 
     mat-card-subtitle  {
-      font-family: 'PT Sans Caption', sans-serif !important;
-      font-weight: 400!important;
-      font-size: 24px!important;
-      line-height: 31px!important;
-      color: #1F2126!important;
-      margin-top: 16px!important;
-      margin-bottom: 77px!important;
-      &.wrapper-shift {
-        text-align: left;
+
+      //margin-top: 16px!important;
+      //margin-bottom: 77px!important;
+      width: 100%;
+      margin: 16px 5px 77px 5px!important;
+
+      .subtitle-wrapper{
+        //margin: 0 5px;
+        display: flex;
+        justify-content: flex-start;
+        max-width: 875px;
+        margin: 0 auto;
+        width: 100%;
+        font-family: 'PT Sans Caption', sans-serif !important;
+        font-weight: 400!important;
+        font-size: 20px!important;
+        color: #1F2126!important;
+        &.wrapper-shift {
+          justify-content: center;
+        }
       }
+    }
+    mat-card-content{
+      margin: 0 5px 16px 5px;
     }
 
     .footer {
       display: flex;
       flex-direction: column;
       height: 100%;
+      max-width: 875px;
+      margin: 0 auto;
       //padding: 51px 51px 20px 46px;
       border-top: 2px solid #F5F3F3;
       //background: #656972;
@@ -330,9 +361,12 @@ $gray: #E3E3E3;
 
   table {
     box-shadow: none !important;
-    padding-left: 18px;
+    padding: 0 5px 0 18px;
+    //padding-left: 18px;
     width: 100%;
-    margin-bottom: 120px;
+    max-width: 875px;
+    margin: 0 auto 120px;
+    //margin-bottom: 120px;
     background-color: #FBFCFF!important;
 
     font-family: 'PT Sans Caption', sans-serif!important;
@@ -413,7 +447,9 @@ $gray: #E3E3E3;
 
   .button-row {
     display: flex;
+    max-width: 875px;
     border-bottom: 3px solid #F5F3F3;
+    margin: 0 auto;
     //margin-right: 23px;
     button {
       padding: 18px 18px 18px 12px !important;
@@ -483,13 +519,21 @@ $gray: #E3E3E3;
     font-size: 24px;
     line-height: 31px;
     color: #1F2126;
-    width: fit-content;
     cursor: pointer;
     z-index: 2;
     position: relative;
-    margin-left: auto;
-  }
-  .see-more::before {
+    max-width: 875px;
+    margin:0 auto 120px;
+    display: flex;
+    justify-content: flex-end;
+    //margin-left: auto;
+    div {
+      width: fit-content;
+      //max-width: 110px;
+      position: relative;
+
+    }
+    div::before{
       transform: translateX(6px) translateY(3px);
       content: "";
       position: absolute;
@@ -499,5 +543,18 @@ $gray: #E3E3E3;
       right: 0;
       background: #FFC83C;
       z-index: -1;
+      max-width: 110px;
+    }
   }
+  //.see-more::before {
+  //    transform: translateX(6px) translateY(3px);
+  //    content: "";
+  //    position: absolute;
+  //    top: 8px;
+  //    left: 2px;
+  //    bottom: 0;
+  //    right: 0;
+  //    background: #FFC83C;
+  //    z-index: -1;
+  //}
 }

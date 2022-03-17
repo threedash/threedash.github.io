@@ -1,15 +1,22 @@
 <div class="container">
   <mat-card>
     <div class="header">
-      <div class="title" [routerLink]="['/live']">
-        <p class="active">live stream</p> <div class="episode-id" *ngIf="dataService.episodeId"> | {{dataService.episodeId}}</div>
+      <div class="header-wrapper">
+        <div class="title" [routerLink]="['/live']">
+          <p class="active">live stream</p> <div class="episode-id" *ngIf="dataService.episodeId"> | {{dataService.episodeId}}</div>
+        </div>
+        <div class="icon">
+          dark mode
+        </div>
       </div>
-      <div class="icon">
-        dark mode
-      </div>
+
     </div>
     <mat-card-title><div class="card-title-wrapper" [ngClass]="!dataService.searchHide ? 'wrapper-shift' : ''">Hustler Casino <div class="card-title-var"> {{dataService.title || 'Live Poker Tracker'}} </div></div></mat-card-title>
-    <mat-card-subtitle [ngClass]="dataService.searchHide ? 'wrapper-shift' : ''">Updated : 01/05/2022</mat-card-subtitle>
+    <mat-card-subtitle>
+      <div class="subtitle-wrapper" [ngClass]="!dataService.searchHide ? 'wrapper-shift' : ''">
+        Updated : 01/05/2022
+      </div>
+    </mat-card-subtitle>
     <div class="search" *ngIf="!dataService.searchHide">
       <form [formGroup]="form" class="example-form">
         <mat-form-field class="search-form-field" appearance="fill">
