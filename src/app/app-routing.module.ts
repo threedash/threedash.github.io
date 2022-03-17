@@ -3,6 +3,7 @@ import { Routes, RouterModule } from '@angular/router';
 import { UserInfoComponent } from './components/user-info/user-info.component';
 import { GameInfoComponent } from './components/game-info/game-info.component';
 import { ListComponent } from './components/list/list.component';
+import {LiveComponent} from './components/live/live.component';
 
 
 const routes: Routes = [
@@ -11,6 +12,9 @@ const routes: Routes = [
   {path: 'user-info/:id', component: UserInfoComponent},
   {path: 'game-info', component: ListComponent},
   {path: 'game-info/:id', component: GameInfoComponent},
+  {path: 'live', component: LiveComponent},
+  {path: 'live/:id', component: GameInfoComponent},
+  {path: '*', redirectTo: '', pathMatch: 'full' },
 ];
 
 @NgModule({

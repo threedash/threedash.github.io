@@ -11,21 +11,24 @@
 <!--    class="loosing-sort"-->
 <!--    mat-button>Not So Winning</button>-->
 <!--</div>-->
-<div class="game-info-video-block">
-  <div class="title-row">
-    <div class="title-link">
-      {{data.e}}
+<div class="game-info-video-block-wrapper">
+  <div class="game-info-video-block">
+    <div class="title-row">
+      <div class="title-link">
+        {{data.e}}
+      </div>
+      <div class="title-date">
+        {{data.date | date:'shortDate'}}
+      </div>
     </div>
-    <div class="title-date">
-      {{data.date | date:'shortDate'}}
+    <div class="game-name">
+      {{data.yTitle}}
+    </div>
+    <div class="video-frame" *ngIf="youTubeLink">
+      <iframe class="e2e-iframe-trusted-src" width="100%" height="100%" [src]="youTubeLink"></iframe>
     </div>
   </div>
-  <div class="game-name">
-    {{data.yTitle}}
-  </div>
-  <div class="video-frame" *ngIf="youTubeLink">
-    <iframe class="e2e-iframe-trusted-src" width="100%" height="100%" [src]="youTubeLink"></iframe>
-  </div>
+
 </div>
 
 <table mat-table [dataSource]="dataSource" class="mat-elevation-z8">

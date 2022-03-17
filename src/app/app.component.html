@@ -1,8 +1,8 @@
 <div class="container">
   <mat-card>
     <div class="header">
-      <div class="title" [routerLink]="['/']">
-        live stream <div class="episode-id" *ngIf="dataService.episodeId"> | {{dataService.episodeId}}</div>
+      <div class="title" [routerLink]="['/live']">
+        <p class="active">live stream</p> <div class="episode-id" *ngIf="dataService.episodeId"> | {{dataService.episodeId}}</div>
       </div>
       <div class="icon">
         dark mode
@@ -36,7 +36,7 @@
     <div class="footer">
       <div class="block">
         <div class="title">
-          DISCLAIMER
+          <p>DISCLAIMER</p>
         </div>
         <div class="text">
           *Data provided by live stream “cumlative winnings”
@@ -50,7 +50,7 @@
       </div>
       <div class="block">
         <div class="title">
-          Shout Out
+          <p>Shout Out</p>
         </div>
         <div class="text">
           *Shoutout to Ryan Fieldmen & Nick Vertucci for producing the stream.
@@ -60,7 +60,7 @@
       </div>
       <div class="block">
         <div class="title">
-          donations & Sponsorship🍻
+          <p>donations & Sponsorship🍻</p>
         </div>
         <div class="text">
           *I created this site for the regular “chat pros” in the live chat and all the millionssss of viewers! You guys

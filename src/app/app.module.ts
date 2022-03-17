@@ -18,13 +18,15 @@ import {ReactiveFormsModule} from '@angular/forms';
 import {MatButtonModule} from '@angular/material/button';
 import {MatIconModule} from '@angular/material/icon';
 import {MatPaginatorModule} from '@angular/material/paginator';
+import { LiveComponent } from './components/live/live.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     ListComponent,
     UserInfoComponent,
-    GameInfoComponent
+    GameInfoComponent,
+    LiveComponent
   ],
     imports: [
         BrowserModule,
