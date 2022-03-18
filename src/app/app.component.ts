@@ -4,7 +4,9 @@ import {FormBuilder, FormGroup} from '@angular/forms';
 import {Observable, Subject} from 'rxjs';
 import {map, startWith, takeUntil} from 'rxjs/operators';
 import {MatOptionSelectionChange} from '@angular/material/core';
-import {Router} from '@angular/router';
+import {ActivatedRoute, Router} from '@angular/router';
+import { Location } from '@angular/common';
+
 
 @Component({
   selector: 'app-root',
@@ -17,19 +19,21 @@ export class AppComponent implements OnInit, OnDestroy {
   options: string[] = [];
   filteredOptions: Observable<string[]>;
   private destroy$ = new Subject();
+  mode = 'dark mode';
 
   constructor(
     public dataService: DataService,
     private fb: FormBuilder,
-    private router: Router,
+    public router: Router,
   ) {
   }
 
   ngOnInit() {
-    this.setViewVars();
+    this.getUrl();
     this.initForm();
     this.initSubscription();
     this.getPlayersNames();
+    this.setDarkMode(localStorage.darkMode);
   }
 
   private initForm() {
@@ -44,6 +48,18 @@ export class AppComponent implements OnInit, OnDestroy {
       startWith(''),
       map(val => this._filter(val)),
     );
+  }
+  private getUrl() {
+    const button = document.getElementById('#liveLink');
+    this.router.events.subscribe((val) => {
+      if (!this.router.url.includes('/live')){
+        button.className = 'title';
+        this.dataService.searchHide = false;
+      } else {
+        button.className = 'active';
+        this.dataService.searchHide = true;
+      }
+    });
   }
 
   private _filter(value: string): string[] {
@@ -66,9 +82,31 @@ export class AppComponent implements OnInit, OnDestroy {
     this.destroy$.complete();
   }
 
-  private setViewVars() {
-    this.dataService.searchHide = false;
-    this.dataService.episodeId = null;
-    this.dataService.title = 'Live Poker Tracker';
+
+  setDarkMode(mode?: string) {
+    // const container = document.getElementsByTagName('mat-card')[0];
+    const container = document.body;
+    if (!mode) {
+      mode = localStorage.darkMode === 'true' ? 'false' : 'true';
+    }
+    localStorage.darkMode = mode;
+    if (mode === 'true') {
+      container.className += ' dark';
+      this.mode = 'bright mode';
+    } else {
+      container.className = container.className.replace('dark', '');
+      this.mode = 'dark mode';
+
+    }
   }
+
+  routerLive(url: string) {
+    if (url.includes('/live')){
+      this.router.navigate(['/']).then();
+    } else {
+      this.router.navigate(['/live']).then();
+    }
+  }
+
+
 }

@@ -48,13 +48,10 @@ export class UserInfoComponent implements OnInit{
   }
   private setViewVars() {
     this.dataService.searchHide = false;
-    this.dataService.episodeId = null;
-    this.dataService.title = 'Live Poker Tracker';
   }
 
   private getUser(name: string): void {
     this.dataService.getUserInfo(name).subscribe((data) => {
-      console.log(data);
       this.asyncData$.next(data);
     });
   }
@@ -70,7 +67,6 @@ export class UserInfoComponent implements OnInit{
   private onData(val: IUserInfo) {
     this.userData = val;
     this.total = this.dataService.userScoreCalc(this.userData.total);
-    console.log(this.total);
     if (this.userData.games) {
       this.sortTable('date');
     }

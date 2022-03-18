@@ -8,8 +8,6 @@ import {map} from 'rxjs/operators';
   providedIn: 'root'
 })
 export class DataService {
-  public title = '';
-  public episodeId = '';
   public searchHide = false;
 
   constructor(

@@ -2,25 +2,35 @@
   <mat-card>
     <div class="header">
       <div class="header-wrapper">
-        <div class="title" [routerLink]="['/live']">
-          <p class="active">live stream</p> <div class="episode-id" *ngIf="dataService.episodeId"> | {{dataService.episodeId}}</div>
+        <div class="left-block" [routerLink]="['/']">
+          Trackingpoker.com
         </div>
-        <div class="icon">
-          dark mode
+        <div class="right-block">
+          <div class="title" (click)="routerLive(router.url)">
+            <p id='#liveLink' class="active">live stream</p>
+          </div>
+          <div class="icon" (click)="setDarkMode()">
+            {{mode}}
+          </div>
         </div>
+
       </div>
 
     </div>
-    <mat-card-title><div class="card-title-wrapper" [ngClass]="!dataService.searchHide ? 'wrapper-shift' : ''">Hustler Casino <div class="card-title-var"> {{dataService.title || 'Live Poker Tracker'}} </div></div></mat-card-title>
+    <mat-card-title>
+      <div id="#title" class="card-title-wrapper" [ngClass]="!dataService.searchHide ? 'wrapper-shift' : ''">Hustler Casino
+        <div class="card-title-var"> {{dataService.searchHide ? 'Live Stream' :  'Live Poker Tracker'}} </div>
+      </div>
+    </mat-card-title>
     <mat-card-subtitle>
-      <div class="subtitle-wrapper" [ngClass]="!dataService.searchHide ? 'wrapper-shift' : ''">
+      <div  id="#subTitle" class="subtitle-wrapper" [ngClass]="!dataService.searchHide ? 'wrapper-shift' : ''">
         Updated : 01/05/2022
       </div>
     </mat-card-subtitle>
     <div class="search" *ngIf="!dataService.searchHide">
       <form [formGroup]="form" class="example-form">
         <mat-form-field class="search-form-field" appearance="fill">
-<!--          <mat-label>| Search your favorite degenerate</mat-label>-->
+          <!--          <mat-label>| Search your favorite degenerate</mat-label>-->
           <input type="text"
                  placeholder="Search Your Favorite Poker Player"
                  aria-label="Number"
@@ -41,48 +51,59 @@
       <router-outlet></router-outlet>
     </mat-card-content>
     <div class="footer">
-      <div class="block">
-        <div class="title">
-          <p>DISCLAIMER</p>
+      <div class="footer-wrapper">
+        <div class="block">
+          <div class="title">
+            <p>DISCLAIMER</p>
+          </div>
+          <div class="text">
+            *Data provided by live stream “cumlative winnings”
+            <br>
+            ** This website was intended for entertainment purposes and not to use as any financial indicator or tax
+            purposes.
+            <br>
+            *** Players play off stream, wins and loss might are not be accurately reflected. This information is for on
+            stream only.
+          </div>
         </div>
-        <div class="text">
-          *Data provided by live stream “cumlative winnings”
-          <br>
-          ** This website was intended for entertainment purposes and not to use as any financial indicator or tax
-          purposes.
-          <br>
-          *** Players play off stream, wins and loss might are not be accurately reflected. This information is for on
-          stream only.
+        <div class="block">
+          <div class="title">
+            <p>Shout Out</p>
+          </div>
+          <div class="text">
+            *Shoutout to Ryan Fieldmen & Nick Vertucci for producing the stream.
+            <br>
+            **To the regulars, thanks for making the stream fun to watch.
+          </div>
+        </div>
+        <div class="block">
+          <div class="title">
+            <p>donations & Sponsorship🍻</p>
+          </div>
+          <div class="text">
+            *I created this site for the regular “chat pros” in the live chat and all the millionssss of viewers! You
+            guys
+            keep the stream entertaining and cheers to you. All of this work is for you guys! If anyone feels... “barry
+            generous”, I’ve provided my wallets for donations! If you like to be a sponsor for this site,
+          </div>
+          <div class="email-me">
+            <a class="email-me-link" href="mailto:imansiberia@icloud.com">
+              please email me here!
+            </a>
+          </div>
+          <div class="crypt-info">
+          <div class="item">Bitcoin</div>
+          <div class="item">|</div>
+          <div class="item">Eth</div>
+        </div>
+        </div>
+
+
+        <div class="ps">
+          *This website is in no way affiliated with the show, just a fan site.
         </div>
       </div>
-      <div class="block">
-        <div class="title">
-          <p>Shout Out</p>
-        </div>
-        <div class="text">
-          *Shoutout to Ryan Fieldmen & Nick Vertucci for producing the stream.
-          <br>
-          **To the regulars, thanks for making the stream fun to watch.
-        </div>
-      </div>
-      <div class="block">
-        <div class="title">
-          <p>donations & Sponsorship🍻</p>
-        </div>
-        <div class="text">
-          *I created this site for the regular “chat pros” in the live chat and all the millionssss of viewers! You guys
-          keep the stream entertaining and cheers to you. All of this work is for you guys! If anyone feels... “barry
-          generous”, I’ve provided my wallets for donations! If you like to be a sponsor for this site,
-        </div>
-      </div>
-      <div class="crypt-info">
-        <div class="item">Bitcoin</div>
-        <div class="item">|</div>
-        <div class="item">Eth</div>
-      </div>
-      <div class="ps">
-        *This website is in no way affiliated with the show, just a fan site.
-      </div>
+
     </div>
 
 

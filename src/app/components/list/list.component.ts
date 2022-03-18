@@ -76,4 +76,8 @@ export class ListComponent implements OnInit {
         break;
     }
   }
+
+  scrollTop() {
+    window.scrollTo(0, 0);
+  }
 }

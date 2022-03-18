@@ -56,8 +56,6 @@ export class GameInfoComponent implements OnInit {
   // tslint:disable-next-line:use-lifecycle-interface
   private setViewVars() {
     this.dataService.searchHide = true;
-    this.dataService.episodeId = this.data?.e;
-    this.dataService.title = 'Live Stream';
   }
 
   private getGameInfo(id: string) {
@@ -114,6 +112,5 @@ export class GameInfoComponent implements OnInit {
   private getYouTubeLink() {
     const tempLink = 'https://www.youtube.com/embed/' + this.data.yLink.split('=')[1].split('&')[0] + '?autoplay=1';
     this.youTubeLink = this.sanitizer.bypassSecurityTrustResourceUrl(tempLink || '');
-    // console.log(this.youTubeLink);
   }
 }
