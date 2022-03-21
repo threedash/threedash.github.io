@@ -2,11 +2,11 @@ $green: #11B479;
 $red: #FD0303;
 $gray: #E3E3E3;
 $black: #131314;
-//$width: 875px;
-$width: 600px;
+$width: 875px;
+//$width: 600px;
 
 * {
-  font-size: 16px;
+  //font-size: 16px;
   //line-height: 19px;
   font-family: "PT Mono", sans-serif;
 }
@@ -26,6 +26,9 @@ $width: 600px;
 
 
 ::ng-deep {
+  .m-b-75{
+    margin-bottom: 75px!important;
+  }
   .m-b-90{
     margin-bottom: 90px!important;
   }
@@ -54,7 +57,7 @@ $width: 600px;
     width: 100%;
     margin: 0 auto;
     justify-content: center;
-    //font-size: 32px;
+    font-size: 30px;
     .mat-paginator-container {
       display: flex;
       align-items: center;
@@ -68,7 +71,7 @@ $width: 600px;
     }
 
     .mat-paginator-icon {
-      //width: 40px;
+      width: 40px;
     }
   }
 
@@ -93,7 +96,7 @@ $width: 600px;
   .search {
     width: 100%;
     max-width: $width;
-    margin: 0 auto 30px;
+    margin: 0 auto 126px;
     //margin-bottom: 126px;
     .example-form{
       margin: 0 5px;
@@ -106,14 +109,18 @@ $width: 600px;
         border-radius: 10px !important;
         background: #F4F6FD !important;
         border: 3px solid #E6EBFE !important;
-        //padding: 17px 18px 23px 18px;
-        padding: 5px 10px;
+        padding: 9px 18px 15px 18px;
+        //padding: 5px 10px;
         input {
           font-weight: 700;
-          //font-size: 36px;
+          font-size: 24px;
           //line-height: 40px;
 
           color: #1F2126;
+        }
+        input::placeholder{
+          color: #1F2126;
+
         }
       }
 
@@ -147,8 +154,8 @@ $width: 600px;
     padding: 65px 0 0 0 !important;
     background-color: #FBFCFF !important;
 
-    //max-width: 1390px;
-    max-width: 1100px;
+    max-width: 1400px;
+    //max-width: 1100px;
     width: 100%;
 
     .game-info-video-block:last-of-type {
@@ -166,13 +173,14 @@ $width: 600px;
         //display: flex;
         width: 100%;
         max-width: $width;
-        //font-size: 24px;
+        font-size: 24px;
         border-bottom: 2px solid #F5F3F3;
         margin: 57px auto 0 auto;
         //margin-top: 57px;
         .title-row {
           display: flex;
           font-family: 'PT Sans Caption', sans-serif;
+          font-size: 24px;
           //line-height: 20px;
           letter-spacing: 0.05em;
           color: #000000;
@@ -205,7 +213,7 @@ $width: 600px;
 
         .game-name {
           font-weight: 400;
-          //line-height: 36px;
+          line-height: 36px;
           margin-bottom: 28px;
         }
 
@@ -223,8 +231,8 @@ $width: 600px;
       //font-family: "PT Mono", sans-serif !important;
       font-style: normal;
       font-weight: 400;
-      //font-size: 20px;
-      //line-height: 22px;
+      font-size: 20px;
+      line-height: 22px;
       letter-spacing: 0.05em;
       display: flex;
       align-content: center;
@@ -232,8 +240,8 @@ $width: 600px;
       //border-bottom: 1px solid $gray;
       //padding: 19px 0 13px 34px;
       text-transform: uppercase;
-      //margin: 0 auto 100px;
-      margin: 0 auto 70px;
+      margin: 0 auto 100px;
+      //margin: 0 auto 70px;
       max-width: $width;
 
       .header-wrapper {
@@ -241,6 +249,7 @@ $width: 600px;
         width: 100%;
         justify-content: space-between;
         margin: 0 5px;
+
         .right-block{
           display: flex;
           justify-content: flex-end;
@@ -249,17 +258,13 @@ $width: 600px;
             font-family: 'PT Mono', sans-serif;
             font-style: normal;
             font-weight: 400;
-            //font-size: 20px;
+            font-size: 20px;
             letter-spacing: 0.05em;
             text-transform: uppercase;
             color: #000000;
             cursor: pointer;
             display: flex;
             margin-right: 10px;
-
-            .episode-id {
-              margin-left: 20px;
-            }
 
             p.active {
               z-index: 2;
@@ -288,6 +293,7 @@ $width: 600px;
     }
 
     .icon {
+      margin-left: 37px;
       font-family: "PT Mono", sans-serif !important;
     }
 
@@ -301,10 +307,12 @@ $width: 600px;
       //margin-bottom: 16px!important;
       .card-title-wrapper {
         display: flex;
+        flex-wrap: wrap;
         justify-content: flex-start;
         max-width: $width;
         margin: 0 auto;
-        font-size: 22px !important;
+        font-size: 42px;
+        line-height: 47px;
 
 
         &.wrapper-shift {
@@ -314,7 +322,7 @@ $width: 600px;
         .card-title-var {
           color: #b32a20;
           margin-left: 20px;
-          font-size: 22px !important;
+          //font-size: 22px !important;
 
         }
       }
@@ -325,18 +333,19 @@ $width: 600px;
       //margin-top: 16px!important;
       //margin-bottom: 77px!important;
       width: 100%;
-      margin: 16px 5px 77px 5px !important;
+      margin: 24px 5px 77px 5px !important;
 
       .subtitle-wrapper {
         //margin: 0 5px;
         display: flex;
         justify-content: flex-start;
         max-width: $width;
-        margin: 0 auto;
+        //margin: 0 auto;
+        margin: 16px auto 0;
         width: 100%;
         font-family: 'PT Sans Caption', sans-serif !important;
         font-weight: 400 !important;
-        font-size: 20px !important;
+        font-size: 24px !important;
         color: #1F2126 !important;
 
         &.wrapper-shift {
@@ -376,7 +385,7 @@ $width: 600px;
               font-family: 'PT Sans Caption', sans-serif;
               font-style: normal;
               font-weight: 700;
-              //font-size: 24px;
+              font-size: 24px;
               //line-height: 20px;
               letter-spacing: 0.05em;
               color: #000000;
@@ -404,12 +413,13 @@ $width: 600px;
             font-family: 'PT Mono', sans-serif;
             font-style: normal;
             font-weight: 400;
-            //font-size: 20px;
-            //line-height: 30px;
+            font-size: 20px;
+            line-height: 30px;
             color: #000000;
           }
           .email-me{
-            margin-top: 20px;
+            font-size: 20px;
+            margin-top: 24px;
             .email-me-link{
               color: $black;
               text-decoration-line: unset;
@@ -433,7 +443,7 @@ $width: 600px;
             justify-content: flex-start;
             align-items: center;
             align-content: center;
-            margin-top: 10px;
+            margin-top: 24px;
 
             .item {
               cursor: pointer;
@@ -441,8 +451,8 @@ $width: 600px;
               font-family: 'PT Mono', sans-serif;
               font-style: normal;
               font-weight: 700;
-              //font-size: 20px;
-              //line-height: 22px;
+              font-size: 20px;
+              line-height: 22px;
               color: #000000;
             }
           }
@@ -472,24 +482,24 @@ $width: 600px;
     display: flex;
     flex-direction: column;
     width: 100%;
-    margin: 0 auto;
+    margin: 0 auto 42px;
 
     table {
       box-shadow: none !important;
       //padding: 0 5px 0 18px;
       //margin: 0 5px 0 18px;
-      margin: 0 auto;
-      //padding-left: 18px;
+      //margin: 0 auto;
+      padding-left: 18px;
       width: 100%;
       max-width: $width;
-      //margin: 0 auto 120px;
+      margin: 0 auto 120px;
       //margin-bottom: 120px;
       background-color: #FBFCFF !important;
 
       font-family: 'PT Sans Caption', sans-serif !important;
       font-style: normal !important;
       font-weight: 400 !important;
-      //font-size: 30px!important;
+      font-size: 30px!important;
       //line-height: 39px!important;
 
       thead {
@@ -511,15 +521,15 @@ $width: 600px;
         }
 
         tr {
-          //padding-top: 28px!important;
+          padding-top: 28px!important;
           border-bottom: none !important;
           //margin-bottom: 28px!important;
           td {
-            padding: 5px !important;
+            padding: 24px 5px 5px 5px !important;
             font-family: 'PT Sans Caption', sans-serif !important;
             font-style: normal !important;
-            //font-size: 30px!important;
-            //line-height: 39px!important;
+            font-size: 30px!important;
+            line-height: 39px!important;
             border-bottom: none !important;
           }
 
@@ -587,7 +597,7 @@ $width: 600px;
       font-family: 'PT Mono', sans-serif;
       font-style: normal;
       font-weight: 400;
-      //font-size: 32px;
+      font-size: 32px;
       //line-height: 36px;
 
     }
@@ -618,7 +628,7 @@ $width: 600px;
       font-family: 'PT Mono', sans-serif !important;
       font-style: normal;
       font-weight: 700;
-      //font-size: 32px;
+      font-size: 32px;
       //line-height: 36px;
       color: #1F2126;
       margin-bottom: 17px;
@@ -646,8 +656,8 @@ $width: 600px;
     font-family: 'PT Sans Caption', sans-serif;
     font-style: normal;
     font-weight: 700;
-    //font-size: 24px;
-    //line-height: 31px;
+    font-size: 24px;
+    line-height: 31px;
     color: #1F2126;
     cursor: pointer;
     z-index: 2;
@@ -691,6 +701,148 @@ $width: 600px;
   //}
   @media only screen and (max-width: 414px) {
     ::ng-deep {
+      .m-b-90 {
+        margin-bottom: 40px!important;
+      }
+      mat-card {
+        .mat-paginator-outer-container{
+          font-size: 20px;
+          .mat-paginator-icon {
+            width: 28px;
+          }
+        }
+        .header{
+          font-size: 14px;
+          line-height: 16px;
+          margin-bottom: 50px;
+          .right-block{
+            .title{
+              font-size: 14px!important;
+            }
+          }
+        }
+
+        .card-title-wrapper{
+          font-size: 28px!important;
+          line-height: 32px!important;
+        }
+
+        .search{
+          margin: 0 auto 62px;
+
+          .mat-form-field-flex {
+            padding: 0 5px !important;
+            input{
+              font-size: 16px!important;
+            }
+          }
+        }
+
+        .button-row{
+          button{
+            padding: 5px!important;
+          }
+          button:last-child {
+            margin-right: 0;
+          }
+          .mat-button-wrapper {
+            font-size: 14px;
+            //line-height: 36px;
+          }
+          .user {
+            font-size: 20px;
+          }
+        }
+
+        .table-wrapper {
+          margin: 0 auto 24px;
+          table {
+            padding-left: 5px;
+            margin: 0 auto 60px;
+            //font-size: 18px!important;
+            tbody {
+              tr {
+                padding-top: 18px!important;
+                td {
+                  padding: 12px 5px 5px 5px !important;;
+                  font-size: 18px!important;
+                  line-height: 24px!important;
+                }
+              }
+            }
+          }
+        }
+        .footer{
+          .footer-wrapper {
+            margin: 0 5px 50px 5px;
+            .block:first-child {
+              margin-top: 50px;
+            }
+            .block{
+              margin-bottom: 38px;
+              .title{
+                p{
+                  font-size: 16px;
+                  margin-bottom: 18px;
+
+                }
+              }
+              .text{
+                font-size: 14px;
+                line-height: 20px;
+              }
+              .email-me {
+                font-size: 14px;
+                margin-top: 18px;
+              }
+              .crypt-info {
+                margin-top: 18px;
+                .item {
+                  font-size: 16px;
+                  line-height: 20px;
+                }
+
+              }
+            }
+          }
+        }
+        .game-info-video-block-wrapper{
+          margin-top: 26px;
+          width: 99%;
+          .game-info-video-block {
+            font-size: 16px;
+            margin: 30px auto 0 auto;
+            .title-row {
+              font-size: 16px;
+              line-height: 18px;
+              margin-bottom: 28px;
+
+              .title-link {
+                margin-right: 48px;
+              }
+            }
+
+            .game-name {
+              line-height: 28px;
+              margin-bottom: 18px;
+            }
+
+            .video-frame {
+              width: 100%;
+              //height: 350px;
+              margin-bottom: 60px;
+
+            }
+          }
+        }
+        .see-more {
+          font-size: 18px;
+          line-height: 26px;
+          margin: 0 5px 60px;
+
+        }
+      }
+
       .card-title-wrapper {
         flex-wrap: wrap !important;
         justify-content: space-evenly !important;
@@ -859,7 +1011,7 @@ body.dark{
 
 
     .table-wrapper {
-
+      //margin-bottom: 43px;
       table {
         background-color: $black !important;
         color: white!important;
