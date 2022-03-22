@@ -4,8 +4,7 @@ import {FormBuilder, FormGroup} from '@angular/forms';
 import {Observable, Subject} from 'rxjs';
 import {map, startWith, takeUntil} from 'rxjs/operators';
 import {MatOptionSelectionChange} from '@angular/material/core';
-import {ActivatedRoute, Router} from '@angular/router';
-import { Location } from '@angular/common';
+import {Router} from '@angular/router';
 
 
 @Component({
@@ -14,12 +13,12 @@ import { Location } from '@angular/common';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent implements OnInit, OnDestroy {
-  title = 'poker-hustler';
   form: FormGroup = new FormGroup({});
   options: string[] = [];
   filteredOptions: Observable<string[]>;
   private destroy$ = new Subject();
   mode = 'dark mode';
+  lastUpdate = '';
 
   constructor(
     public dataService: DataService,
@@ -33,6 +32,7 @@ export class AppComponent implements OnInit, OnDestroy {
     this.initForm();
     this.initSubscription();
     this.getPlayersNames();
+    this.getUpdateDate();
     this.setDarkMode(localStorage.darkMode);
   }
 
@@ -51,12 +51,15 @@ export class AppComponent implements OnInit, OnDestroy {
   }
   private getUrl() {
     const button = document.getElementById('#liveLink');
+    const button2 = document.getElementById('#liveLinkMobile');
     this.router.events.subscribe((val) => {
       if (!this.router.url.includes('/live')){
         button.className = 'title';
+        button2.className = 'title';
         this.dataService.searchHide = false;
       } else {
         button.className = 'active';
+        button2.className = 'active';
         this.dataService.searchHide = true;
       }
     });
@@ -109,4 +112,8 @@ export class AppComponent implements OnInit, OnDestroy {
   }
 
 
+  private getUpdateDate() {
+    this.dataService.getUpdateDate().subscribe( val => this.lastUpdate = val );
+    console.log('this.lastUpdate ', this.lastUpdate);
+  }
 }

@@ -3,12 +3,15 @@ import {HttpClient} from '@angular/common/http';
 import {Observable} from 'rxjs';
 import {ICompetition, IPlayer, IUserInfo} from '../interfaces/itable';
 import {map} from 'rxjs/operators';
+import * as moment from 'moment';
 
 @Injectable({
   providedIn: 'root'
 })
 export class DataService {
   public searchHide = false;
+  public mobileSearchHide = true;
+  public mobileMenuHide = true;
 
   constructor(
     private httpClient: HttpClient,
@@ -27,6 +30,11 @@ export class DataService {
 
   getData(): Observable<ICompetition[]> {
     return this.httpClient.get<ICompetition[]>('/assets/games_new.json');
+  }
+  getUpdateDate(): Observable<string> {
+    return this.httpClient.get<ICompetition[]>('/assets/games_new.json').pipe(map((data) => {
+      return data.sort((a, b) => (moment(new Date(b.date)).diff(moment( new Date(a.date)))))[0].date;
+    }));
   }
 
   getPlayersNames(): Observable<string[] | []> {
