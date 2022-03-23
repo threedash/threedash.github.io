@@ -5,6 +5,8 @@ import {Observable, Subject} from 'rxjs';
 import {map, startWith, takeUntil} from 'rxjs/operators';
 import {MatOptionSelectionChange} from '@angular/material/core';
 import {Router} from '@angular/router';
+import {MatDialog} from '@angular/material/dialog';
+import {DialogComponent} from './components/dialog/dialog.component';
 
 
 @Component({
@@ -24,6 +26,7 @@ export class AppComponent implements OnInit, OnDestroy {
     public dataService: DataService,
     private fb: FormBuilder,
     public router: Router,
+    public dialog: MatDialog
   ) {
   }
 
@@ -49,11 +52,12 @@ export class AppComponent implements OnInit, OnDestroy {
       map(val => this._filter(val)),
     );
   }
+
   private getUrl() {
     const button = document.getElementById('#liveLink');
     const button2 = document.getElementById('#liveLinkMobile');
     this.router.events.subscribe((val) => {
-      if (!this.router.url.includes('/live')){
+      if (!this.router.url.includes('/live')) {
         button.className = 'title';
         button2.className = 'title';
         this.dataService.searchHide = false;
@@ -104,7 +108,7 @@ export class AppComponent implements OnInit, OnDestroy {
   }
 
   routerLive(url: string) {
-    if (url.includes('/live')){
+    if (url.includes('/live')) {
       this.router.navigate(['/']).then();
     } else {
       this.router.navigate(['/live']).then();
@@ -113,7 +117,16 @@ export class AppComponent implements OnInit, OnDestroy {
 
 
   private getUpdateDate() {
-    this.dataService.getUpdateDate().subscribe( val => this.lastUpdate = val );
+    this.dataService.getUpdateDate().subscribe(val => this.lastUpdate = val);
     console.log('this.lastUpdate ', this.lastUpdate);
+  }
+
+  openDialog(type: string, wallet: string) {
+    this.dialog.open(DialogComponent, {
+      data: {
+        type,
+        wallet,
+      }
+    });
   }
 }

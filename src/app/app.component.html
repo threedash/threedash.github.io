@@ -1,24 +1,46 @@
 <div class="container">
-  <mat-card>
-    <mat-drawer-container class="sidebar-container" autosize>
-      <mat-drawer #drawer mode="side" position="end">
-        <div>
-          <div class="title" (click)="routerLive(router.url)">
-            <p id='#liveLinkMobile' class="active">live stream</p>
-          </div>
-          <div class="icon" (click)="setDarkMode()">
-            {{mode}}
-          </div>
+  <mat-drawer-container class="sidebar-container" hasBackdrop="true" autosize>
+    <mat-drawer #drawer mode="over" position="end">
+      <div class="drawer-wrapper">
+        <div class="close-button-row">
+          <mat-icon class="material-icons" (click)="drawer.close()">close</mat-icon>
         </div>
-      </mat-drawer>
-      <mat-drawer-content>
+        <div class="title" (click)="routerLive(router.url)">
+          <p id='#liveLinkMobile' class="active">live stream</p>
+        </div>
+        <div class="icon" (click)="setDarkMode()">
+          {{mode}}
+        </div>
+      </div>
+    </mat-drawer>
+    <mat-drawer-content>
+      <mat-card>
         <div class="header">
           <div class="header-wrapper">
             <div class="left-block" [routerLink]="['/']">
               {{  !dataService.mobileSearchHide ? 'tp.com' : 'trackingpoker.com'}}
             </div>
             <div class="right-block-mobile">
-              <div (click)="dataService.mobileSearchHide = !dataService.mobileSearchHide" class="mobile-icon-search"><p
+              <div class="search-mobile" *ngIf="!dataService.mobileSearchHide">
+                <form [formGroup]="form" class="example-form">
+                  <mat-form-field class="search-form-field" appearance="fill">
+                    <!--          <mat-label>| Search your favorite degenerate</mat-label>-->
+                    <input type="text"
+                           placeholder="Search"
+                           matInput
+                           formControlName="search"
+                           class="search-input"
+                           [matAutocomplete]="auto">
+                    <mat-autocomplete class="mat-option-mobile" #auto="matAutocomplete">
+                      <mat-option (onSelectionChange)="getUser($event)" *ngFor="let option of filteredOptions | async"
+                                  [value]="option">
+                        {{option}}
+                      </mat-option>
+                    </mat-autocomplete>
+                  </mat-form-field>
+                </form>
+              </div>
+              <div *ngIf="dataService.mobileSearchHide" (click)="dataService.mobileSearchHide = !dataService.mobileSearchHide" class="mobile-icon-search"><p
                 class="menu-icon"></p></div>
 
               <div class="mobile-icon-menu" (click)="drawer.toggle()"><p class="menu-icon"></p></div>
@@ -36,99 +58,103 @@
 
         </div>
 
-      </mat-drawer-content>
-    </mat-drawer-container>
-    <mat-card-title>
-      <div id="#title" class="card-title-wrapper" [ngClass]="!dataService.searchHide ? 'wrapper-shift' : ''">Hustler
-        Casino
-        <div class="card-title-var"> {{dataService.searchHide ? 'Live Stream' : 'Live Poker Tracker'}} </div>
-      </div>
-    </mat-card-title>
-    <mat-card-subtitle>
-      <div id="#subTitle" class="subtitle-wrapper" [ngClass]="!dataService.searchHide ? 'wrapper-shift' : ''">
-        Updated : {{ lastUpdate | date: 'shortDate' || 'not set'}}
-      </div>
-    </mat-card-subtitle>
-    <div class="search" *ngIf="!dataService.searchHide">
-      <form [formGroup]="form" class="example-form">
-        <mat-form-field class="search-form-field" appearance="fill">
-          <!--          <mat-label>| Search your favorite degenerate</mat-label>-->
-          <input type="text"
-                 placeholder="Search Your Favorite Poker Player"
-                 aria-label="Number"
-                 matInput
-                 formControlName="search"
-                 class="search-input"
-                 [matAutocomplete]="auto">
-          <mat-autocomplete #auto="matAutocomplete">
-            <mat-option (onSelectionChange)="getUser($event)" *ngFor="let option of filteredOptions | async"
-                        [value]="option">
-              {{option}}
-            </mat-option>
-          </mat-autocomplete>
-        </mat-form-field>
-      </form>
-    </div>
-    <mat-card-content>
-      <router-outlet></router-outlet>
-    </mat-card-content>
-    <div class="footer">
-      <div class="footer-wrapper">
-        <div class="block">
-          <div class="title">
-            <p>DISCLAIMER</p>
+
+        <mat-card-title>
+          <div id="#title" class="card-title-wrapper" [ngClass]="!dataService.searchHide ? 'wrapper-shift' : ''">Hustler
+            Casino
+            <div class="card-title-var"> {{dataService.searchHide ? 'Live Stream' : 'Live Poker Tracker'}} </div>
           </div>
-          <div class="text">
-            *Data provided by live stream “cumulative winnings” and basic math.
-            <br>
-            ** This website was intended for entertainment purposes and not to use as any financial indicator or tax
-            purposes.
-            <br>
-            *** Players play off stream, wins and loss might are not be accurately reflected. This information is for on
-            stream only.
+        </mat-card-title>
+        <mat-card-subtitle>
+          <div id="#subTitle" class="subtitle-wrapper" [ngClass]="!dataService.searchHide ? 'wrapper-shift' : ''">
+            Updated : {{ lastUpdate | date: 'shortDate' || 'not set'}}
           </div>
+        </mat-card-subtitle>
+        <div class="search" *ngIf="!dataService.searchHide">
+          <form [formGroup]="form" class="example-form">
+            <mat-form-field class="search-form-field" appearance="fill">
+              <!--          <mat-label>| Search your favorite degenerate</mat-label>-->
+              <input type="text"
+                     placeholder="Search Your Favorite Poker Player"
+                     aria-label="Number"
+                     matInput
+                     formControlName="search"
+                     class="search-input"
+                     [matAutocomplete]="auto">
+              <mat-autocomplete #auto="matAutocomplete">
+                <mat-option (onSelectionChange)="getUser($event)" *ngFor="let option of filteredOptions | async"
+                            [value]="option">
+                  {{option}}
+                </mat-option>
+              </mat-autocomplete>
+            </mat-form-field>
+          </form>
         </div>
-        <div class="block">
-          <div class="title">
-            <p>Shout Out</p>
-          </div>
-          <div class="text">
-            *Shout out to Nick Vertucci & Ryan Feldman & Team for producing a great stream!
-            <br>
-            **To the regulars, thanks for making the stream fun to watch.
-          </div>
-        </div>
-        <div class="block">
-          <div class="title">
-            <p>donations & Sponsorship🍻</p>
-          </div>
-          <div class="text">
-            *I created this site for the regular “chat pros” in the live chat and all the millionssss of viewers! You
-            guys
-            keep the stream entertaining and cheers to you. All of this work is for you guys! If anyone feels... “barry
-            generous”, I’ve provided my wallets for donations! If you like to be a sponsor for this site, <span
-            class="email-me">
+        <mat-card-content>
+          <router-outlet></router-outlet>
+        </mat-card-content>
+        <div class="footer">
+          <div class="footer-wrapper">
+            <div class="block">
+              <div class="title">
+                <p>DISCLAIMER</p>
+              </div>
+              <div class="text">
+                *Data provided by live stream “cumulative winnings” and basic math.
+                <br>
+                ** This website was intended for entertainment purposes and not to use as any financial indicator or tax
+                purposes.
+                <br>
+                *** Players play off stream, wins and loss might are not be accurately reflected. This information is
+                for on
+                stream only.
+              </div>
+            </div>
+            <div class="block">
+              <div class="title">
+                <p>Shout Out</p>
+              </div>
+              <div class="text">
+                *Shout out to Nick Vertucci & Ryan Feldman & Team for producing a great stream!
+                <br>
+                **To the regulars, thanks for making the stream fun to watch.
+              </div>
+            </div>
+            <div class="block">
+              <div class="title">
+                <p>donations & Sponsorship🍻</p>
+              </div>
+              <div class="text">
+                *I created this site for the regular “chat pros” in the live chat and all the millionssss of viewers!
+                You
+                guys
+                keep the stream entertaining and cheers to you. All of this work is for you guys! If anyone feels...
+                “barry
+                generous”, I’ve provided my wallets for donations! If you like to be a sponsor for this site, <span
+                class="email-me">
             <a class="email-me-link" href="mailto:itsbryandesigns@gmail.com">
               please email me here!
             </a>
           </span>
+              </div>
+
+              <div class="crypt-info">
+                <div class="item" (click)="openDialog('btc', 'bc1qt6erj4x78x3uhmw9jelyvpw5wpw56a9q6xcxh5')">Bitcoin</div>
+                <div class="item">|</div>
+                <div class="item" (click)="openDialog('eth', '0x55d53EF0f99816e94e9AcbD1e86787DD25cFD219')">Eth</div>
+              </div>
+            </div>
+
+
+            <div class="ps">
+              *This website is in no way affiliated with the show, just a fan site.
+            </div>
           </div>
 
-          <div class="crypt-info">
-            <div class="item">Bitcoin</div>
-            <div class="item">|</div>
-            <div class="item">Eth</div>
-          </div>
         </div>
 
-
-        <div class="ps">
-          *This website is in no way affiliated with the show, just a fan site.
-        </div>
-      </div>
-
-    </div>
-
-  </mat-card>
+      </mat-card>
+    </mat-drawer-content>
+  </mat-drawer-container>
 </div>
 

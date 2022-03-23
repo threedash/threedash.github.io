@@ -22,3 +22,7 @@ export interface IUserGame {
   title: string;
   score: number | string;
 }
+export interface IDialog {
+  type: string;
+  wallet: string;
+}

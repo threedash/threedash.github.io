@@ -20,6 +20,9 @@ import {MatIconModule} from '@angular/material/icon';
 import {MatPaginatorModule} from '@angular/material/paginator';
 import { LiveComponent } from './components/live/live.component';
 import {MatSidenavModule} from '@angular/material/sidenav';
+import { DialogComponent } from './components/dialog/dialog.component';
+import {MatDialog, MatDialogModule} from '@angular/material/dialog';
+import {ClipboardModule} from '@angular/cdk/clipboard';
 
 @NgModule({
   declarations: [
@@ -27,26 +30,29 @@ import {MatSidenavModule} from '@angular/material/sidenav';
     ListComponent,
     UserInfoComponent,
     GameInfoComponent,
-    LiveComponent
+    LiveComponent,
+    DialogComponent
   ],
-    imports: [
-        BrowserModule,
-        AppRoutingModule,
-        BrowserAnimationsModule,
-        HttpClientModule,
-        MatTableModule,
-        CdkTableModule,
-        MatCardModule,
-        MatFormFieldModule,
-        MatAutocompleteModule,
-        MatInputModule,
-        ReactiveFormsModule,
-        MatButtonModule,
-        MatIconModule,
-        MatPaginatorModule,
-        MatSidenavModule
-    ],
-  providers: [],
+  imports: [
+    BrowserModule,
+    AppRoutingModule,
+    BrowserAnimationsModule,
+    HttpClientModule,
+    MatTableModule,
+    CdkTableModule,
+    MatCardModule,
+    MatFormFieldModule,
+    MatAutocompleteModule,
+    MatInputModule,
+    ReactiveFormsModule,
+    MatButtonModule,
+    MatIconModule,
+    MatPaginatorModule,
+    MatSidenavModule,
+    MatDialogModule,
+    ClipboardModule
+  ],
+  providers: [MatDialog],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

@@ -1,0 +1,19 @@
+<div class="close-icon">
+  <mat-icon class="material-icons" (click)="dialogRef.close()">close</mat-icon>
+</div>
+<div class="dialog-wrapper">
+  <div class="qr-code">
+    <span class="qr-code-image" [ngClass]="data.type"></span>
+  </div>
+  <div class="dialog-footer">
+    <div class="dialog-footer-wrapper">
+      <div class="text-block">
+        {{data.wallet}}
+      </div>
+      <div class="copy-icon">
+        <mat-icon class="material-icons copy-icon-url" [cdkCopyToClipboard]="data.wallet">content_copy</mat-icon>
+      </div>
+    </div>
+
+  </div>
+</div>
