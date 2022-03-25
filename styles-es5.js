@@ -85,7 +85,7 @@
       "names": [],
       "mappings": "AAAA,8EAAA;AAEA;EAAa,YAAA;ACCb;ADAA;EAAO,SAAA;EAAW,iDAAA;ACKlB",
       "file": "styles.scss",
-      "sourcesContent": ["/* You can add global styles to this file, and also import other style files */\n\nhtml, body { height: 100%; }\nbody { margin: 0; font-family: Roboto, \"Helvetica Neue\", sans-serif; }\n", "/* You can add global styles to this file, and also import other style files */\nhtml, body {\n  height: 100%;\n}\n\nbody {\n  margin: 0;\n  font-family: Roboto, \"Helvetica Neue\", sans-serif;\n}"]
+      "sourcesContent": ["/* You can add global styles to this file, and also import other style files */\n\nhtml, body { height: 100%; }\nbody { margin: 0; font-family: Roboto, \"Helvetica Neue\", sans-serif;\n\n}\n\n", "/* You can add global styles to this file, and also import other style files */\nhtml, body {\n  height: 100%;\n}\n\nbody {\n  margin: 0;\n  font-family: Roboto, \"Helvetica Neue\", sans-serif;\n}"]
     }]); // Exports
 
     module.exports = exports;
