@@ -890,7 +890,6 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
           this.dataService.getUpdateDate().subscribe(function (val) {
             return _this4.lastUpdate = val;
           });
-          console.log('this.lastUpdate ', this.lastUpdate);
         }
       }, {
         key: "openDialog",
@@ -3287,7 +3286,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
         if (rf & 2) {
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](3);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate2"]("", ctx.userId, " ", ctx.userData.games.length ? "(" + ctx.userData.games.length + ")" : "", "");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate2"]("", ctx.userId, " ", (ctx.userData == null ? null : ctx.userData.games == null ? null : ctx.userData.games.length) ? "(" + ctx.userData.games.length + ")" : "", "");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
 

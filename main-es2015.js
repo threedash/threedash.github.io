@@ -581,7 +581,6 @@ class AppComponent {
     }
     getUpdateDate() {
         this.dataService.getUpdateDate().subscribe(val => this.lastUpdate = val);
-        console.log('this.lastUpdate ', this.lastUpdate);
     }
     openDialog(type, wallet) {
         this.dialog.open(_components_dialog_dialog_component__WEBPACK_IMPORTED_MODULE_4__["DialogComponent"], {
@@ -1830,7 +1829,7 @@ UserInfoComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefine
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](7, UserInfoComponent_div_7_Template, 16, 3, "div", 4);
     } if (rf & 2) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](3);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate2"]("", ctx.userId, " ", ctx.userData.games.length ? "(" + ctx.userData.games.length + ")" : "", "");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate2"]("", ctx.userId, " ", (ctx.userData == null ? null : ctx.userData.games == null ? null : ctx.userData.games.length) ? "(" + ctx.userData.games.length + ")" : "", "");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("ngClass", ctx.total > 0 ? "green" : "red");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
