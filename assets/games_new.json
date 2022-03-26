@@ -120,7 +120,7 @@
         "result": "-$2,010"
       },
       {
-        "player": "Isreali Ron",
+        "player": "Israeli Ron",
         "result": "-$4,590"
       },
       {
@@ -1137,7 +1137,7 @@
         "result": "$3,640"
       },
       {
-        "player": "Francisco The Pro",
+        "player": "Francisco",
         "result": "-$400"
       },
       {
@@ -4884,7 +4884,7 @@
         "result": "$5,180"
       },
       {
-        "player": "Isreali Ron",
+        "player": "Israeli Ron",
         "result": "$700"
       },
       {
@@ -5109,7 +5109,7 @@
         "result": "$5,305"
       },
       {
-        "player": "Isreali Ron",
+        "player": "Israeli Ron",
         "result": "$32,740"
       },
       {
@@ -5195,7 +5195,7 @@
         "result": "$50,400"
       },
       {
-        "player": "Isreali Ron",
+        "player": "Israeli Ron",
         "result": "$27,400"
       },
       {
@@ -5432,7 +5432,7 @@
         "result": "-$6,000"
       },
       {
-        "player": "Isreali Ron",
+        "player": "Israeli Ron",
         "result": "-$95,500"
       },
       {
@@ -6811,7 +6811,7 @@
         "result": "-$90,300"
       },
       {
-        "player": "Isreali Ron",
+        "player": "Israeli Ron",
         "result": "-$29,650"
       },
       {
@@ -6824,5 +6824,257 @@
       }
     ],
     "total": "$450"
+  },
+  {
+    "e": "Episode 150",
+    "date": "03/14/22",
+    "yTitle": "GARRETT ADELSTEIN & POKER BUNNY PLAY $25/50!!! - Commentary by DGAF",
+    "yLink": "https://www.youtube.com/watch?v=2XAISa1nSbg",
+    "players": [
+      {
+        "player": "Poker Bunny",
+        "result": "$7,525"
+      },
+      {
+        "player": "Garrett Adelstein",
+        "result": "-$13,200"
+      },
+      {
+        "player": "Brian Kim",
+        "result": "$13,250"
+      },
+      {
+        "player": "Ronnie",
+        "result": "-$800"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "$4,075"
+      },
+      {
+        "player": "Barry Woods",
+        "result": "-$10,000"
+      },
+      {
+        "player": "David (unibomber)",
+        "result": "$9,450"
+      },
+      {
+        "player": "Dayli",
+        "result": "-$10,300"
+      }
+    ],
+    "total": "$0"
+  },
+  {
+    "e": "Episode 151",
+    "date": "03/15/22",
+    "yTitle": "Barry, Nick, Ronnie, Big John, Mayhem - $5/5/100 Ante Game - Commentary by DGAF",
+    "yLink": "https://www.youtube.com/watch?v=jyv4_SnsVps",
+    "players": [
+      {
+        "player": "Barry Woods",
+        "result": "-$17,535"
+      },
+      {
+        "player": "Francisco",
+        "result": "$28,635"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "-$15,805"
+      },
+      {
+        "player": "Ronnie",
+        "result": "-$22,715"
+      },
+      {
+        "player": "Big John",
+        "result": "$12,320"
+      },
+      {
+        "player": "Mayhem",
+        "result": "-$16,415"
+      },
+      {
+        "player": "Victor",
+        "result": "$20,840"
+      },
+      {
+        "player": "Mike Nia",
+        "result": "-$5,975""
+      },
+      {
+        "player": "Jeremy",
+        "result": "$16,650"
+      }
+    ],
+    "total": "$0"
+  },
+  {
+    "e": "Episode 152",
+    "date": "03/16/22",
+    "yTitle": "HIGH STAKES SHORT DECK!! $50/100 w/ Suited Superman - Commentary by DGAF & RaverPoker",
+    "yLink": "https://www.youtube.com/watch?v=KxVT74NXWzM",
+    "players": [
+      {
+        "player": "Jimmy",
+        "result": "$0"
+      },
+      {
+        "player": "Bill",
+        "result": "$7,812"
+      },
+      {
+        "player": "Suited Superman",
+        "result": "$25,975"
+      },
+      {
+        "player": "David Wu",
+        "result": "$71,863"
+      },
+      {
+        "player": "Steve (asian)",
+        "result": "-$12,650"
+      },
+      {
+        "player": "Max",
+        "result": "-$2,600"
+      },
+      {
+        "player": "Ricky",
+        "result": "-$19,525"
+      },
+      {
+        "player": "Mars",
+        "result": "-$121,475"
+      },
+     
+    ],
+    "total": "$0"
+  },
+  {
+    "e": "Episode 153",
+    "date": "03/17/22",
+    "yTitle": "Barry, RB, Nick Vertucci & Dr. Eli Play $5/5/100 Ante Game - Commentary by David Tuchman",
+    "yLink": "https://www.youtube.com/watch?v=ylxrtWVy3Dc",
+    "players": [
+      {
+        "player": "Mark",
+        "result": "$36,915"
+      },
+      {
+        "player": "Freddy",
+        "result": "$22,430"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "$8,150"
+      },
+      {
+        "player": "Barry Woods",
+        "result": "-$2,150"
+      },
+      {
+        "player": "Salim",
+        "result": "-$3,385"
+      },
+      {
+        "player": "Dr. Eli",
+        "result": "-$4,855"
+      },
+      {
+        "player": "LG",
+        "result": "-$7,190"
+      },
+      {
+        "player": "Big John",
+        "result": "-$20,910"
+      },
+      {
+        "player": "RB",
+        "result": "-$29,005"
+      }
+    ],
+    "total": "$0"
+  },
+  {
+    "e": "Episode 154",
+    "date": "03/18/22",
+    "yTitle": "SUPER HIGH STAKES $100/200 w/ Garrett Adelstein, Poker Bunny & Wesley - Commentary by Marc Goone",
+    "yLink": "https://www.youtube.com/watch?v=Z_Tku9uYmMY",
+    "players": [
+      {
+        "player": "Garrett Adelstein",
+        "result": "$301,800"
+      },
+      {
+        "player": "Ryan Feldman",
+        "result": "$6,300"
+      },
+      {
+        "player": "David (unibomer)",
+        "result": "$5,300"
+      },
+      {
+        "player": "Poker Bunny",
+        "result": "$17,000"
+      },
+      {
+        "player": "Boris",
+        "result": "-$35,000"
+      },
+      {
+        "player": "Tiger",
+        "result": "-$37,900"
+      },
+      {
+        "player": "Ben Lee",
+        "result": "-$148,400"
+      },
+      {
+        "player": "Wesley",
+        "result": "-$75,000"
+      }
+    ],
+    "total": "$34,100"
+  },
+  {
+    "e": "Episode 155",
+    "date": "03/21/22",
+    "yTitle": "Mariano, Ronnie & Brian Kim Play $25/50 - Commentary by DGAF",
+    "yLink": "https://www.youtube.com/watch?v=GpT_6Hzro7U",
+    "players": [
+      {
+        "player": "Mariano",
+        "result": "$51,100"
+      },
+      {
+        "player": "Brian Kim",
+        "result": "-$8,850"
+      },
+      {
+        "player": "Ronnie",
+        "result": "-$12,850"
+      },
+      {
+        "player": "Salim",
+        "result": "$125"
+      },
+      {
+        "player": "Eric (mole)",
+        "result": "-$3750"
+      },
+      {
+        "player": "Ryan (Canadian)",
+        "result": "-$75"
+      },
+      {
+        "player": "Candie",
+        "result": "-$25,700"
+      }
+  
+    ],
+    "total": "$0"
   }
 ]
