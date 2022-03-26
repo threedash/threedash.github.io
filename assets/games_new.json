@@ -7076,5 +7076,95 @@
   
     ],
     "total": "$0"
+  },
+    {
+    "e": "Episode 157",
+    "date": "03/23/22",
+    "yTitle": "DGAF, Richard, RaverPoker & Vegas Vinh Play $10/20!!! Commentary by David Tuchman",
+    "yLink": "https://www.youtube.com/watch?v=dBNrBpvCyDc",
+    "players": [
+      {
+        "player": "Dylan (off the bench)",
+        "result": "$19,010"
+      },
+      {
+        "player": "Josh Remitio",
+        "result": "$12,460"
+      },
+      {
+        "player": "Richard (white claw)",
+        "result": "$11,160"
+      },
+      {
+        "player": "Vegas Vinh",
+        "result": "$5,200"
+      },
+      {
+        "player": "Ernie",
+        "result": "$2,600"
+      },
+      {
+        "player": "Darren",
+        "result": "$980"
+      },
+      {
+        "player": "Raver Poker",
+        "result": "-$1,130"
+      },
+      {
+        "player": "DGAF",
+        "result": "-$4,750"
+      },
+      {
+        "player": "Ted",
+        "result": "-$45,530"
+      }
+    ],
+    "total": "$0"
+  },
+  {
+    "e": "Episode 158",
+    "date": "03/24/22",
+    "yTitle": "Barry, Francisco, Eli, Nick, Vahe - $5/5/100 Ante Game - Commentary by RaverPoker",
+    "yLink": "https://www.youtube.com/watch?v=qwoYjeL3KO8",
+    "players": [
+      {
+        "player": "Victor",
+        "result": "$27,160"
+      },
+      {
+        "player": "Francisco",
+        "result": "$11,150"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "$4,885"
+      },
+      {
+        "player": "Hish",
+        "result": "$3,795"
+      },
+      {
+        "player": "David (unibomber)",
+        "result": "-$1,565"
+      },
+      {
+        "player": "Vahe",
+        "result": "-$4,220"
+      },
+      {
+        "player": "Eli",
+        "result": "-$6,940"
+      },
+      {
+        "player": "Mike X",
+        "result": "-$15,000"
+      },
+      {
+        "player": "Barry Woods",
+        "result": "-$19,265"
+      }
+    ],
+    "total": "$0"
   }
 ]
