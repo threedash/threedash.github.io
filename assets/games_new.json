@@ -7124,5 +7124,42 @@
       }
     ],
     "total": "$0"
+  },
+    {
+    "e": "Episode 159",
+    "date": "03/25/22",
+    "yTitle": "HIGH STAKES $50/100/200 w/ Garrett Adelstein, Double M, Nick, Mike Nia - Commentary by David Tuchman",
+    "yLink": "https://www.youtube.com/watch?v=wHDR8mMbZDE",
+    "players": [
+      {
+        "player": "Double M",
+        "result": "$81,925"
+      },
+      {
+        "player": "Jon",
+        "result": "$75,925"
+      },
+      {
+        "player": "Big John",
+        "result": "$31,050"
+      },
+      {
+        "player": "Mike Nia",
+        "result": "$14,050"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "-$19,900"
+      },
+      {
+        "player": "Garrett Adelstein",
+        "result": "-$52,200"
+      },
+      {
+        "player": "J.R.",
+        "result": "-$130,850"
+      }
+    ],
+    "total": "$0"
   }
 ]
