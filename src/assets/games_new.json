@@ -7171,6 +7171,139 @@
       }
     ],
     "total": "$0"
+  },
+  {
+    "e": "Episode 159",
+    "date": "03/25/22",
+    "yTitle": "HIGH STAKES $50/100/200 w/ Garrett Adelstein, Double M, Nick, Mike Nia - Commentary by David Tuchman",
+    "yLink": "https://www.youtube.com/watch?v=wHDR8mMbZDE",
+    "players": [
+      {
+        "player": "Double M",
+        "result": "$81,925"
+      },
+      {
+        "player": "Jon",
+        "result": "$75,925"
+      },
+      {
+        "player": "Big John",
+        "result": "$31,050"
+      },
+      {
+        "player": "Mike Nia",
+        "result": "$14,050"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "-$19,900"
+      },
+      {
+        "player": "Garrett Adelstein",
+        "result": "-$52,200"
+      },
+      {
+        "player": "J.R.",
+        "result": "-$130,850"
+      }
+    ],
+    "total": "$0"
+  },
+  {
+    "e": "Episode 160",
+    "date": "03/28/22",
+    "yTitle": "PHIL HELLMUTH, MIKKI, Phora, Wesley & Ben Play $25/50!!! Commentary by Lon McEachern & Norman Chad",
+    "yLink": "https://www.youtube.com/watch?v=5idCpUOo_aE",
+    "players": [
+      {
+        "player": "Mike Nia",
+        "result": "$29,125"
+      },
+      {
+        "player": "Wesley",
+        "result": "$25,975"
+      },
+      {
+        "player": "Phil Hellmuth",
+        "result": "$18,400"
+      },
+      {
+        "player": "Francisco",
+        "result": "$6,425"
+      },
+      {
+        "player": "Richard (white claw)",
+        "result": "$5,775"
+      },
+      {
+        "player": "Jason",
+        "result": "$1,050"
+      },
+      {
+        "player": "Barry Wallace",
+        "result": "$775"
+      },
+      {
+        "player": "Sunny",
+        "result": "-$15,225"
+      },
+      {
+        "player": "Ben Lee",
+        "result": "-$40,175"
+      },
+      {
+        "player": "Mikki",
+        "result": "-$15,000"
+      }, {
+        "player": "Phora",
+        "result": "-$17,125"
+      }
+    ],
+    "total": "$0"
+  },
+  {
+    "e": "Episode 161",
+    "date": "03/29/22",
+    "yTitle": "Garrett Adelstein & DGAF Commentate on $5/5/100 w/ DJ Washburn & Nick Vertucci",
+    "yLink": "https://www.youtube.com/watch?v=EAOtDFTSrHg",
+    "players": [
+      {
+        "player": "KGB",
+        "result": "$13,665"
+      },
+      {
+        "player": "Sammy",
+        "result": "$12,565"
+      },
+      {
+        "player": "Eli",
+        "result": "$1,260"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "$800"
+      },
+      {
+        "player": "Ronnie",
+        "result": "-$530"
+      },
+      {
+        "player": "DJ Washburn",
+        "result": "-$5,355"
+      },
+      {
+        "player": "Mayhem",
+        "result": "-$5,790"
+      },
+      {
+        "player": "Big John",
+        "result": "-$7,060"
+      },
+      {
+        "player": "Victor",
+        "result": "-$9,555"
+      }
+    ],
+    "total": "$0"
   }
-
 ]
