@@ -5,7 +5,7 @@
   <div class="qr-code">
     <span class="qr-code-image" [ngClass]="data.type"></span>
   </div>
-  <div class="dialog-footer">
+  <div class="dialog-footer" *ngIf="data.wallet">
     <div class="dialog-footer-wrapper">
       <div class="text-block">
         {{data.wallet}}

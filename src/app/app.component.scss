@@ -8,7 +8,7 @@ $width: 875px;
 * {
   //font-size: 16px;
   //line-height: 19px;
-  font-family: "PT Mono", sans-serif;
+  font-family: 'JetBrains Mono', monospace;
 }
 
 
@@ -21,7 +21,6 @@ $width: 875px;
   align-content: center;
   align-items: baseline;
   justify-content: flex-start;
-  padding-bottom: 50px;
 }
 
 
@@ -165,6 +164,9 @@ $width: 875px;
         .title{
           margin: 29px 0 23px 0;
         }
+        .title:hover{
+          //background-color: black;
+        }
         .active{
           margin: 29px 0 23px 0;
         }
@@ -182,7 +184,7 @@ $width: 875px;
     }
     .title {
       //font-family: "PT Mono", sans-serif !important;
-      font-family: 'PT Mono', sans-serif;
+      font-family: 'JetBrains Mono', monospace;
       font-style: normal;
       font-weight: 400;
       font-size: 14px;
@@ -220,7 +222,7 @@ $width: 875px;
       //margin-left: 37px;
       text-transform: uppercase;
       cursor: pointer;
-      font-family: "PT Mono", sans-serif !important;
+      font-family: 'JetBrains Mono', monospace !important;
     }
 
     .icon:hover {
@@ -335,7 +337,7 @@ $width: 875px;
 
           .title {
             //font-family: "PT Mono", sans-serif !important;
-            font-family: 'PT Mono', sans-serif;
+            font-family: 'JetBrains Mono', monospace;
             font-style: normal;
             font-weight: 400;
             font-size: 20px;
@@ -372,12 +374,16 @@ $width: 875px;
           .icon {
             //margin-left: 37px;
             cursor: pointer;
-            font-family: "PT Mono", sans-serif !important;
+            font-family: 'JetBrains Mono', monospace !important;
           }
 
           .icon:hover {
             color: #FFC83C;
           }
+        }
+
+        .right-block-mobile{
+          display: none;
         }
 
 
@@ -409,6 +415,9 @@ $width: 875px;
         margin: 0 auto;
         font-size: 42px;
         line-height: 47px;
+        p {
+          margin-right: 20px;
+        }
 
 
         &.wrapper-shift {
@@ -416,8 +425,8 @@ $width: 875px;
         }
 
         .card-title-var {
-          color: #b32a20;
-          margin-left: 20px;
+          color: #FD0303;
+          //margin-left: 20px;
           //font-size: 22px !important;
 
         }
@@ -668,7 +677,7 @@ $width: 875px;
         }
         td:nth-child(2) {
           font-size: 20px !important;
-          font-weight: 400;
+          //font-weight: 400;
         }
 
         td:first-child {
@@ -692,7 +701,7 @@ $width: 875px;
   }
 
   .button-row {
-    //display: flex;
+    display: flex;
     max-width: $width;
     border-bottom: 3px solid #F5F3F3;
     margin: 0 auto;
@@ -811,7 +820,7 @@ $width: 875px;
   //    background: #FFC83C;
   //    z-index: -1;
   //}
-  @media only screen and (max-width: 414px) {
+  @media only screen and (max-width: 600px) {
     ::ng-deep {
       .m-b-90 {
         margin-bottom: 40px !important;
@@ -866,6 +875,15 @@ $width: 875px;
                 margin-right: 16px;
                 .example-form {
                   margin: 0 5px;
+                  position: relative;
+                  .close-form-mobile{
+                    position: absolute;
+                    top: 11px;
+                    right: 2px;
+                    .mat-icon{
+                      font-size: 16px;
+                    }
+                  }
                 }
 
                 .search-form-field {
@@ -1214,7 +1232,7 @@ $width: 875px;
       }
       .title {
         //font-family: "PT Mono", sans-serif !important;
-        font-family: 'PT Mono', sans-serif;
+        font-family: 'JetBrains Mono', monospace ;
         font-style: normal;
         font-weight: 400;
         font-size: 14px;
@@ -1252,7 +1270,7 @@ $width: 875px;
         //margin-left: 37px;
         text-transform: uppercase;
         cursor: pointer;
-        font-family: "PT Mono", sans-serif !important;
+        font-family: 'JetBrains Mono', monospace !important;
       }
 
       .icon:hover {
@@ -1328,7 +1346,7 @@ $width: 875px;
       mat-card-title {
         .card-title-wrapper {
           .card-title-var {
-            color: #b32a20;
+            color: #FD0303;
           }
         }
       }

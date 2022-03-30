@@ -1,6 +1,6 @@
 <div class="button-row">
   <div class="user">
-    <div class="user-name">{{userId}}</div>
+    <div class="user-name">{{userId}} {{userData?.games?.length ? '(' + userData.games.length + ')' : ''}}</div>
     <div class="user-total" [ngClass]="total > 0 ? 'green' : 'red'">{{total| currency: '$':'symbol' : '3.0-0' }}</div>
   </div>
 </div>

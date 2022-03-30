@@ -46,7 +46,9 @@
           }
           &.eth{
             background-image: url('src/assets/Ethereum_QR_Code.png');
-
+          }
+          &.venmo{
+            background-image: url('src/assets/venmo.jpeg');
           }
         }
       }

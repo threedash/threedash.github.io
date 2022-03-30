@@ -118,7 +118,6 @@ export class AppComponent implements OnInit, OnDestroy {
 
   private getUpdateDate() {
     this.dataService.getUpdateDate().subscribe(val => this.lastUpdate = val);
-    console.log('this.lastUpdate ', this.lastUpdate);
   }
 
   openDialog(type: string, wallet: string) {

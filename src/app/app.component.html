@@ -38,9 +38,15 @@
                       </mat-option>
                     </mat-autocomplete>
                   </mat-form-field>
+                  <div class="close-form-mobile">
+                    <mat-icon class="material-icons"
+                              (click)="dataService.mobileSearchHide = !dataService.mobileSearchHide">close
+                    </mat-icon>
+                  </div>
                 </form>
               </div>
-              <div *ngIf="dataService.mobileSearchHide" (click)="dataService.mobileSearchHide = !dataService.mobileSearchHide" class="mobile-icon-search"><p
+              <div *ngIf="dataService.mobileSearchHide"
+                   (click)="dataService.mobileSearchHide = !dataService.mobileSearchHide" class="mobile-icon-search"><p
                 class="menu-icon"></p></div>
 
               <div class="mobile-icon-menu" (click)="drawer.toggle()"><p class="menu-icon"></p></div>
@@ -60,8 +66,8 @@
 
 
         <mat-card-title>
-          <div id="#title" class="card-title-wrapper" [ngClass]="!dataService.searchHide ? 'wrapper-shift' : ''">Hustler
-            Casino
+          <div id="#title" class="card-title-wrapper" [ngClass]="!dataService.searchHide ? 'wrapper-shift' : ''">
+            <p>Hustler Casino</p>
             <div class="card-title-var"> {{dataService.searchHide ? 'Live Stream' : 'Live Poker Tracker'}} </div>
           </div>
         </mat-card-title>
@@ -132,16 +138,19 @@
                 “barry
                 generous”, I’ve provided my wallets for donations! If you like to be a sponsor for this site, <span
                 class="email-me">
-            <a class="email-me-link" href="mailto:itsbryandesigns@gmail.com">
+            <a class="email-me-link" href="mailto:trackingpokerdotcom@gmail.com">
               please email me here!
             </a>
           </span>
               </div>
 
               <div class="crypt-info">
-                <div class="item" (click)="openDialog('btc', 'bc1qt6erj4x78x3uhmw9jelyvpw5wpw56a9q6xcxh5')">Bitcoin</div>
+                <div class="item" (click)="openDialog('btc', 'bc1qt6erj4x78x3uhmw9jelyvpw5wpw56a9q6xcxh5')">Bitcoin
+                </div>
                 <div class="item">|</div>
                 <div class="item" (click)="openDialog('eth', '0x55d53EF0f99816e94e9AcbD1e86787DD25cFD219')">Eth</div>
+                <div class="item">|</div>
+                <div class="item" (click)="openDialog('venmo', '')">Venmo</div>
               </div>
             </div>
 
