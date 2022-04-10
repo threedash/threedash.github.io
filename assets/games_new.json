@@ -7443,9 +7443,234 @@
       {
         "player": "Victor",
         "result": "-$114,300"
-      }
-      
+      }  
     ],
     "total": "$0"
-  }
+  },
+    {
+    "e": "Episode 165",
+    "date": "04/04/22",
+    "yTitle": "DGAF Plays $10/20 w/ Colleen & Cowboy John - Commentary by RaverPoker",
+    "yLink": "https://www.youtube.com/watch?v=jp9py9Cx2F8",
+    "players": [
+      {
+        "player": "DGAF",
+        "result": "$16,200"
+      },
+      {
+        "player": "Mike Nia",
+        "result": "$15,370"
+      },
+      {
+        "player": "Darren",
+        "result": "$10,070"
+      },
+      {
+        "player": "Beanz",
+        "result": "$7,730"
+      },
+      {
+        "player": "San Man",
+        "result": "$2,100"
+      },
+      {
+        "player": "DJ Melo D",
+        "result": "-$5,130"
+      },
+      {
+        "player": "Aaron Kweskin",
+        "result": "-$5,560"
+      },
+      {
+        "player": "Cowboy John",
+        "result": "-$6,570"
+      },
+      {
+        "player": "Colleen",
+        "result": "-$6,670"
+      }
+
+    ],
+    "total": "$27,540"
+  },
+  {
+    "e": "Episode 166",
+    "date": "04/05/22",
+    "yTitle": "Luda Chris, Sammy, Eli, Nick, Mike Nia - $5/5/100 Ante Game - Commentary by DGAF",
+    "yLink": "https://www.youtube.com/watch?v=rQVrQStGqz4",
+    "players": [
+      {
+        "player": "Luda Chris",
+        "result": "$56,390"
+      },
+      {
+        "player": "Eli",
+        "result": "$22,880"
+      },
+      {
+        "player": "Francisco",
+        "result": "$12,420"
+      },
+      {
+        "player": "Big John",
+        "result": "-$3,575"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "-$9,515"
+      },
+      {
+        "player": "Mike Nia",
+        "result": "-$11,495"
+      },
+      {
+        "player": "Mayhem",
+        "result": "-$12,345"
+      },
+      {
+        "player": "RB",
+        "result": "-$24,200"
+      },
+      {
+        "player": "Sammy",
+        "result": "-$30,560"
+      }
+	],
+    "total": "$0"
+},
+      {
+    "e": "Episode 167",
+    "date": "04/06/22",
+    "yTitle": "$25/50 w/ Nik A, Sonny, Johnny, Francisco, Nick V - Commentary by DGAF",
+    "yLink": "https://www.youtube.com/watch?v=u3srgFaYOS4",
+    "players": [
+      {
+        "player": "Beanz",
+        "result": "$56,390"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "$22,880"
+      },
+      {
+        "player": "Francisco",
+        "result": "$12,420"
+      },
+      {
+        "player": "Bob (kite)",
+        "result": "-$3,575"
+      },
+      {
+        "player": "Johnny",
+        "result": "$13,175"
+      },
+      {
+        "player": "Sonny",
+        "result": "-$17,475"
+      },
+      {
+        "player": "Nik A",
+        "result": "-$4,750"
+      },
+      {
+        "player": "Alex (banker)",
+        "result": "$5,075"
+      },
+      {
+        "player": "Brian (black guy)",
+        "result": "$7,525"
+      }
+	],
+    "total": "$0"
+},  
+  {
+    "e": "Episode 168",
+    "date": "04/07/22",
+    "yTitle": "JBoogs, Mike Nia, Josh, Johnny, Nick - $5/5/100 Ante Game - Commentary by RaverPoker",
+    "yLink": "https://www.youtube.com/watch?v=6qzt1vUt9ho",
+    "players": [
+      {
+        "player": "Mike X",
+        "result": "$16,420"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "$13,060"
+      },
+      {
+        "player": "Jeremy Levin",
+        "result": "$12,345"
+      },
+      {
+        "player": "Josh Macciello",
+        "result": "$3,320"
+      },
+      {
+        "player": "Brian (black guy)",
+        "result": "-$1,525"
+      },
+      {
+        "player": "Johnny",
+        "result": "-$1,765"
+      },
+      {
+        "player": "Patrick",
+        "result": "-$4,505"
+      },
+      {
+        "player": "Zeo",
+        "result": "-$6,8800"
+      },
+      {
+        "player": "Mike Nia",
+        "result": "-$30,470"
+      }
+	],
+    "total": "$1,625"
+},  
+{
+    "e": "Episode 169",
+    "date": "04/08/22",
+    "yTitle": "Garrett Buys In $655,000! Jacky Buys In $600,000! SUPER HIGH STAKES $100/200/400! Commentary by Nick",
+    "yLink": "https://www.youtube.com/watch?v=EFUfJHFxZbA",
+    "players": [
+      {
+        "player": "Garrett Adelstein",
+        "result": "$169,700"
+      },
+      {
+        "player": "Han",
+        "result": "$110,300"
+      },
+      {
+        "player": "Ethan",
+        "result": "$74,300"
+      },
+      {
+        "player": "Double M",
+        "result": "-$1,500"
+      },
+      {
+        "player": "Seth",
+        "result": "-$17,700"
+      },
+      {
+        "player": "Brian (black guy)",
+        "result": "-$20,000"
+      },
+      {
+        "player": "Trevor",
+        "result": "-$50,000"
+      },
+      {
+        "player": "J.R.",
+        "result": "-$68,200"
+      },
+      {
+        "player": "Jacky",
+        "result": "-$196,900"
+      }
+	],
+    "total": "$0"
+}
 ]
