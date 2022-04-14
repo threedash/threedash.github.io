@@ -7672,5 +7672,140 @@
       }
 	],
     "total": "$0"
+},
+	  {
+    "e": "Episode 170",
+    "date": "04/11/22",
+    "yTitle": "https://www.youtube.com/watch?v=ne9kbM7d94M",
+    "yLink": "MAX PAIN MONDAY! DGAF, World Wide Wob & Ronnie Play $10/20 - Commentary by RaverPoker",
+    "players": [
+      {
+        "player": "Leo (Hat)",
+        "result": "$20,230"
+      },
+      {
+        "player": "Casper",
+        "result": "$16,740"
+      },
+      {
+        "player": "Ronnie",
+        "result": "$19,170"
+      },
+      {
+        "player": "Beanz",
+        "result": "-$1,650"
+      },
+      {
+        "player": "Darren",
+        "result": "-$4,780"
+      },
+      {
+        "player": "DGAF",
+        "result": "-$6,940"
+      },
+      {
+        "player": "WOB",
+        "result": "-$6,780"
+      },
+      {
+        "player": "TJ",
+        "result": "-$15,330"
+      },
+      {
+        "player": "Mike (cuddler)",
+        "result": "-$20,660"
+      }
+	],
+    "total": "$0"
+},
+  {
+    "e": "Episode 171",
+    "date": "04/012/22",
+    "yTitle": "Luda Chris, JBoogs, Sammy, Johnny Mike Nia - $5/5/100 Ante Game - Commentary by DGAF",
+    "yLink": "https://www.youtube.com/watch?v=TKSd4BktMhY",
+    "players": [
+      {
+        "player": "Big John",
+        "result": "-$12,920"
+      },
+      {
+        "player": "Johnny",
+        "result": "-$20,455"
+      },
+      {
+        "player": "Sammy",
+        "result": "-$16,955"
+      },
+      {
+        "player": "Mayhem",
+        "result": "$27,810"
+      },
+      {
+        "player": "Luda Chris",
+        "result": "-$1,780"
+      },
+      {
+        "player": "Mike Nia",
+        "result": "$8,050"
+      },
+      {
+        "player": "Ronnie",
+        "result": "-$4,705"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "$4,625"
+      },
+      {
+        "player": "Jeremy Levin",
+        "result": "$16,330"
+      }
+	],
+    "total": "$0"
+},
+  {
+    "e": "Episode 172",
+    "date": "04/13/22",
+    "yTitle": "Garrett Adelstein Plays $25/50 w/ Wesley, Tony Tag, Beanz & Eli - Commentary by DGAF",
+    "yLink": "https://www.youtube.com/watch?v=z7DxZ56Qu5U",
+    "players": [
+      {
+        "player": "Garrett Adelstein",
+        "result": "-$95,950"
+      },
+      {
+        "player": "Zeo",
+        "result": "-$21,900"
+      },
+      {
+        "player": "Wesley",
+        "result": "$180,775"
+      },
+      {
+        "player": "Beanz",
+        "result": "-$50,000"
+      },
+      {
+        "player": "Boris",
+        "result": "-$9,175"
+      },
+      {
+        "player": "Eli",
+        "result": "-$7,875"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "$32,075"
+      },
+      {
+        "player": "Dr. Eli",
+        "result": "-$12,950"
+      },
+      {
+        "player": "Tony Tag",
+        "result": "-$15,000"
+      }
+	],
+    "total": "$0"
 }
 ]
