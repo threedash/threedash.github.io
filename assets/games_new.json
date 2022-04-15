@@ -7807,5 +7807,49 @@
       }
 	],
     "total": "$0"
+},  {
+    "e": "Episode 173",
+    "date": "04/14/22",
+    "yTitle": "Hoodie Allen, WinoPoker & Nik A Play $5/5/100 Ante Game - Commentary by David Tuchman",
+    "yLink": "https://www.youtube.com/watch?v=lIElhkvJfTg",
+    "players": [
+      {
+        "player": "Any2 Tommy",
+        "result": "$27,040"
+      },
+      {
+        "player": "Francisco",
+        "result": "$265"
+      },
+      {
+        "player": "Mike X",
+        "result": "$7,025"
+      },
+      {
+        "player": "Ronnie",
+        "result": "-$10,005"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "$7,575"
+      },
+      {
+        "player": "Nik A",
+        "result": "-$2,965"
+      },
+      {
+        "player": "Wino Poker",
+        "result": "-$23,000"
+      },
+      {
+        "player": "Danny",
+        "result": "-$10,620"
+      },
+      {
+        "player": "Hoodie Allen",
+        "result": "$4,685"
+      }
+	],
+    "total": "$0"
 }
 ]
