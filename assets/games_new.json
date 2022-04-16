@@ -7851,5 +7851,53 @@
       }
 	],
     "total": "$0"
+},  {
+    "e": "Episode 174",
+    "date": "04/15/22",
+    "yTitle": "SUPER HIGH STAKES $100/200/400!! Stanley Tang, Bill Klein, Ben, Wesley, Alan Keating, Ryan Feldman",
+    "yLink": "https://www.youtube.com/watch?v=apbhR3CDFM8",
+    "players": [
+      {
+        "player": "Ben Lee",
+        "result": "$515,800"
+      },
+      {
+        "player": "Wesley",
+        "result": "$76,800"
+      },
+      {
+        "player": "Handz",
+        "result": "$68,400"
+      },
+      {
+        "player": "Francisco",
+        "result": "$35,000"
+      },
+      {
+        "player": "Ryan Feldman",
+        "result": "$22,900"
+      },
+      {
+        "player": "J.R.",
+        "result": "-$46,100"
+      },
+      {
+        "player": "Bill Klein",
+        "result": "-$134,200"
+      },
+      {
+        "player": "Allen Keating",
+        "result": "-$138,300"
+      },
+      {
+        "player": "Stanley Tang",
+        "result": "-$249,400"
+      },
+	{
+        "player": "Tiger",
+        "result": "-$150,900"
+      }
+	],
+    "total": "$0"
 }
 ]
