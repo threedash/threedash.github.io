@@ -7851,7 +7851,8 @@
       }
 	],
     "total": "$0"
-},  {
+},  
+{
     "e": "Episode 174",
     "date": "04/15/22",
     "yTitle": "SUPER HIGH STAKES $100/200/400!! Stanley Tang, Bill Klein, Ben, Wesley, Alan Keating, Ryan Feldman",
@@ -7896,6 +7897,235 @@
 	{
         "player": "Tiger",
         "result": "-$150,900"
+      }
+	],
+    "total": "$0"
+},	
+  {
+    "e": "Episode 175",
+    "date": "04/18/22",
+    "yTitle": "MAX PAIN MONDAY!! $25/50 W/ DGAF, Barry, DJ Washburn, Nik A - Commentary by RaverPoker",
+    "yLink": "https://www.youtube.com/watch?v=MAfO9XfuVUI",
+    "players": [
+      {
+        "player": "Tal",
+        "result": "$36,600"
+      },
+      {
+        "player": "Arbi",
+        "result": "$33,200"
+      },
+      {
+        "player": "Ronnie",
+        "result": "$19,100"
+      },
+      {
+        "player": "Nik A",
+        "result": "$7,100"
+      },
+      {
+        "player": "Barry Wallace",
+        "result": "-$9,775"
+      },
+      {
+        "player": "DJ Washburn",
+        "result": "-$12,925"
+      },
+      {
+        "player": "San Man",
+        "result": "-$14,150"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "-$29,150"
+      },
+      {
+        "player": "DGAF",
+        "result": "-$30,000"
+      }
+	],
+    "total": "$0"
+},
+  {
+    "e": "Episode 176",
+    "date": "04/19/22",
+    "yTitle": "Luda Chris, DJ Washburn, JBoogs, Sammy - $5/5/100 Ante Game - Commentary by DGAF",
+    "yLink": "https://www.youtube.com/watch?v=cN-lgvB2_pU",
+    "players": [
+      {
+        "player": "Luda Chris",
+        "result": "$38,680"
+      },
+      {
+        "player": "Jeremy Levin",
+        "result": "$16,985"
+      },
+      {
+        "player": "Big John",
+        "result": "$14,315"
+      },
+      {
+        "player": "DJ Washburn",
+        "result": "$11,335"
+      },
+      {
+        "player": "Mayhem",
+        "result": "$6,170"
+      },
+      {
+        "player": "Eli",
+        "result": "$2,425"
+      },
+      {
+        "player": "Crypto Abe",
+        "result": "-$9,290"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "-$24,700"
+      },
+      {
+        "player": "Sammy",
+        "result": "-$55,920"
+      }
+	],
+    "total": "$0"
+},
+  {
+    "e": "Episode 177",
+    "date": "04/20/22",
+    "yTitle": "RaverPoker, Kiran, Cowboy John & Darren Play $10/20 - Commentary by DGAF",
+    "yLink": "https://www.youtube.com/watch?v=1YuxSLYFSJE",
+    "players": [
+      {
+        "player": "Crypto Abe",
+        "result": "$19,060"
+      },
+      {
+        "player": "Drew",
+        "result": "$13,910"
+      },
+      {
+        "player": "Zack",
+        "result": "$10,780"
+      },
+      {
+        "player": "Poker n Chill",
+        "result": "-$2,150"
+      },
+      {
+        "player": "Kiran",
+        "result": "-$4,480"
+      },
+      {
+        "player": "Raver Poker",
+        "result": "-$4,910"
+      },
+      {
+        "player": "ATC Aaron",
+        "result": "-$5,230"
+      },
+      {
+        "player": "Cowboy John",
+        "result": "-$6,460"
+      },
+      {
+        "player": "Darren",
+        "result": "-$20,520"
+      }
+	],
+    "total": "$0"
+},
+  {
+    "e": "Episode 178",
+    "date": "04/21/22",
+    "yTitle": "Wesley, Johnny, Ronnie, Nick, Crypto Abe - $5/5/100 Ante Game - Commentary by David Tuchman",
+    "yLink": "https://www.youtube.com/watch?v=RJmVjdIeFrU",
+    "players": [
+      {
+        "player": "Mike X",
+        "result": "$31,160"
+      },
+      {
+        "player": "Johnny",
+        "result": "$29,820"
+      },
+      {
+        "player": "Crypto Abe",
+        "result": "$28,455"
+      },
+      {
+        "player": "Josh Macciello",
+        "result": "$8,665"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "$4,750"
+      },
+      {
+        "player": "Zeo",
+        "result": "$1,675"
+      },
+      {
+        "player": "Ronnie",
+        "result": "-$2,070"
+      },
+      {
+        "player": "ATC Aaron",
+        "result": "-$16,880"
+      },
+      {
+        "player": "Wesley",
+        "result": "-$59,075"
+      },
+      {
+        "player": "Uri",
+        "result": "-$26,500"
+      }
+	],
+    "total": "$0"
+},
+  {
+    "e": "Episode 179",
+    "date": "04/22/22",
+    "yTitle": "HIGH STAKES $50/100/200 w/ Ben, Wesley, Tiger, Mike Nia, JBoogs, Eli - Commentary by Marc Goone",
+    "yLink": "https://www.youtube.com/watch?v=3wYjth4GGSs",
+    "players": [
+      {
+        "player": "Mike Nia",
+        "result": "$284,725"
+      },
+      {
+        "player": "Dan (investor)",
+        "result": "$87,900"
+      },
+      {
+        "player": "Fang",
+        "result": "$67,800"
+      },
+      {
+        "player": "Francisco",
+        "result": "$30,750"
+      },
+      {
+        "player": "Jeremy Levin",
+        "result": "$23,000"
+      },
+      {
+        "player": "Tiger",
+        "result": "$1,725"
+      },
+      {
+        "player": "Eli",
+        "result": "-$25,400"
+      },
+      {
+        "player": "Wesley",
+        "result": "-$203,600"
+      },
+      {
+        "player": "Ben Lee",
+        "result": "-$266,900"
       }
 	],
     "total": "$0"
