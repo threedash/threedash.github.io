@@ -8582,5 +8582,46 @@
       }
 	],
     "total": "$0"
+},
+{
+    "e": "Episode 169",
+    "date": "05/06/22",
+    "yTitle": "Garrett Adelstein, Mike Nia, Double M - SUPER HIGH STAKES $100/200!!! - Commentary by David Tuchman",
+    "yLink": "https://www.youtube.com/watch?v=dolbGcvMK4E",
+    "players": [
+      {
+        "player": "Thaeng",
+        "result": "$85,900"
+      },
+      {
+        "player": "Garrett Adelstein",
+        "result": "$56,600"
+      },
+      {
+        "player": "Ivan",
+        "result": "$34,600"
+      },
+      {
+        "player": "Double M",
+        "result": "-$5,300"
+      },
+      {
+        "player": "Mike Nia",
+        "result": "-$17,100"
+      },
+      {
+        "player": "Fang",
+        "result": "-$40,100"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "-$41,500"
+      },
+      {
+        "player": "Han",
+        "result": "-$73,100"
+      }
+	],
+    "total": "$0"
 }
 ]
