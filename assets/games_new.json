@@ -8623,5 +8623,144 @@
       }
 	],
     "total": "$0"
+},
+{
+    "e": "Episode 191",
+    "date": "05/09/22",
+    "yTitle": "$25/50 No Limit Hold'em w/ JBoogs, Nik A, Josh, Eli, Nick - Commentary by Ryan Feldman",
+    "yLink": "https://www.youtube.com/watch?v=4SgrVpWTu1A",
+    "players": [
+      {
+        "player": "Eli",
+        "result": "$60,850"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "$25,625"
+      },
+      {
+        "player": "Nik A",
+        "result": "$10,000"
+      },
+      {
+        "player": "Patrick",
+        "result": "-$5,825"
+      },
+      {
+        "player": "Mike X",
+        "result": "-$14,350"
+      },
+      {
+        "player": "Danny",
+        "result": "-$15,000"
+      },
+      {
+        "player": "Jeremy Levin",
+        "result": "-$17,475"
+      },
+      {
+        "player": "Josh Macciello",
+        "result": "-$20,000"
+      },
+      {
+        "player": "Zeo",
+        "result": "-$23,825"
+      }
+	],
+    "total": "$0"
+},
+{
+    "e": "Episode 192",
+    "date": "05/10/22",
+    "yTitle": "Luda Chris, Brian, Johnny, Mike Nia, Crypto Abe - $5/5/100 Ante Game - Commentary by DGAF",
+    "yLink": "https://www.youtube.com/watch?v=XD2stKXS60c",
+    "players": [
+      {
+        "player": "Mike Nia",
+        "result": "$60,795"
+      },
+      {
+        "player": "Brian (beard)",
+        "result": "$33,515"
+      },
+      {
+        "player": "Patrick",
+        "result": "$15,470"
+      },
+      {
+        "player": "Eli",
+        "result": "$11,850"
+      },
+      {
+        "player": "Francisco",
+        "result": "-$1,910"
+      },
+      {
+        "player": "Crypto Abe",
+        "result": "-$10,880"
+      },
+      {
+        "player": "Big John",
+        "result": "-$18,160"
+      },
+      {
+        "player": "Johnny",
+        "result": "-$31,945"
+      },
+      {
+        "player": "Luda Chris",
+        "result": "-$40,035"
+      },
+      {
+        "player": "Mayhem",
+        "result": "-$18,700"
+      }
+	],
+    "total": "$0"
+},
+{
+    "e": "Episode 193",
+    "date": "05/11/22",
+    "yTitle": "https://www.youtube.com/watch?v=ziUDddCOnig",
+    "yLink": "Garrett Adelstein Plays $25/50/100 w/ Denis, Beanz, Nik A, Ivan, Crypto Abe - Commentary by DGAF",
+    "players": [
+      {
+        "player": "Garrett Adelstein",
+        "result": "$50,350"
+      },
+      {
+        "player": "Nik A",
+        "result": "$31,925"
+      },
+      {
+        "player": "San Man",
+        "result": "$12,600"
+      },
+      {
+        "player": "Zeo",
+        "result": "$11,875"
+      },
+      {
+        "player": "Crypto Abe",
+        "result": "-$1,325"
+      },
+      {
+        "player": "Ronnie",
+        "result": "-$13,100"
+      },
+      {
+        "player": "Denis Bagdasarov",
+        "result": "-$13,450"
+      },
+      {
+        "player": "Ivan",
+        "result": "-$29,875"
+      },
+      {
+        "player": "Beanz",
+        "result": "-$49,000"
+      }
+	],
+    "total": "$0"
 }
 ]
