@@ -8762,5 +8762,54 @@
       }
 	],
     "total": "$0"
+},
+{
+    "e": "Episode 194",
+    "date": "05/12/22",
+    "yTitle": "JBoogs, Nick, Mike X, Francisco, Ivan - $5/5/100 Ante Game - Commentary by David Tuchman",
+    "yLink": "https://www.youtube.com/watch?v=eSJD1CfkzG8",
+    "players": [
+      {
+        "player": "Ivan",
+        "result": "$44,010"
+      },
+      {
+        "player": "Tal",
+        "result": "$27,405"
+      },
+      {
+        "player": "Mike X",
+        "result": "$17,105"
+      },
+      {
+        "player": "Henry",
+        "result": "$15,025"
+      },
+      {
+        "player": "Haroon",
+        "result": "$12,695"
+      },
+      {
+        "player": "RB",
+        "result": "$955"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "-$11,090"
+      },
+      {
+        "player": "Jeremy Levin",
+        "result": "-$39,105"
+      },
+      {
+        "player": "Francisco",
+        "result": "-$47,000"
+      },
+      {
+        "player": "Lang",
+        "result": "-$20,000"
+      }
+	],
+    "total": "$0"
 }
 ]
