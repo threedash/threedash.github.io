@@ -9069,6 +9069,96 @@
       
       ],
       "total": "$0"
-  }
+  },
+      {
+    "e": "Episode 201",
+    "date": "05/23/22",
+    "yTitle": "Masato Yokosawa, DGAF, WinoPoker & Hilary Play $10/20/40 MAX PAIN MONDAY!! Commentary by RaverPoker",
+    "yLink": "https://www.youtube.com/watch?v=NKCoN0Ofj8w",
+    "players": [
+      {
+        "player": "DGAF",
+        "result": "$22,160"
+      },
+      {
+        "player": "Masato",
+        "result": "$7,180"
+      },
+      {
+        "player": "Coinflex Man",
+        "result": "$5,970"
+      },
+      {
+        "player": "Ronnie",
+        "result": "$2,020"
+      },
+      {
+        "player": "Sashami",
+        "result": "$570"
+      },
+      {
+        "player": "Hillary",
+        "result": "-$5,530"
+      },
+      {
+        "player": "Chris (speedo)",
+        "result": "-$8,170"
+      },
+      {
+        "player": "Poudaddy",
+        "result": "-$8,200"
+      },
+      {
+        "player": "Wino Poker",
+        "result": "-$16,000"
+      }
+	],
+    "total": "$0"
+},
+{
+    "e": "Episode 202",
+    "date": "05/24/22",
+    "yTitle": "Luda Chris, Mike Nia, JBoogs, Nick, Eli - $5/5/100 Ante Game - Commentary by DGAF",
+    "yLink": "https://www.youtube.com/watch?v=SnMRSi5cA30",
+    "players": [
+      {
+        "player": "Wesley",
+        "result": "$70,785"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "$28,470"
+      },
+      {
+        "player": "Francisco",
+        "result": "$22,270"
+      },
+      {
+        "player": "Jeremy Levin",
+        "result": "$10,450"
+      },
+      {
+        "player": "Big John",
+        "result": "$10,050"
+      },
+      {
+        "player": "Brian (Beard)",
+        "result": "$245"
+      },
+      {
+        "player": "Mike Nia",
+        "result": "-$26,225"
+      },
+      {
+        "player": "Luda Chris",
+        "result": "-$50,190"
+      },
+      {
+        "player": "Eli",
+        "result": "-$65,855"
+      }
+	],
+    "total": "$0"
+}
   ]
   
