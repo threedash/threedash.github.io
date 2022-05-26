@@ -9081,7 +9081,7 @@
         "result": "$22,160"
       },
       {
-        "player": "Masato",
+        "player": "Masato Yokosawa",
         "result": "$7,180"
       },
       {
@@ -9156,6 +9156,52 @@
       {
         "player": "Eli",
         "result": "-$65,855"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 203",
+    "date": "05/25/22",
+    "yTitle": "Masato Yokosawa Plays $25/50 w/ Marc Goone, Suited Superman & Julie - Commentary by DGAF",
+    "yLink": "https://www.youtube.com/watch?v=3QQWtrAAIwk",
+    "players": [
+      {
+        "player": "Henry",
+        "result": "$59,150"
+      },
+      {
+        "player": "Marc Goone",
+        "result": "$31,975"
+      },
+      {
+        "player": "San Man",
+        "result": "$6,700"
+      },
+      {
+        "player": "RJ",
+        "result": "$2,000"
+      },
+      {
+        "player": "Suited Superman",
+        "result": "-$8,400"
+      },
+      {
+        "player": "Coinflex Man",
+        "result": "-$13,150"
+      },
+      {
+        "player": "Tal",
+        "result": "-$20,325"
+      },
+      {
+        "player": "Julie Yorn",
+        "result": "-$20,675"
+      },
+      {
+        "player": "Masato Yokosawa",
+        "result": "-$37,275"
       }
 	],
     "total": "$0"
