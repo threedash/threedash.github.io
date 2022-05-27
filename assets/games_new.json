@@ -9206,5 +9206,51 @@
 	],
     "total": "$0"
 }
+,
+{
+    "e": "Episode 204",
+    "date": "05/26/22",
+    "yTitle": "Bart Hanson, Wesley, Mike Nia & Nik Airball Play $5/5/100 Ante Game - Commentary by David Tuchman",
+    "yLink": "https://www.youtube.com/watch?v=AwMIhLsRQWs",
+    "players": [
+      {
+        "player": "Henry",
+        "result": "$46,855"
+      },
+      {
+        "player": "Mike Nia",
+        "result": "$22,735"
+      },
+      {
+        "player": "Wesley",
+        "result": "$21,195"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "$10,570"
+      },
+      {
+        "player": "Bart Hanson",
+        "result": "$2,850"
+      },
+      {
+        "player": "Patrick",
+        "result": "-$10,995"
+      },
+      {
+        "player": "Mike X",
+        "result": "-$17,010"
+      },
+      {
+        "player": "Francisco",
+        "result": "-$23,920"
+      },
+      {
+        "player": "Nik A",
+        "result": "-$52,280"
+      }
+	],
+    "total": "$0"
+}
   ]
   
