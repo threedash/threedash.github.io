@@ -1382,7 +1382,7 @@
           "result": "-$9,610"
         },
         {
-          "player": "Eli",
+          "player": "Eli Strickland",
           "result": "-$15,520"
         },
         {
@@ -2960,7 +2960,7 @@
           "result": "-$9,335"
         },
         {
-          "player": "Eli",
+          "player": "Eli Strickland",
           "result": "-$23,000"
         }
       ],
@@ -8283,7 +8283,7 @@
           "result": "$9,725"
         },
         {
-          "player": "Eli",
+          "player": "Eli Strickland",
           "result": "$9,725"
         },
         {
@@ -8541,7 +8541,7 @@
       "yLink": "https://www.youtube.com/watch?v=vHdX6rFbrAU",
       "players": [
         {
-          "player": "Eli",
+          "player": "Eli Strickland",
           "result": "$28,695"
         },
         {
@@ -10305,7 +10305,7 @@
         "result": "$18,950"
       },
       {
-        "player": "Eli",
+        "player": "Eli Strickland",
         "result": "-$15,625"
       },
       {
@@ -11910,7 +11910,7 @@
         "result": "-$95,900"
       },
       {
-        "player": "Hank",
+        "player": "Matthew 'Hanks' Honig",
         "result": "-$263,000"
       },
       {
@@ -11978,4 +11978,51 @@
 	],
     "total": "$0"
 }
-	]
+,
+,
+{
+    "e": "Episode 266",
+    "date": "08/20/22",
+    "yTitle": "",
+    "yLink": "",
+    "players": [
+      {
+        "player": "",
+        "result": ""
+      },
+      {
+        "player": "",
+        "result": ""
+      },
+      {
+        "player": "",
+        "result": ""
+      },
+      {
+        "player": "",
+        "result": ""
+      },
+      {
+        "player": "",
+        "result": ""
+      },
+      {
+        "player": "",
+        "result": ""
+      },
+      {
+        "player": "",
+        "result": ""
+      },
+      {
+        "player": "",
+        "result": ""
+      },
+      {
+        "player": "",
+        "result": ""
+      }
+	],
+    "total": "$0"
+}
+]
