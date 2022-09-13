@@ -12281,5 +12281,140 @@
       }
 	],
     "total": "$0"
+},
+{
+    "e": "Episode 273",
+    "date": "09/08/22",
+    "yTitle": "DGAF & Andy Play $5/5/100 Ante Game w/ DK, Mike X & Ronnie - Commentary by RaverPoker",
+    "yLink": "https://www.youtube.com/watch?v=y9QI8v0UH0s",
+    "players": [
+      {
+        "player": "Zeo",
+        "result": "$31,285"
+      },
+      {
+        "player": "DK",
+        "result": "$30,180"
+      },
+      {
+        "player": "Francisco",
+        "result": "$27,205"
+      },
+      {
+        "player": "Ronnie Ebanks",
+        "result": "$5,185"
+      },
+      {
+        "player": "Mike X",
+        "result": "$1,375"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "-$4,490"
+      },
+      {
+        "player": "DGAF",
+        "result": "-$20,405"
+      },
+      {
+        "player": "Andy Stacks",
+        "result": "-$23,660"
+      },
+      {
+        "player": "Greedy Grant",
+        "result": "-$46,675"
+      }
+	],
+    "total": "$0"
+},
+{
+    "e": "Episode 274",
+    "date": "09/09/22",
+    "yTitle": "HIGH STAKES $50/100!! Andy, Stanley Tang, Linglin, Julie, Big John - Commentary by David Tuchman",
+    "yLink": "https://www.youtube.com/watch?v=hx7zjLLflLg",
+    "players": [
+      {
+        "player": "Mars",
+        "result": "$82,075"
+      },
+      {
+        "player": "Andy Stacks",
+        "result": "$52,300"
+      },
+      {
+        "player": "Stanley Tang",
+        "result": "$20,000"
+      },
+      {
+        "player": "Mike X",
+        "result": "-$9,275"
+      },
+      {
+        "player": "Ling Ling",
+        "result": "-$24,125"
+      },
+      {
+        "player": "Julie Yorn",
+        "result": "-$24,800"
+      },
+      {
+        "player": "Big John",
+        "result": "-$37,775"
+      },
+      {
+        "player": "Francisco",
+        "result": "-$58,400"
+      }
+	],
+    "total": "$0"
+},
+{
+    "e": "Episode 275",
+    "date": "09/12/22",
+    "yTitle": "MAX PAIN MONDAY!! DGAF, Margaux, Beanz, Sashimi & DQ Play $10/20/40 - Commentary by RaverPoker",
+    "yLink": "https://www.youtube.com/watch?v=XQCF-lbWo-s",
+    "players": [
+      {
+        "player": "DGAF",
+        "result": "$25,330"
+      },
+      {
+        "player": "DQ",
+        "result": "$11,700"
+      },
+      {
+        "player": "Teriyaki Madness",
+        "result": "$5,400"
+      },
+      {
+        "player": "Big John",
+        "result": "$4,810"
+      },
+      {
+        "player": "DJ",
+        "result": "$1,330"
+      },
+      {
+        "player": "San Man",
+        "result": "$1,140"
+      },
+      {
+        "player": "Margaux Brooke",
+        "result": "-$6,000"
+      },
+      {
+        "player": "Ashley Sleeth",
+        "result": "-$8,620"
+      },
+      {
+        "player": "Beanz",
+        "result": "-$10,790"
+      },
+      {
+        "player": "Sashimi",
+        "result": "-$24,300"
+      }
+	],
+    "total": "$0"
 }
 	]
