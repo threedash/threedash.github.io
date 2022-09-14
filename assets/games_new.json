@@ -12416,5 +12416,54 @@
       }
 	],
     "total": "$0"
+},
+{
+    "e": "Episode 276",
+    "date": "09/13/22",
+    "yTitle": "Wesley!! Luda Chris!! Linglin!! Mike Nia!! Julie Yorn!! $5/5/100 Ante Game - Commentary by DGAF",
+    "yLink": "https://www.youtube.com/watch?v=j82GIkFZbNc",
+    "players": [
+      {
+        "player": "Mike Nia",
+        "result": "$31,400"
+      },
+      {
+        "player": "Luda Chris",
+        "result": "$28,480"
+      },
+      {
+        "player": "Mike X",
+        "result": "$15,965"
+      },
+      {
+        "player": "Haroon",
+        "result": "$15,725"
+      },
+      {
+        "player": "Wesley",
+        "result": "$9,955"
+      },
+      {
+        "player": "Julie Yorn",
+        "result": "$3,440"
+      },
+      {
+        "player": "Francisco",
+        "result": "$20"
+      },
+      {
+        "player": "Big John",
+        "result": "-$11,480"
+      },
+      {
+        "player": "Brian (Santa)",
+        "result": "-$30,220"
+      },
+      {
+        "player": "Ling Ling",
+        "result": "-$63,285"
+      }
+	],
+    "total": "$0"
 }
 	]
