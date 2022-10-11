@@ -2404,7 +2404,7 @@
           "result": "-$6,775"
         },
         {
-          "player": "Drew",
+          "player": "Dapper Drew",
           "result": "-$7,775"
         },
         {
@@ -3369,7 +3369,7 @@
           "result": "-$7,860"
         },
         {
-          "player": "Drew",
+          "player": "Dapper Drew",
           "result": "-$15,000"
         }
       ],
@@ -8002,7 +8002,7 @@
           "result": "$19,060"
         },
         {
-          "player": "Drew",
+          "player": "Dapper Drew",
           "result": "$13,910"
         },
         {
@@ -8402,7 +8402,7 @@
       "yLink": "https://www.youtube.com/watch?v=ycpNdm4GdSA",
       "players": [
         {
-          "player": "Drew (auctioneer)",
+          "player": "Dapper Drew",
           "result": "$18,170"
         },
         {
@@ -8875,7 +8875,7 @@
           "result": "-$450"
         },
         {
-          "player": "Drew (auctioneer)",
+          "player": "Dapper Drew",
           "result": "-$7,910"
         },
         {
@@ -12864,7 +12864,7 @@
         "result": "-$690"
       },
       {
-        "player": "Veronica",
+        "player": "Veronica Brill",
         "result": "-$5,210"
       },
       {
@@ -13292,6 +13292,56 @@
       {
         "player": "J.R.",
         "result": "-$569,700"
+      }
+	],
+    "total": "$0"
+},
+,
+{
+    "e": "Episode 295",
+    "date": "10/10/22",
+    "yTitle": "MAX PAIN MONDAY!! Haralabos Voulgaris, DGAF, Margaux, Sashimi & DK!! Commentary by RaverPoker",
+    "yLink": "https://www.youtube.com/watch?v=t4Ad1hLXBFM",
+    "players": [
+      {
+        "player": "Sashimi",
+        "result": "$14,450"
+      },
+      {
+        "player": "DK",
+        "result": "$13,900"
+      },
+      {
+        "player": "DGAF",
+        "result": "$9,190"
+      },
+      {
+        "player": "Margaux Brooke",
+        "result": "$4,810"
+      },
+      {
+        "player": "Dapper Drew",
+        "result": "$2,880"
+      },
+      {
+        "player": "Aaron Kweskin",
+        "result": "$1,180"
+      },
+      {
+        "player": "Slow Poker",
+        "result": "-$3,360"
+      },
+      {
+        "player": "Rubiez",
+        "result": "-$3,930"
+      },
+      {
+        "player": "Pretty Boy P",
+        "result": "-$8,590"
+      },
+      {
+        "player": "Haralobos Voulgaris",
+        "result": "-$30,530"
       }
 	],
     "total": "$0"
