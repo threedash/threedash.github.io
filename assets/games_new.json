@@ -13344,4 +13344,46 @@
       }
 	],
     "total": "$0"
+}
+,
+{
+    "e": "Episode 296",
+    "date": "10/11/22",
+    "yTitle": "Luda Chris, JBoogs, Ronnie & Eli Play $5/5/100 Ante Game - Commentary by DGAF",
+    "yLink": "https://www.youtube.com/watch?v=frBO1v-c1xI",
+    "players": [
+      {
+        "player": "Luda Chris",
+        "result": "$35,890"
+      },
+      {
+        "player": "Mike X",
+        "result": "$17,800"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "$4,435"
+      },
+      {
+        "player": "Ronnie Ebanks",
+        "result": "$4,330"
+      },
+      {
+        "player": "Jeremy Levin",
+        "result": "$360"
+      },
+      {
+        "player": "Big John",
+        "result": "-$1,755"
+      },
+      {
+        "player": "Eli Strickland",
+        "result": "-$17,700"
+      },
+      {
+        "player": "Patrick",
+        "result": "-$43,360"
+      }
+	],
+    "total": "$0"
 }]
