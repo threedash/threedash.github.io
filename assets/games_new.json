@@ -13386,4 +13386,88 @@
       }
 	],
     "total": "$0"
+}
+,
+{
+    "e": "Episode 297",
+    "date": "10/12/22",
+    "yTitle": "Mariano, Wesley, Suited Superman, DK & Francisco Play $25/50/100!! Commentary by David Tuchman",
+    "yLink": "https://www.youtube.com/watch?v=7ZJFiBJkSJo",
+    "players": [
+      {
+        "player": "Mars",
+        "result": "$48,550"
+      },
+      {
+        "player": "Wesley Flan",
+        "result": "$34,525"
+      },
+      {
+        "player": "Francisco Fragoso",
+        "result": "$28,575"
+      },
+      {
+        "player": "Mariano",
+        "result": "$12,125"
+      },
+      {
+        "player": "Suited Superman",
+        "result": "-$9,425"
+      },
+      {
+        "player": "DK",
+        "result": "-$13,850"
+      },
+      {
+        "player": "DC Lawyer",
+        "result": "-$16,300"
+      },
+      {
+        "player": "Tal",
+        "result": "-$84,200"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 298",
+    "date": "10/13/22",
+    "yTitle": "Mariano, Johnnie Vibes & Wesley Play $5/5/100 Ante Game!! Commentary by Marc Goone",
+    "yLink": "https://www.youtube.com/watch?v=zDahXMioS3w",
+    "players": [
+      {
+        "player": "Mike X",
+        "result": "$40,065"
+      },
+      {
+        "player": "Tal",
+        "result": "$32,340"
+      },
+      {
+        "player": "Mars",
+        "result": "$28,975"
+      },
+      {
+        "player": "Johnnie Vibes",
+        "result": "-$9,540"
+      },
+      {
+        "player": "Wesley Flan",
+        "result": "-$12,690"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "-$14,995"
+      },
+      {
+        "player": "Mariano",
+        "result": "-$26,985"
+      },
+      {
+        "player": "Francisco Fragoso",
+        "result": "-$37,170"
+      }
+	],
+    "total": "$0"
 }]
