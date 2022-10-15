@@ -13470,4 +13470,50 @@
       }
 	],
     "total": "$0"
+}
+,
+{
+    "e": "Episode 299",
+    "date": "10/14/22",
+    "yTitle": "HIGH STAKES $50/100 w/ Wesley, Krish, Nik Airball, JBoogs & Brian Kim! Commentary by Charlie Wilmoth",
+    "yLink": "https://www.youtube.com/watch?v=-0PTY2_kpRc",
+    "players": [
+      {
+        "player": "Tal",
+        "result": "$91,575"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "$69,725"
+      },
+      {
+        "player": "Nik Airball",
+        "result": "$32,575"
+      },
+      {
+        "player": "Ronnie Ebanks",
+        "result": "$6,890"
+      },
+      {
+        "player": "Patrick",
+        "result": "$4,250"
+      },
+      {
+        "player": "Jermey Levin",
+        "result": "-$14,975"
+      },
+      {
+        "player": "Krish",
+        "result": "-$49,500"
+      },
+      {
+        "player": "Wesley Flan",
+        "result": "-$66,800"
+      },
+      {
+        "player": "Brian Kim",
+        "result": "-$73,740"
+      }
+	],
+    "total": "$0"
 }]
