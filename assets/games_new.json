@@ -11333,7 +11333,7 @@
         "result": "$9,680"
       },
       {
-        "player": "Caitlin Comesky",
+        "player": "Caitlin Comeskey",
         "result": "$8,290"
       },
       {
@@ -13513,6 +13513,52 @@
       {
         "player": "Brian Kim",
         "result": "-$73,740"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 300",
+    "date": "10/17/22",
+    "yTitle": "MAX PAIN MONDAY w/ Rampage, Haralabos, DGAF, Sashimi, Margaux, DK!! Commentary by Marc Goone",
+    "yLink": "https://www.youtube.com/watch?v=0YJyJWDjgKw",
+    "players": [
+      {
+        "player": "Aaron Kweskin",
+        "result": "$23,180"
+      },
+      {
+        "player": "DGAF",
+        "result": "$8,150"
+      },
+      {
+        "player": "Sashimi",
+        "result": "$3,590"
+      },
+      {
+        "player": "Rampage",
+        "result": "$3,040"
+      },
+      {
+        "player": "Margaux Brooke",
+        "result": "$2,650"
+      },
+      {
+        "player": "DK",
+        "result": "-$430"
+      },
+      {
+        "player": "Siaquuuu",
+        "result": "-$1,180"
+      },
+      {
+        "player": "Caitlin Comeskey",
+        "result": "-$19,300"
+      },
+      {
+        "player": "Haralobos Voulgaris",
+        "result": "-$19,700"
       }
 	],
     "total": "$0"
