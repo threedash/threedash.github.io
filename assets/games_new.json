@@ -13654,4 +13654,50 @@
       }
 	],
     "total": "$0"
+}
+,
+{
+    "e": "Episode 303",
+    "date": "10/20/22",
+    "yTitle": "Bart Hanson, Wesley, Eli & Mike X Play $5/5/100 Ante Game - Commentary by DGAF",
+    "yLink": "https://www.youtube.com/watch?v=Lq7TUt5VKYE",
+    "players": [
+      {
+        "player": "Bart Hanson",
+        "result": "$26,405"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "$20,860"
+      },
+      {
+        "player": "Kennedy",
+        "result": "$16,100"
+      },
+      {
+        "player": "Tal",
+        "result": "$10,355"
+      },
+      {
+        "player": "Wesley Flan",
+        "result": "$3,495"
+      },
+      {
+        "player": "Mike X",
+        "result": "-$2,050"
+      },
+      {
+        "player": "Eli Strickland",
+        "result": "-$13,960"
+      },
+      {
+        "player": "Patrick",
+        "result": "-$24,615"
+      },
+      {
+        "player": "Big John",
+        "result": "-$36,590"
+      }
+	],
+    "total": "$0"
 }]
