@@ -14876,4 +14876,92 @@
       }
 	],
     "total": "$0"
-}]
+}
+,
+{
+    "e": "Episode 331",
+    "date": "12/06/22",
+    "yTitle": "Luda Chris, Kennedy, DJ Washburn & GT Play $25/50 Ante Game!! Commentary by Charlie Wilmoth",
+    "yLink": "https://www.youtube.com/watch?v=-_HPip8wiYk",
+    "players": [
+      {
+        "player": "Luda Chris",
+        "result": "$38,925"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "$20,125"
+      },
+      {
+        "player": "GT",
+        "result": "$18,925"
+      },
+      {
+        "player": "Mayhem",
+        "result": "$4,975"
+      },
+      {
+        "player": "Victor",
+        "result": "$2,700"
+      },
+      {
+        "player": "Mike X",
+        "result": "-$125"
+      },
+      {
+        "player": "Big John",
+        "result": "-$18,300"
+      },
+      {
+        "player": "Kennedy",
+        "result": "-$27,725"
+      },
+      {
+        "player": "DJ Washburn",
+        "result": "-$39,500"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 332",
+    "date": "12/07/22",
+    "yTitle": "RAMPAGE IS BACK!! $25/50/100 w/ Rampage, Nik Airball & Suited Superman - Commentary by David Tuchman",
+    "yLink": "https://www.youtube.com/watch?v=V7axMK6XIYI",
+    "players": [
+      {
+        "player": "Nik Airball",
+        "result": "$303,075"
+      },
+      {
+        "player": "Sammy the Bull",
+        "result": "$56,400"
+      },
+      {
+        "player": "Rampage",
+        "result": "$35,375"
+      },
+      {
+        "player": "Henry",
+        "result": "$29,350"
+      },
+      {
+        "player": "Ali G",
+        "result": "-$19,800"
+      },
+      {
+        "player": "Marc Goone",
+        "result": "-$27,850"
+      },
+      {
+        "player": "Suited Superman",
+        "result": "-$49,250"
+      },
+      {
+        "player": "GT",
+        "result": "-$327,300"
+      }
+	],
+    "total": "$0"
+}
