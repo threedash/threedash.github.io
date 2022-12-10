@@ -15006,4 +15006,46 @@
       }
 	],
     "total": "$0"
+}
+,
+{
+    "e": "Episode 334",
+    "date": "12/09/22",
+    "yTitle": "SUPER HIGH STAKES $100/200/500 w/ Andy, Double M, Nik Airball & Aaron - Commentary by David Tuchman",
+    "yLink": "https://www.youtube.com/watch?v=dTKT7pxYDA8",
+    "players": [
+      {
+        "player": "Mars",
+        "result": "$170,000"
+      },
+      {
+        "player": "Henry",
+        "result": "$75,800"
+      },
+      {
+        "player": "Andy Stacks",
+        "result": "$64,500"
+      },
+      {
+        "player": "Double M",
+        "result": "$6,200"
+      },
+      {
+        "player": "Mike X",
+        "result": "-$13,700"
+      },
+      {
+        "player": "Nik Airball",
+        "result": "-$29,900"
+      },
+      {
+        "player": "Rufio",
+        "result": "-$102,000"
+      },
+      {
+        "player": "Aaron Zang",
+        "result": "-$170,900"
+      }
+	],
+    "total": "$0"
 }]
