@@ -14964,4 +14964,46 @@
       }
 	],
     "total": "$0"
+}
+,
+{
+    "e": "Episode 333",
+    "date": "12/08/22",
+    "yTitle": "$5/5/100 Ante Game w/ Francisco, Mike X, SoFlo Antonio & Brown Balla - Commentary by Charlie Wilmot",
+    "yLink": "https://www.youtube.com/watch?v=mJxRyaCSISw",
+    "players": [
+      {
+        "player": "Francisco Fragoso",
+        "result": "$42,305"
+      },
+      {
+        "player": "Brown Balla",
+        "result": "$23,400"
+      },
+      {
+        "player": "Mike X",
+        "result": "$10,070"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "$7,425"
+      },
+      {
+        "player": "Cowboy John",
+        "result": "-$6,415"
+      },
+      {
+        "player": "SoFlo Antonio",
+        "result": "-$10,610"
+      },
+      {
+        "player": "Tal",
+        "result": "-$30,955"
+      },
+      {
+        "player": "Rufio",
+        "result": "-$35,220"
+      }
+	],
+    "total": "$0"
 }]
