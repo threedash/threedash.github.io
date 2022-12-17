@@ -15224,4 +15224,46 @@
       }
 	],
     "total": "-$800"
+}
+,
+{
+    "e": "Episode 340",
+    "date": "12/16/22",
+    "yTitle": "Alan Keating Plays SUPER HIGH STAKES $200/400/800 w/ Handz, Haralabos, J.R., Hanks, Aaron & Mars",
+    "yLink": "https://www.youtube.com/watch?v=2XB0bqgnAqw",
+    "players": [
+      {
+        "player": "Aaron Zang",
+        "result": "$648,000"
+      },
+      {
+        "player": "Aussie AL",
+        "result": "$476,000"
+      },
+      {
+        "player": "Handz",
+        "result": "$177,000"
+      },
+      {
+        "player": "J.R.",
+        "result": "$29,500"
+      },
+      {
+        "player": "Haralobos Voulgaris",
+        "result": "-$135,000"
+      },
+      {
+        "player": "Hanks",
+        "result": "-$163,000"
+      },
+      {
+        "player": "Alan Keating",
+        "result": "-$500,000"
+      },
+      {
+        "player": "Mars",
+        "result": "-$530,000"
+      }
+	],
+    "total": "$2,500"
 }]
