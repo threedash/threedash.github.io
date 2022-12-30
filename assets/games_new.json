@@ -14879,6 +14879,52 @@
 }
 ,
 {
+    "e": "Episode 330",
+    "date": "12/05/22",
+    "yTitle": "MAX PAIN MONDAY!! $10/20/40 w/ Nick Austin, Next Gen Poker, DGAF, Sashimi, Wolfgang Poker",
+    "yLink": "https://www.youtube.com/watch?v=GdCWr4_016Y",
+    "players": [
+      {
+        "player": "Sia the Bot",
+        "result": "$30,820"
+      },
+      {
+        "player": "Rosey Next Gen",
+        "result": "$19,000"
+      },
+      {
+        "player": "Julia",
+        "result": "$7,520"
+      },
+      {
+        "player": "Bronx Bomber",
+        "result": "$5,430"
+      },
+      {
+        "player": "Frankie Next Gen",
+        "result": "$4,860"
+      },
+      {
+        "player": "Nick Austin",
+        "result": "$4,500"
+      },
+      {
+        "player": "Sashimi",
+        "result": "-$20,420"
+      },
+      {
+        "player": "Wolfgang",
+        "result": "-$25,630"
+      },
+      {
+        "player": "DGAF",
+        "result": "-$26,080"
+      }
+	],
+    "total": "$0"
+}
+,
+{
     "e": "Episode 331",
     "date": "12/06/22",
     "yTitle": "Luda Chris, Kennedy, DJ Washburn & GT Play $25/50 Ante Game!! Commentary by Charlie Wilmoth",
@@ -15097,7 +15143,7 @@
 }
 ,
 {
-    "e": "Episode 337",
+    "e": "Episode 336",
     "date": "12/13/22",
     "yTitle": "Arden Cho, J.R., Handz & Brazil God Play $25/50/100!! Commentary by DGAF",
     "yLink": "https://www.youtube.com/watch?v=C9YN8AIfAT0",
@@ -15143,7 +15189,7 @@
 }
 ,
 {
-    "e": "Episode 338",
+    "e": "Episode 337",
     "date": "12/14/22",
     "yTitle": "SUPER HIGH STAKES $100/200/400 w/ YoH ViraL, Nik Airball, Aaron Zang, Handz, Mars, Henry & Charles",
     "yLink": "https://www.youtube.com/watch?v=JkWgJYc-Oc8",
@@ -15181,7 +15227,7 @@
 }
 ,
 {
-    "e": "Episode 339",
+    "e": "Episode 338",
     "date": "12/15/22",
     "yTitle": "Alan Keating & Eric Persson Play SUPER HIGH STAKES $200/400/800 w/ Luda Chris, Ben & Haralabos",
     "yLink": "https://www.youtube.com/watch?v=7FqLAI3f5D4",
@@ -15227,7 +15273,7 @@
 }
 ,
 {
-    "e": "Episode 340",
+    "e": "Episode 339",
     "date": "12/16/22",
     "yTitle": "Alan Keating Plays SUPER HIGH STAKES $200/400/800 w/ Handz, Haralabos, J.R., Hanks, Aaron & Mars",
     "yLink": "https://www.youtube.com/watch?v=2XB0bqgnAqw",
@@ -15266,4 +15312,231 @@
       }
 	],
     "total": "$2,500"
+}
+,
+{
+    "e": "Episode 340",
+    "date": "12/19/22",
+    "yTitle": "MAX PAIN MONDAY!! Haralabos, Lynne, DGAF, Sashimi, Maragaux & DK!! Commentary by RaverPoker",
+    "yLink": "https://www.youtube.com/watch?v=vPusCkxr2e0",
+    "players": [
+      {
+        "player": "DGAF",
+        "result": "$29,280"
+      },
+      {
+        "player": "Lynne Ji",
+        "result": "$15,770"
+      },
+      {
+        "player": "Sashimi",
+        "result": "$14,750"
+      },
+      {
+        "player": "Jenx",
+        "result": "$13,450"
+      },
+      {
+        "player": "Pocket Yakis",
+        "result": "$10,330"
+      },
+      {
+        "player": "San Man",
+        "result": "$660"
+      },
+      {
+        "player": "Maragaux Brooke",
+        "result": "-$5,900"
+      },
+      {
+        "player": "DK",
+        "result": "-$9,650"
+      },
+      {
+        "player": "Spartak",
+        "result": "-$11,740"
+      }
+      ,
+      {
+        "player": "Haralobos Voulgaris",
+        "result": "-$56,950"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 341",
+    "date": "12/20/22",
+    "yTitle": "Ben, Luda Chris, Kennedy & JBoogs Play THE ANTE GAME!! Commentary by Marc Goone",
+    "yLink": "https://www.youtube.com/watch?v=k-WcZN8Z_4w",
+    "players": [
+      {
+        "player": "Francisco Fragoso",
+        "result": "$70,200"
+      },
+      {
+        "player": "Johnny Stevens",
+        "result": "$55,900"
+      },
+      {
+        "player": "Mayhem",
+        "result": "$48,975"
+      },
+      {
+        "player": "Luda Chris",
+        "result": "$31,775"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "$21,925"
+      },
+      {
+        "player": "Big John",
+        "result": "$12,700"
+      },
+      {
+        "player": "Kennedy",
+        "result": "-$29,125"
+      },
+      {
+        "player": "Jermey Levin",
+        "result": "-$54,050"
+      },
+      {
+        "player": "Ben Lee",
+        "result": "-$158,300"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 342",
+    "date": "12/21/22",
+    "yTitle": "$25/50/100/200 w/ Mariano, Alec Torelli, Nik Airball, Charles & Mike X - Commentary by David Tuchman",
+    "yLink": "https://www.youtube.com/watch?v=8VbSgnccINs",
+    "players": [
+      {
+        "player": "Nik Airball",
+        "result": "$82,425"
+      },
+      {
+        "player": "Sammy the Bull",
+        "result": "$27,975"
+      },
+      {
+        "player": "Charles",
+        "result": "$18,475"
+      },
+      {
+        "player": "Rainbow Kitty",
+        "result": "$15,200"
+      },
+      {
+        "player": "Marc Goone",
+        "result": "$75"
+      },
+      {
+        "player": "Alec Torelli",
+        "result": "-$35,500"
+      },
+      {
+        "player": "Mariano",
+        "result": "-$41,600"
+      },
+      {
+        "player": "Mike X",
+        "result": "-$67,050"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 343",
+    "date": "12/22/22",
+    "yTitle": "Wesley, Mariano & Francisco Play $5/5/100 Ante Game - Commentary by Charlie Wilmoth",
+    "yLink": "https://www.youtube.com/watch?v=wDbllaGBmiA",
+    "players": [
+      {
+        "player": "Rainbow Kitty",
+        "result": "$41,830"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "$41,695"
+      },
+      {
+        "player": "Brown Balla",
+        "result": "$22,840"
+      },
+      {
+        "player": "Tal",
+        "result": "-$1,935"
+      },
+      {
+        "player": "Veins",
+        "result": "-$5,665"
+      },
+      {
+        "player": "Wesley Flan",
+        "result": "-$18,825"
+      },
+      {
+        "player": "Mariano",
+        "result": "-$19,705"
+      },
+      {
+        "player": "Francisco Fragoso",
+        "result": "-$23,690"
+      },
+      {
+        "player": "Eugene",
+        "result": "-$36,545"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 344",
+    "date": "12/23/22",
+    "yTitle": "SUPER HIGH STAKES $200/400/800 w/ Jungleman, Nik Airball, Aaron & J.R. - Commentary by David Tuchman",
+    "yLink": "https://www.youtube.com/watch?v=aADi5MmCFOs",
+    "players": [
+      {
+        "player": "LSG Hank",
+        "result": "$199,400"
+      },
+      {
+        "player": "Charles",
+        "result": "$154,000"
+      },
+      {
+        "player": "Aaron Zang",
+        "result": "-$4,900"
+      },
+      {
+        "player": "Mike X",
+        "result": "-$19,200"
+      },
+      {
+        "player": "J.R.",
+        "result": "-$33,300"
+      },
+      {
+        "player": "Nik Airball",
+        "result": "-$34,500"
+      },
+      {
+        "player": "Rainbow Kitty",
+        "result": "-$129,300"
+      },
+      {
+        "player": "Jungleman",
+        "result": "-$132,200"
+      }
+	],
+    "total": "$0"
 }]
