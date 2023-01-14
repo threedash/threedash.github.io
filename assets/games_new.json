@@ -15771,4 +15771,222 @@
       }
 	],
     "total": "$0"
+}
+,
+{
+    "e": "Episode 350",
+    "date": "01/09/23",
+    "yTitle": "MAX PAIN MONDAY! Poker Bunny, Mr. Dr. Batman, Tommy Unold, DGAF, DK, Sashimi! Commentary: RaverPoker",
+    "yLink": "https://www.youtube.com/watch?v=gmwNj2rQJfU",
+    "players": [
+      {
+        "player": "Sashimi",
+        "result": "$5,700"
+      },
+      {
+        "player": "DK",
+        "result": "$5,595"
+      },
+      {
+        "player": "MrDrBatman",
+        "result": "$3,475"
+      },
+      {
+        "player": "Husky",
+        "result": "$2,430"
+      },
+      {
+        "player": "Fantasy Joe",
+        "result": "$270"
+      },
+      {
+        "player": "San Man",
+        "result": "-$150"
+      },
+      {
+        "player": "Tao",
+        "result": "-$1,400"
+      },
+      {
+        "player": "Poker Bunny",
+        "result": "-$4,170"
+      },
+      {
+        "player": "DGAF",
+        "result": "-$11,750"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 351",
+    "date": "01/10/23",
+    "yTitle": "Mr. Dr. Batman, Luda Chris, JBoogs & Francisco Play THE ANTE GAME!! Commentary by DGAF",
+    "yLink": "https://www.youtube.com/watch?v=Qzw5uisnKrA",
+    "players": [
+      {
+        "player": "Francisco Fragoso",
+        "result": "$27,725"
+      },
+      {
+        "player": "Ronnie Ebanks",
+        "result": "$19,850"
+      },
+      {
+        "player": "Julia",
+        "result": "$11,675"
+      },
+      {
+        "player": "Luda Chris",
+        "result": "$9,525"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "-$4,400"
+      },
+      {
+        "player": "Jermey Levin",
+        "result": "-$6,425"
+      },
+      {
+        "player": "MrDrBatman",
+        "result": "-$13,525"
+      },
+      {
+        "player": "Big John",
+        "result": "-$16,325"
+      },
+      {
+        "player": "Mayhem",
+        "result": "-$28,100"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 352",
+    "date": "01/11/23",
+    "yTitle": "Mariano, Alec Torelli & Mike X Play $25/50/100!! Commentary by David Tuchman",
+    "yLink": "https://www.youtube.com/watch?v=OyoCy9ZBGxE",
+    "players": [
+      {
+        "player": "Sammy the Bull",
+        "result": "$30,175"
+      },
+      {
+        "player": "Mike X",
+        "result": "$22,750"
+      },
+      {
+        "player": "Henry",
+        "result": "$20,650"
+      },
+      {
+        "player": "Mariano",
+        "result": "$5,125"
+      },
+      {
+        "player": "Tal",
+        "result": "$950"
+      },
+      {
+        "player": "Tan",
+        "result": "-$15,650"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "-$17,400"
+      },
+      {
+        "player": "Alec Torelli",
+        "result": "-$46,600"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 353",
+    "date": "01/12/23",
+    "yTitle": "POKER w/ Alexandra Botez, Arden Cho, Hoodie Allen, Justin Kan, BoxBox, Nate Hill, Tommy Unold, Lynne",
+    "yLink": "https://www.youtube.com/watch?v=yihxLclFkHI",
+    "players": [
+      {
+        "player": "Lynne Ji",
+        "result": "$18,235"
+      },
+      {
+        "player": "Tommy Unold",
+        "result": "$12,165"
+      },
+      {
+        "player": "Nate Hill",
+        "result": "$8,550"
+      },
+      {
+        "player": "Alexandra Botez",
+        "result": "$1,875"
+      },
+      {
+        "player": "Hoodie Allen",
+        "result": "-$3,035"
+      },
+      {
+        "player": "Justin Kan",
+        "result": "-$5,150"
+      },
+      {
+        "player": "BoxBox",
+        "result": "-$15,185"
+      },
+      {
+        "player": "Arden Cho",
+        "result": "-$17,455"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 354",
+    "date": "01/13/23",
+    "yTitle": "SUPER HIGH STAKES $100/200 w/ Blank Check Ben, Xuan Liu, Nik Airball, Francisco, J.R. & Mike X",
+    "yLink": "https://www.youtube.com/watch?v=G6Ti7TPAzjs",
+    "players": [
+      {
+        "player": "Mike X",
+        "result": "$100,100"
+      },
+      {
+        "player": "Ben Lee",
+        "result": "$87,100"
+      },
+      {
+        "player": "Francisco Fragoso",
+        "result": "$39,300"
+      },
+      {
+        "player": "Mars",
+        "result": "$31,000"
+      },
+      {
+        "player": "Nik Airball",
+        "result": "-$15,000"
+      },
+      {
+        "player": "Dustin Aab",
+        "result": "-$52,900"
+      },
+      {
+        "player": "Xuan Liu",
+        "result": "-$82,100"
+      },
+      {
+        "player": "J.R.",
+        "result": "-$107,500"
+      }
+	],
+    "total": "$0"
 }]
