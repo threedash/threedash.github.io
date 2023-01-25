@@ -15153,7 +15153,7 @@
         "result": "$71,800"
       },
       {
-        "player": "$71,800",
+        "player": "Ala",
         "result": "$42,950"
       },
       {
@@ -15846,7 +15846,7 @@
         "result": "-$4,400"
       },
       {
-        "player": "Jermey Levin",
+        "player": "Jeremey Levin",
         "result": "-$6,425"
       },
       {
@@ -15868,8 +15868,8 @@
 {
     "e": "Episode 352",
     "date": "01/11/23",
-    "yTitle": "Mariano, Alec Torelli & Mike X Play $25/50/100!! Commentary by David Tuchman",
-    "yLink": "https://www.youtube.com/watch?v=OyoCy9ZBGxE",
+    "yTitle": "https://www.youtube.com/watch?v=OyoCy9ZBGxE",
+    "yLink": "Mariano, Alec Torelli & Mike X Play $25/50/100!! Commentary by David Tuchman",
     "players": [
       {
         "player": "Sammy the Bull",
@@ -15986,6 +15986,284 @@
       {
         "player": "J.R.",
         "result": "-$107,500"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 355",
+    "date": "01/16/23",
+    "yTitle": "MAX PAIN MONDAY!! Poker Bunny, Israeli Ron, Jami, DGAF, DJ Washburn, DK! Commentary by RaverPoker",
+    "yLink": "https://www.youtube.com/watch?v=0P4qt3KxkzI",
+    "players": [
+      {
+        "player": "DGAF",
+        "result": "$25,780"
+      },
+      {
+        "player": "Sia the Bot",
+        "result": "$20,300"
+      },
+      {
+        "player": "Poker Bunny",
+        "result": "$4,660"
+      },
+      {
+        "player": "DJ Washburn",
+        "result": "$2,870"
+      },
+      {
+        "player": "San Man",
+        "result": "$2,430"
+      },
+      {
+        "player": "6 Feet Under",
+        "result": "-$470"
+      },
+      {
+        "player": "Darren",
+        "result": "-$3,660"
+      },
+      {
+        "player": "Jami",
+        "result": "-$7,660"
+      },
+      {
+        "player": "DK",
+        "result": "-$20,900"
+      }
+      ,
+      {
+        "player": "Israeli Ron",
+        "result": "-$23,350"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 356",
+    "date": "01/17/23",
+    "yTitle": "Rampage Plays The Ante Game w/ JBoogs, Francisco, Eli & Ronnie - Commentary by DGAF",
+    "yLink": "https://www.youtube.com/watch?v=YSEbHUjWiJ0",
+    "players": [
+      {
+        "player": "Rampage",
+        "result": "$31,850"
+      },
+      {
+        "player": "Eli Strickland",
+        "result": "$25,475"
+      },
+      {
+        "player": "Francisco Fragoso",
+        "result": "$25,225"
+      },
+      {
+        "player": "Mars",
+        "result": "$14,100"
+      },
+      {
+        "player": "Jeremy Levin",
+        "result": "$5,700"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "-$22,475"
+      },
+      {
+        "player": "Big John",
+        "result": "-$22,850"
+      },
+      {
+        "player": "Ronnie Ebanks",
+        "result": "-$24,575"
+      },
+      {
+        "player": "Mayhem",
+        "result": "-$32,450"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 357",
+    "date": "01/18/23",
+    "yTitle": "$25/50/100 w/ Alec Torelli, Mike X, Francisco, Henry & Brown Balla - Commentary by Christian Soto",
+    "yLink": "https://www.youtube.com/watch?v=_gIY_OHxZFc",
+    "players": [
+      {
+        "player": "Henry",
+        "result": "$38,300"
+      },
+      {
+        "player": "Francisco Fragoso",
+        "result": "$24,600"
+      },
+      {
+        "player": "Pepe",
+        "result": "-$49,900"
+      },
+      {
+        "player": "Alec Torelli",
+        "result": "$34,165"
+      },
+      {
+        "player": "Brown Balla",
+        "result": "-$60,800"
+      },
+      {
+        "player": "Tal",
+        "result": "-$7,600"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "-$51,515"
+      },
+      {
+        "player": "Mike X",
+        "result": "$72,750"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 358",
+    "date": "01/19/23",
+    "yTitle": "Mariano Plays $5/5/100 Ante Game w/ Francisco, Christian Soto & Mars - Commentary by DGAF",
+    "yLink": "https://www.youtube.com/watch?v=6PDSlz1nA-I",
+    "players": [
+      {
+        "player": "Francisco Fragoso",
+        "result": "$88,085"
+      },
+      {
+        "player": "Mariano",
+        "result": "$39,430"
+      },
+      {
+        "player": "Will",
+        "result": "$38,205"
+      },
+      {
+        "player": "Pepe",
+        "result": "$28,515"
+      },
+      {
+        "player": "Yen",
+        "result": "$9,480"
+      },
+      {
+        "player": "Sashimi",
+        "result": "$205"
+      },
+      {
+        "player": "Christian",
+        "result": "-$1,730"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "-$35,275"
+      },
+      {
+        "player": "Mars",
+        "result": "-$74,830"
+      }
+      ,
+      {
+        "player": "Tal",
+        "result": "-$92,085"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 359",
+    "date": "01/20/23",
+    "yTitle": "Rampage Buys In $200K! SUPER HIGH STAKES $100/200/400! Double M, Ben, Bill Klein, Charles, J.R.",
+    "yLink": "https://www.youtube.com/watch?v=5QT_EbvyBig",
+    "players": [
+      {
+        "player": "Mike X",
+        "result": "$119,900"
+      },
+      {
+        "player": "Ben Lee",
+        "result": "$116,100"
+      },
+      {
+        "player": "Nik Airball",
+        "result": "$107,000"
+      },
+      {
+        "player": "Prince Charles",
+        "result": "-$9,200"
+      },
+      {
+        "player": "Bill Klein",
+        "result": "-$14,500"
+      },
+      {
+        "player": "Double M",
+        "result": "-$103,100"
+      },
+      {
+        "player": "Rampage",
+        "result": "-$104,900"
+      },
+      {
+        "player": "J.R.",
+        "result": "-$111,300"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 360",
+    "date": "01/23/23",
+    "yTitle": "MAX PAIN MONDAY!! Mike Matusow, Liquid Steve, DQ, Sashimi, DGAF - Commentary by RaverPoker",
+    "yLink": "https://www.youtube.com/watch?v=TG3aYlXH-pg",
+    "players": [
+      {
+        "player": "DGAF",
+        "result": "$56,630"
+      },
+      {
+        "player": "Adam",
+        "result": "$2,900"
+      },
+      {
+        "player": "Sia the Bot",
+        "result": "-$110"
+      },
+      {
+        "player": "Sashimi",
+        "result": "-$370"
+      },
+      {
+        "player": "Liquid Steve",
+        "result": "-$540"
+      },
+      {
+        "player": "Mike Matusow",
+        "result": "-$1,930"
+      },
+      {
+        "player": "Brandon",
+        "result": "-$3,410"
+      },
+      {
+        "player": "DQ",
+        "result": "-$22,990"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "-$30,180"
       }
 	],
     "total": "$0"
