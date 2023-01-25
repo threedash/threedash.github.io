@@ -16267,4 +16267,50 @@
       }
 	],
     "total": "$0"
+},
+,
+{
+    "e": "Episode 361",
+    "date": "01/24/23",
+    "yTitle": "Mike Matusow, Sashimi, JBoogs, Francisco & Pepe Play THE ANTE GAME!! Commentary by DGA",
+    "yLink": "https://www.youtube.com/watch?v=79vzwl359KE",
+    "players": [
+      {
+        "player": "Mike Matusow",
+        "result": "$58,150"
+      },
+      {
+        "player": "Big John",
+        "result": "$41,425"
+      },
+      {
+        "player": "Jeremy Levin",
+        "result": "$28,675"
+      },
+      {
+        "player": "Mayhem",
+        "result": "$2,150"
+      },
+      {
+        "player": "Patrick",
+        "result": "-$4,975"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "-$12,225"
+      },
+      {
+        "player": "Sashimi",
+        "result": "-$18,375"
+      },
+      {
+        "player": "Francisco Fragoso",
+        "result": "-$46,825"
+      },
+      {
+        "player": "Pepe",
+        "result": "-$48,000"
+      }
+	],
+    "total": "$0"
 }]
