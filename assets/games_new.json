@@ -17656,10 +17656,10 @@
         "player": "Pouya",
         "result": "-$13,325"
       },
-      {
-        "player": "Nick Vertucci",
-        "result": "-$16,525"
-      },
+ {
+      "player": "Nick Vertucci",
+      "result": "-$16,525"
+ },
       {
         "player": "Kennedy",
         "result": "-$24,400"
@@ -17671,6 +17671,445 @@
       {
         "player": "Wesley Flan",
         "result": "-$33,000"
+      }
+	],
+    "total": "$0"
+},
+{
+    "e": "Episode 392",
+    "date": "03/08/23",
+    "yTitle": "$25/50/100 w/ Art, Mariano, Phora, Nik Airball, Alec Torelli & Mike X! Commentary by David Tuchman",
+    "yLink": "https://www.youtube.com/watch?v=6qx53YlsSPs",
+    "players": [
+      {
+        "player": "Henry",
+        "result": "$90,700"
+      },
+      {
+        "player": "Nik Airball",
+        "result": "$62,275"
+      },
+      {
+        "player": "Alec Torelli",
+        "result": "$54,375"
+      },
+      {
+        "player": "Brown Balla",
+        "result": "$22,725"
+      },
+      {
+        "player": "Art Papazyan",
+        "result": "-$20,075"
+      },
+      {
+        "player": "Phora",
+        "result": "-$56,650"
+      },
+      {
+        "player": "Mike X",
+        "result": "-$68,600"
+      },
+      {
+        "player": "Mariano",
+        "result": "-$84,750"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 393",
+    "date": "03/09/23",
+    "yTitle": "Wesley, Israeli Ron, Bear Jew, Ronnie, Francisco & Young Man Play $10/20/40 - Commentary by Charlie",
+    "yLink": "https://www.youtube.com/watch?v=HzbCPJHR3iw",
+    "players": [
+      {
+        "player": "Young Man",
+        "result": "$19,070"
+      },
+      {
+        "player": "Big Daddy Chaz",
+        "result": "$18,270"
+      },
+      {
+        "player": "Erik",
+        "result": "$11,570"
+      },
+      {
+        "player": "Ronnie Ebanks",
+        "result": "$8,260"
+      },
+      {
+        "player": "Bear Jew",
+        "result": "$7,070"
+      },
+      {
+        "player": "Israeli Ron",
+        "result": "-$4,370"
+      },
+      {
+        "player": "Francisco Fragoso",
+        "result": "-$11,090"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "-$16,290"
+      },
+      {
+        "player": "Wesley Flan",
+        "result": "-$32,490"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 394",
+    "date": "03/10/23",
+    "yTitle": "SUPER HIGH STAKES $100/200 w/ Mariano, Charles, Double M & Nik Airball - Commentary by David Tuchman",
+    "yLink": "https://www.youtube.com/watch?v=89tWGIVqGJg",
+    "players": [
+      {
+        "player": "Mariano",
+        "result": "$226,300"
+      },
+      {
+        "player": "Nik Airball",
+        "result": "$175,600"
+      },
+      {
+        "player": "Alex (muffin)",
+        "result": "$75,100"
+      },
+      {
+        "player": "Double M",
+        "result": "$32,900"
+      },
+      {
+        "player": "Mike X",
+        "result": "-$41,900"
+      },
+      {
+        "player": "Dentist Dave",
+        "result": "-$230,000"
+      },
+      {
+        "player": "Charles",
+        "result": "-$238,000"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 380",
+    "date": "03/13/23",
+    "yTitle": "MAX PAIN MONDAY!! Nate Hill, Brandon Frazier, Tafo, DGAF, Sashimi, DK, Sia & Hilary!!",
+    "yLink": "https://www.youtube.com/watch?v=7izwmw561iE",
+    "players": [
+      {
+        "player": "Tafo",
+        "result": "$12,350"
+      },
+      {
+        "player": "Sia the Bot",
+        "result": "$8,840"
+      },
+      {
+        "player": "Sashimi",
+        "result": "$8,230"
+      },
+      {
+        "player": "DGAF",
+        "result": "$6,970"
+      },
+      {
+        "player": "Crazy Drew",
+        "result": "$3,070"
+      },
+      {
+        "player": "Brandon Frazier",
+        "result": "$690"
+      },
+      {
+        "player": "Nate Hill",
+        "result": "-$10,950"
+      },
+      {
+        "player": "Hilary",
+        "result": "-$11,080"
+      },
+      {
+        "player": "DK",
+        "result": "-$18,120"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 380",
+    "date": "03/14/23",
+    "yTitle": "Luda Chris, JBoogs, Francisco, Young Man & Israeli Ron Play THE ANTE GAME - Commentary by DGAF",
+    "yLink": "https://www.youtube.com/watch?v=KRvExN2VF-I",
+    "players": [
+      {
+        "player": "Francisco Fragoso",
+        "result": "$72,750"
+      },
+      {
+        "player": "Big John",
+        "result": "$28,475"
+      },
+      {
+        "player": "Israeli Ron",
+        "result": "$8,825"
+      },
+      {
+        "player": "Patrick",
+        "result": "$3,450"
+      },
+      {
+        "player": "Dr. H",
+        "result": "-$13,200"
+      },
+      {
+        "player": "Jeremy Levin",
+        "result": "-$17,750"
+      },
+      {
+        "player": "Eli Strickland",
+        "result": "-$20,000"
+      },
+      {
+        "player": "Young Man",
+        "result": "-$24,950"
+      },
+      {
+        "player": "Luda Chris",
+        "result": "-$37,600"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 397",
+    "date": "03/15/23",
+    "yTitle": "Rampage Plays $25/50/100 w/ Mariano, Alec Torelli, Jibrael & Mike X!! Commentary by Charlie Wilmoth",
+    "yLink": "https://www.youtube.com/watch?v=C8aG7TY1jNg",
+    "players": [
+      {
+        "player": "Alec Torelli",
+        "result": "$26,675"
+      },
+      {
+        "player": "Jibrael",
+        "result": "$11,625"
+      },
+      {
+        "player": "Henry",
+        "result": "$5,400"
+      },
+      {
+        "player": "Will",
+        "result": "$2,425"
+      },
+      {
+        "player": "Mike X",
+        "result": "-$3,300"
+      },
+      {
+        "player": "Alex (muffin)",
+        "result": "-$13,100"
+      },
+      {
+        "player": "Mariano",
+        "result": "-$13,900"
+      },
+      {
+        "player": "Rampage",
+        "result": "-$15,825"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 398",
+    "date": "03/16/23",
+    "yTitle": "Wesley Plays $10/20/40 w/ Jibrael, Israeli Ron, Bear Jew, Pepe, Aaron Zhang, Francisco & Zeo",
+    "yLink": "https://www.youtube.com/watch?v=aapEFaD6Iz4",
+    "players": [
+      {
+        "player": "Will",
+        "result": "$100,710"
+      },
+      {
+        "player": "Bear Jew",
+        "result": "-$4,580"
+      },
+      {
+        "player": "Wesley Flan",
+        "result": "-$4,960"
+      },
+      {
+        "player": "Jibrael",
+        "result": "-$5,960"
+      },
+      {
+        "player": "Francisco Fragoso",
+        "result": "-$9,650"
+      },
+      {
+        "player": "Aaron Zhang",
+        "result": "-$10,200"
+      },
+      {
+        "player": "Israeli Ron",
+        "result": "-$12,780"
+      },
+      {
+        "player": "Zeo",
+        "result": "-$17,150"
+      },
+      {
+        "player": "Pepe",
+        "result": "-$35,430"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 399",
+    "date": "03/17/23",
+    "yTitle": "Rampage Plays SUPER HIGH STAKES $100/200/400 w/ Nik Airball, Bill Klein, Mike X & Dentist Dave",
+    "yLink": "https://www.youtube.com/watch?v=T8jX6Gx2jBg",
+    "players": [
+      {
+        "player": "Rampage",
+        "result": "$523,800"
+      },
+      {
+        "player": "Stanley Choi",
+        "result": "$295,600"
+      },
+      {
+        "player": "Bill Klein",
+        "result": "$53,600"
+      },
+      {
+        "player": "Francisco Fragoso",
+        "result": "-$2,300"
+      },
+      {
+        "player": "Mike X",
+        "result": "-$33,400"
+      },
+      {
+        "player": "Dentist Dave",
+        "result": "-$78,100"
+      },
+      {
+        "player": "Nik Airball",
+        "result": "-$759,200"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 400",
+    "date": "03/20/23",
+    "yTitle": "MAX PAIN MONDAY!! Nate Hill, DQ, Sashimi, DGAF, DK & Sia - Commentary by RaverPoker",
+    "yLink": "https://www.youtube.com/watch?v=44GoKm_qTOE",
+    "players": [
+      {
+        "player": "DGAF",
+        "result": "$28,640"
+      },
+      {
+        "player": "Sashimi",
+        "result": "$16,430"
+      },
+      {
+        "player": "Nate Hill",
+        "result": "$16,120"
+      },
+      {
+        "player": "A.V.",
+        "result": "$10,350"
+      },
+      {
+        "player": "Jeff (Giveaway)",
+        "result": "-$900"
+      },
+      {
+        "player": "Sia the Bot",
+        "result": "-$5,700"
+      },
+      {
+        "player": "DQ",
+        "result": "-$17,480"
+      },
+      {
+        "player": "DK",
+        "result": "-$21,680"
+      },
+      {
+        "player": "Adam",
+        "result": "-$25,780"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 401",
+    "date": "03/21/23",
+    "yTitle": "Luda Chris, JBoogs, Israeli Ron & Phora Play THE ANTE GAME - Commentary by DGAF",
+    "yLink": "https://www.youtube.com/watch?v=dALawkaJdaA",
+    "players": [
+      {
+        "player": "Jeremy Levin",
+        "result": "$60,950"
+      },
+      {
+        "player": "Lawrence",
+        "result": "$59,675"
+      },
+      {
+        "player": "Phora",
+        "result": "$28,800"
+      },
+      {
+        "player": "Francisco Fragoso",
+        "result": "$13,550"
+      },
+      {
+        "player": "Patrick",
+        "result": "$10,575"
+      },
+      {
+        "player": "Israeli Ron",
+        "result": "$3,925"
+      },
+      {
+        "player": "Nick L",
+        "result": "$2,575"
+      },
+      {
+        "player": "Big John",
+        "result": "-$20,225"
+      },
+      {
+        "player": "Brian (Santa)",
+        "result": "-$35,675"
+      },
+      {
+        "player": "Luda Chris",
+        "result": "-$124,150"
       }
 	],
     "total": "$0"
