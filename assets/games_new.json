@@ -18113,4 +18113,139 @@
       }
 	],
     "total": "$0"
+}
+,
+{
+    "e": "Episode 402",
+    "date": "03/22/23",
+    "yTitle": "Mariano, Nik Airball, Wesley, Xuan Liu, Pepe & Dentist Dave Play $25/50/100 - Commentary by DGAF",
+    "yLink": "https://www.youtube.com/watch?v=P1rjaCLcoDo",
+    "players": [
+      {
+        "player": "Wesley Flan",
+        "result": "$120,750"
+      },
+      {
+        "player": "Pepe",
+        "result": "$65,200"
+      },
+      {
+        "player": "Mariano",
+        "result": "$46,825"
+      },
+      {
+        "player": "Brown Balla",
+        "result": "$16,775"
+      },
+      {
+        "player": "Xuan Liu",
+        "result": "$1,100"
+      },
+      {
+        "player": "Dentist Dave",
+        "result": "-$9,200"
+      },
+      {
+        "player": "Lawrence",
+        "result": "-$71,400"
+      },
+      {
+        "player": "Nik Airball",
+        "result": "-$170,050"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 403",
+    "date": "03/23/23",
+    "yTitle": "Bryce Hall, Josh Richards, Alex Botez, Mikki, Barstool Nate & Hoodie Allen!! CREATOR POKER NIGHT!!",
+    "yLink": "https://www.youtube.com/watch?v=_T6Qk97U4Cw",
+    "players": [
+      {
+        "player": "Hoodie Allen",
+        "result": "$36,585"
+      },
+      {
+        "player": "Alexandra Botez",
+        "result": "$20,405"
+      },
+      {
+        "player": "Bryce Hall",
+        "result": "$14,605"
+      },
+      {
+        "player": "Tommy Unold",
+        "result": "$1,960"
+      },
+      {
+        "player": "Nick Austin",
+        "result": "-$1,350"
+      },
+      {
+        "player": "Josh Richards",
+        "result": "-$2,895"
+      },
+      {
+        "player": "Skye",
+        "result": "-$4,900"
+      },
+      {
+        "player": "Barstool Nate",
+        "result": "-$9,570"
+      },
+      {
+        "player": "Mikki",
+        "result": "-$20,010"
+      }
+      ,
+      {
+        "player": "Phora",
+        "result": "-$34,830"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 404",
+    "date": "03/24/23",
+    "yTitle": "Rampage, Mariano & Nik Airball Play SUPER HIGH STAKES $100/200!! Commentary by David Tuchman",
+    "yLink": "https://www.youtube.com/watch?v=ILdZdZjD96c",
+    "players": [
+      {
+        "player": "Mariano",
+        "result": "$568,700"
+      },
+      {
+        "player": "Rampage",
+        "result": "$79,200"
+      },
+      {
+        "player": "Dentist Dave",
+        "result": "$20,300"
+      },
+      {
+        "player": "Nik Airball",
+        "result": "-$29,000"
+      },
+      {
+        "player": "Dario",
+        "result": "-$42,900"
+      },
+      {
+        "player": "Yang",
+        "result": "-$100,000"
+      },
+      {
+        "player": "Han",
+        "result": "-$196,600"
+      },
+      {
+        "player": "Double M",
+        "result": "-$299,700"
+      }
+	],
+    "total": "$0"
 }]
