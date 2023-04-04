@@ -18248,4 +18248,230 @@
       }
 	],
     "total": "$0"
+}
+,
+{
+    "e": "Episode 405",
+    "date": "03/27/23",
+    "yTitle": "MAX PAIN MONDAY!! Nate Hill, Randy Pitchford, DGAF, Sashimi & DK!! Commentary by RaverPoker",
+    "yLink": "https://www.youtube.com/watch?v=qaTRosFOe9U",
+    "players": [
+      {
+        "player": "Nate Hill",
+        "result": "$13,900"
+      },
+      {
+        "player": "Stuart",
+        "result": "$6,060"
+      },
+      {
+        "player": "Sashimi",
+        "result": "$5,190"
+      },
+      {
+        "player": "Wasabi",
+        "result": "$4,940"
+      },
+      {
+        "player": "A.V.",
+        "result": "$2,740"
+      },
+      {
+        "player": "YDD",
+        "result": "-$810"
+      },
+      {
+        "player": "DK",
+        "result": "-$1,680"
+      },
+      {
+        "player": "DGAF",
+        "result": "-$5,900"
+      },
+      {
+        "player": "Randy Pitchford",
+        "result": "-$24,440"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 406",
+    "date": "03/28/23",
+    "yTitle": "THE ANTE GAME!! Kennedy, Francisco, Mike X, Big John, Nick Vertucci!! Commentary by DGAF",
+    "yLink": "https://www.youtube.com/watch?v=SJKyd_aY-H4",
+    "players": [
+      {
+        "player": "Francisco Fragoso",
+        "result": "$26,175"
+      },
+      {
+        "player": "Dr. H",
+        "result": "$20,900"
+      },
+      {
+        "player": "Big John",
+        "result": "$16,275"
+      },
+      {
+        "player": "Dark Knight",
+        "result": "$11,050"
+      },
+      {
+        "player": "Johnny Stevens",
+        "result": "-$3,350"
+      },
+      {
+        "player": "Patrick",
+        "result": "-$4,700"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "-$16,750"
+      },
+      {
+        "player": "Mike X",
+        "result": "-$20,200"
+      },
+      {
+        "player": "Kennedy",
+        "result": "-$29,400"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 407",
+    "date": "03/29/23",
+    "yTitle": "Mariano, Wesley, Alec Torelli, Christian Soto & Tony Tag Play $25/50/100!! Commentary by DGAF",
+    "yLink": "https://www.youtube.com/watch?v=hBtkwqYuGPs",
+    "players": [
+      {
+        "player": "Sammy the Bull",
+        "result": "$62,850"
+      },
+      {
+        "player": "Christian Soto",
+        "result": "$53,500"
+      },
+      {
+        "player": "Dylan Flashner",
+        "result": "$30,125"
+      },
+      {
+        "player": "Tony Tag",
+        "result": "$19,450"
+      },
+      {
+        "player": "Alec Torelli",
+        "result": "$17,700"
+      },
+      {
+        "player": "Mars",
+        "result": "$2,725"
+      },
+      {
+        "player": "Wesley Flan",
+        "result": "-$9,925"
+      },
+      {
+        "player": "Mariano",
+        "result": "-$73,400"
+      },
+      {
+        "player": "Henry",
+        "result": "-$103,025"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 408",
+    "date": "03/30/23",
+    "yTitle": "Lynne, Wesley, Mike X, Israeli Ron & Pepe Play $10/20/40 - Commentary by Christian Soto",
+    "yLink": "https://www.youtube.com/watch?v=GrkarUjL1qs",
+    "players": [
+      {
+        "player": "Pepe",
+        "result": "$25,110"
+      },
+      {
+        "player": "Pedro",
+        "result": "$9,990"
+      },
+      {
+        "player": "Israeli Ron",
+        "result": "$7,910"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "$7,690"
+      },
+      {
+        "player": "Zeo",
+        "result": "$4,510"
+      },
+      {
+        "player": "Lynne Ji",
+        "result": "$720"
+      },
+      {
+        "player": "Nick Lucas",
+        "result": "$170"
+      },
+      {
+        "player": "Mike X",
+        "result": "-$7,600"
+      },
+      {
+        "player": "Wesley Flan",
+        "result": "-$48,500"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 409",
+    "date": "03/31/23",
+    "yTitle": "SUPER HIGH STAKES $100/200/400 w/ Wesley, Charles, Dentist Dave, Ryan Feldman, J.R. & Francisco",
+    "yLink": "https://www.youtube.com/watch?v=PVDYIRBhs5w",
+    "players": [
+      {
+        "player": "Charles",
+        "result": "$325,700"
+      },
+      {
+        "player": "Wesley Flan",
+        "result": "$307,700"
+      },
+      {
+        "player": "Stanley Choi",
+        "result": "$33,400"
+      },
+      {
+        "player": "Henry",
+        "result": "-$15,500"
+      },
+      {
+        "player": "J.R.",
+        "result": "-$84,500"
+      },
+      {
+        "player": "Dentist Dave",
+        "result": "-$146,400"
+      },
+      {
+        "player": "Francisco Fragoso",
+        "result": "-$208,500"
+      },
+      {
+        "player": "Ryan Feldman",
+        "result": "-$211,900"
+      }
+	],
+    "total": "$0"
 }]
