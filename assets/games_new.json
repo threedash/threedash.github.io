@@ -18474,4 +18474,230 @@
       }
 	],
     "total": "$0"
+}
+,
+{
+    "e": "Episode 410",
+    "date": "04/03/23",
+    "yTitle": "MAX PAIN MONDAY!! Nate Hill, Lynne, DGAF, Sashimi, Sia & DK!! Commentary by RaverPoker",
+    "yLink": "https://www.youtube.com/watch?v=pZlHtIy5h0A",
+    "players": [
+      {
+        "player": "Palmdale Mike",
+        "result": "$23,850"
+      },
+      {
+        "player": "Sashimi",
+        "result": "$6,820"
+      },
+      {
+        "player": "Jessica Cass",
+        "result": "$5,490"
+      },
+      {
+        "player": "Nate Hill",
+        "result": "$2,920"
+      },
+      {
+        "player": "Sia the Bot",
+        "result": "$1,090"
+      },
+      {
+        "player": "Lynne Ji",
+        "result": "-$3,380"
+      },
+      {
+        "player": "DK",
+        "result": "-$7,070"
+      },
+      {
+        "player": "DGAF",
+        "result": "-$9,820"
+      },
+      {
+        "player": "Sandro",
+        "result": "-$19,900"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 411",
+    "date": "04/04/23",
+    "yTitle": "Luda Chris, Francisco, Big John & Ronnie Play THE ANTE GAME!! Commentary by DGAF",
+    "yLink": "https://www.youtube.com/watch?v=mTofMuHDl7I",
+    "players": [
+      {
+        "player": "Patrick",
+        "result": "$46,225"
+      },
+      {
+        "player": "Francisco Fragoso",
+        "result": "$33,875"
+      },
+      {
+        "player": "Luda Chris",
+        "result": "$33,450"
+      },
+      {
+        "player": "Big John",
+        "result": "-$375"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "-$12,200"
+      },
+      {
+        "player": "Dr. H",
+        "result": "-$16,775"
+      },
+      {
+        "player": "Ronnie Ebanks",
+        "result": "-$28,800"
+      },
+      {
+        "player": "Johnny Stevens",
+        "result": "-$55,400"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 400",
+    "date": "04/05/23",
+    "yTitle": "Chris Moneymaker Plays $25/50/100 w/ Mariano, Johnnie Vibes, Rob Kuhn, Alec Torelli & Jibrael",
+    "yLink": "https://www.youtube.com/watch?v=Orp0JkXArjM",
+    "players": [
+      {
+        "player": "Alec Torelli",
+        "result": "$89,000"
+      },
+      {
+        "player": "Will",
+        "result": "$68,375"
+      },
+      {
+        "player": "Mike X",
+        "result": "$12,975"
+      },
+      {
+        "player": "Dentist Dave",
+        "result": "$5,025"
+      },
+      {
+        "player": "Mariano",
+        "result": "-$17,750"
+      },
+      {
+        "player": "Jibrael",
+        "result": "-$23,350"
+      },
+      {
+        "player": "Rob Kuhn",
+        "result": "-$24,250"
+      },
+      {
+        "player": "Johnnie Vibes",
+        "result": "-$41,225"
+      },
+      {
+        "player": "Chris Moneymaker",
+        "result": "-$68,800"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 413",
+    "date": "04/06/23",
+    "yTitle": "Wesley Plays $10/20/40 w/ Jibrael, Francisco & Dentist Dave - Commentary by Christian Soto",
+    "yLink": "https://www.youtube.com/watch?v=P2jDIXHz1kg",
+    "players": [
+      {
+        "player": "Will",
+        "result": "$66,510"
+      },
+      {
+        "player": "Rick (task)",
+        "result": "$20,910"
+      },
+      {
+        "player": "Jibrael",
+        "result": "$14,990"
+      },
+      {
+        "player": "Aaron Zhang",
+        "result": "$10,090"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "-$980"
+      },
+      {
+        "player": "Francisco Fragoso",
+        "result": "-$16,180"
+      },
+      {
+        "player": "Zeo",
+        "result": "-$19,590"
+      },
+      {
+        "player": "Wesley Flan",
+        "result": "-$23,060"
+      },
+      {
+        "player": "Dentist Dave",
+        "result": "-$52,690"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 414",
+    "date": "04/07/23",
+    "yTitle": "Alan Keating Commentates $100/200!! Ben, Charles, Double M, Luda Chris, Bill Klein, J.R. & Jibrael",
+    "yLink": "https://www.youtube.com/watch?v=dLIToOE1mYI",
+    "players": [
+      {
+        "player": "Bobo",
+        "result": "$300,300"
+      },
+      {
+        "player": "Ben Lee",
+        "result": "$230,300"
+      },
+      {
+        "player": "Dentist Dave",
+        "result": "$68,600"
+      },
+      {
+        "player": "Double M",
+        "result": "$48,800"
+      },
+      {
+        "player": "Bill Klein",
+        "result": "$7,100"
+      },
+      {
+        "player": "Jibrael",
+        "result": "-$30,100"
+      },
+      {
+        "player": "Charles",
+        "result": "-$32,000"
+      },
+      {
+        "player": "Luda Chris",
+        "result": "-$165,100"
+      },
+      {
+        "player": "J.R.",
+        "result": "-$427,900"
+      }
+	],
+    "total": "$0"
 }]
