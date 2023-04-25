@@ -17962,7 +17962,7 @@
         "result": "-$9,650"
       },
       {
-        "player": "Aaron Zhang",
+        "player": "Aaron Zang",
         "result": "-$10,200"
       },
       {
@@ -18629,7 +18629,7 @@
         "result": "$14,990"
       },
       {
-        "player": "Aaron Zhang",
+        "player": "Aaron Zang",
         "result": "$10,090"
       },
       {
@@ -18697,6 +18697,458 @@
       {
         "player": "J.R.",
         "result": "-$427,900"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 415",
+    "date": "04/10/23",
+    "yTitle": "MAX PAIN MONDAY!! World Wide Wob, Randy Pitchford, Nate Hill, DGAF, DK, Dentist Dave & Sia",
+    "yLink": "https://www.youtube.com/watch?v=tfpGuPLMdbk",
+    "players": [
+      {
+        "player": "Dentist Dave",
+        "result": "$27,110"
+      },
+      {
+        "player": "Nate Hill",
+        "result": "$22,700"
+      },
+      {
+        "player": "WOB",
+        "result": "$9,050"
+      },
+      {
+        "player": "DK",
+        "result": "$8,550"
+      },
+      {
+        "player": "Sia the Bot",
+        "result": "$290"
+      },
+      {
+        "player": "Crazy Drew",
+        "result": "$60"
+      },
+      {
+        "player": "San Man",
+        "result": "-$1,670"
+      },
+      {
+        "player": "Randy",
+        "result": "-$20,300"
+      },
+      {
+        "player": "DGAF",
+        "result": "-$21,680"
+      },
+      {
+        "player": "TNA Kirsh",
+        "result": "-$24,110"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 416",
+    "date": "04/11/23",
+    "yTitle": "Luda Chris, Francisco, Big John, Dark Knight & Mars Play THE ANTE GAME - Commentary by DGAF",
+    "yLink": "https://www.youtube.com/watch?v=6rEhDAWFA3M",
+    "players": [
+      {
+        "player": "Nick L",
+        "result": "$31,250"
+      },
+      {
+        "player": "Mars",
+        "result": "$25,475"
+      },
+      {
+        "player": "Francisco Fragoso",
+        "result": "$15,250"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "$14,900"
+      },
+      {
+        "player": "Efan",
+        "result": "$12,400"
+      },
+      {
+        "player": "Dark Knight",
+        "result": "$1,225"
+      },
+      {
+        "player": "Pepe",
+        "result": "-$2,450"
+      },
+      {
+        "player": "Dr. H",
+        "result": "-$4,125"
+      },
+      {
+        "player": "Patrick",
+        "result": "-$40,100"
+      },
+      {
+        "player": "Luda Chris",
+        "result": "-$43,850"
+      }
+	],
+    "total": "$9,975"
+}
+,
+{
+    "e": "Episode 417",
+    "date": "04/12/23",
+    "yTitle": "Magnus Carlsen & Bryce Hall Play Poker w/ Alex Botez, Mariano, JC Caylen, Kian Lawley & Nate Hill",
+    "yLink": "https://www.youtube.com/watch?v=gbh0d7WXxB8",
+    "players": [
+      {
+        "player": "Alexandra Botez",
+        "result": "$32,895"
+      },
+      {
+        "player": "Nick Austin",
+        "result": "$13,150"
+      },
+      {
+        "player": "Bryce Hall",
+        "result": "$5,115"
+      },
+      {
+        "player": "Magnus Carlsen",
+        "result": "$4,490"
+      },
+      {
+        "player": "JC Caylen",
+        "result": "$3,120"
+      },
+      {
+        "player": "Kian Lawley",
+        "result": "-$1,875"
+      },
+      {
+        "player": "Nate Hill",
+        "result": "-$22,415"
+      },
+      {
+        "player": "Mariano",
+        "result": "-$34,480"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 418",
+    "date": "04/13/23",
+    "yTitle": "SUPER HIGH STAKES $100/200 w/ Ben, Charles, Bobo, Pepe, Brandon Steven, Bill Klein & Mike X",
+    "yLink": "https://www.youtube.com/watch?v=Dc9n3_HUvkw",
+    "players": [
+      {
+        "player": "Israeli Ron",
+        "result": "$29,160"
+      },
+      {
+        "player": "Tal",
+        "result": "$23,260"
+      },
+      {
+        "player": "Pepe",
+        "result": "$21,250"
+      },
+      {
+        "player": "Wesley Flan",
+        "result": "$5,260"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "-$5,150"
+      },
+      {
+        "player": "Efan",
+        "result": "-$8,920"
+      },
+      {
+        "player": "Bart Hanson",
+        "result": "-$13,620"
+      },
+      {
+        "player": "Francisco Fragoso",
+        "result": "-$21,980"
+      },
+      {
+        "player": "Sashimi",
+        "result": "-$29,260"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 419",
+    "date": "04/14/23",
+    "yTitle": "SUPER HIGH STAKES $100/200 w/ Ben, Charles, Bobo, Pepe, Brandon Steven, Bill Klein & Mike X",
+    "yLink": "https://www.youtube.com/watch?v=Dc9n3_HUvkw",
+    "players": [
+      {
+        "player": "Ben Lee",
+        "result": "$280,800"
+      },
+      {
+        "player": "Bobo",
+        "result": "$190,700"
+      },
+      {
+        "player": "Ryan Jboogs",
+        "result": "$162,297"
+      },
+      {
+        "player": "Pepe",
+        "result": "$144,900"
+      },
+      {
+        "player": "Brandon Steven",
+        "result": "-$43,794"
+      },
+      {
+        "player": "Mike X",
+        "result": "-$119,400"
+      },
+      {
+        "player": "Charles",
+        "result": "-$239,203"
+      },
+      {
+        "player": "Bill Klein",
+        "result": "-$376,300"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 420",
+    "date": "04/17/23",
+    "yTitle": "MAX PAIN MONDAY!! Liquid Steve, Xuan Liu, RaverPoker, Nate Hill & Sashimi!! Commentary by DGAF",
+    "yLink": "https://www.youtube.com/watch?v=c7i8-suQLp4",
+    "players": [
+      {
+        "player": "Hayley Hanna",
+        "result": "$32,710"
+      },
+      {
+        "player": "Nate Hill",
+        "result": "$16,410"
+      },
+      {
+        "player": "Sia the Bot",
+        "result": "$5,070"
+      },
+      {
+        "player": "Xuan Liu",
+        "result": "$3,300"
+      },
+      {
+        "player": "Raver Poker",
+        "result": "$1,770"
+      },
+      {
+        "player": "San Man",
+        "result": "-$3,240"
+      },
+      {
+        "player": "Sashimi",
+        "result": "-$11,950"
+      },
+      {
+        "player": "TSM Reginald",
+        "result": "-$20,360"
+      },
+      {
+        "player": "Liquid Steve",
+        "result": "-$23,710"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 421",
+    "date": "04/18/23",
+    "yTitle": "Luda Chris, Israeli Ron, Francisco, GT & Efan Play THE ANTE GAME!! Commentary by DGAF",
+    "yLink": "https://www.youtube.com/watch?v=MQTV1jI62CA",
+    "players": [
+      {
+        "player": "Johnny Stevens",
+        "result": "-$8,900"
+      },
+      {
+        "player": "Big John",
+        "result": "-$875"
+      },
+      {
+        "player": "Dr. H",
+        "result": "-$44,700"
+      },
+      {
+        "player": "Luda Chris",
+        "result": "$54,925"
+      },
+      {
+        "player": "Efan",
+        "result": "$49,575"
+      },
+      {
+        "player": "GT",
+        "result": "-$750"
+      },
+      {
+        "player": "Francisco Fragoso",
+        "result": "-$4,550"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "-$12,150"
+      },
+      {
+        "player": "Israeli Ron",
+        "result": "-$32,575"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 422",
+    "date": "04/19/23",
+    "yTitle": "Wesley, Mariano, Xuan Liu, Dentist Dave & Mike X Play $25/50/100!! Commentary by DGAF",
+    "yLink": "https://www.youtube.com/watch?v=1cm0ReYEjQ0",
+    "players": [
+      {
+        "player": "Dentist Dave",
+        "result": "$117,100"
+      },
+      {
+        "player": "Efan",
+        "result": "$33,650"
+      },
+      {
+        "player": "GT",
+        "result": "$26,175"
+      },
+      {
+        "player": "Nick L",
+        "result": "-$2,500"
+      },
+      {
+        "player": "Wesley Flan",
+        "result": "-$2,850"
+      },
+      {
+        "player": "Mariano",
+        "result": "-$21,225"
+      },
+      {
+        "player": "Xuan Liu",
+        "result": "-$24,675"
+      },
+      {
+        "player": "Henry",
+        "result": "-$48,125"
+      },
+      {
+        "player": "Mike X",
+        "result": "-$77,550"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 423",
+    "date": "04/20/23",
+    "yTitle": "Wesley, Israeli Ron, Zeo, Efan & Cowboy John Play $10/20/40 - Commentary by DGAF",
+    "yLink": "https://www.youtube.com/watch?v=B2eLdKvHS5Q",
+    "players": [
+      {
+        "player": "Zeo",
+        "result": "$31,350"
+      },
+      {
+        "player": "Israeli Ron",
+        "result": "$27,420"
+      },
+      {
+        "player": "Casino King",
+        "result": "$20,050"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "$8,320"
+      },
+      {
+        "player": "Nick L",
+        "result": "-$3,130"
+      },
+      {
+        "player": "Rick (task)",
+        "result": "-$11,140"
+      },
+      {
+        "player": "Efan",
+        "result": "-$17,510"
+      },
+      {
+        "player": "Wesley Flan",
+        "result": "-$37,280"
+      }
+	],
+    "total": "$18,080"
+}
+,
+{
+    "e": "Episode 424",
+    "date": "04/21/23",
+    "yTitle": "SUPER HIGH STAKES $100/200!! Mariano, Wesley, Bill Klein, Dentist Dave, Mike X, Henry & Pepe",
+    "yLink": "https://www.youtube.com/watch?v=rg1Sq1mDN6A",
+    "players": [
+      {
+        "player": "Dentist Dave",
+        "result": "$110,200"
+      },
+      {
+        "player": "Brown Balla",
+        "result": "$56,900"
+      },
+      {
+        "player": "Mike X",
+        "result": "$54,300"
+      },
+      {
+        "player": "Mariano",
+        "result": "-$9,300"
+      },
+      {
+        "player": "Henry",
+        "result": "-$25,700"
+      },
+      {
+        "player": "Wesley Flan",
+        "result": "-$27,500"
+      },
+      {
+        "player": "Bill Klein",
+        "result": "-$70,000"
+      },
+      {
+        "player": "Pepe",
+        "result": "-$88,900"
       }
 	],
     "total": "$0"
