@@ -8316,7 +8316,7 @@
       "yLink": "https://www.youtube.com/watch?v=mx69F2HV2x8",
       "players": [
         {
-          "player": "Brandon Steven",
+          "player": "Brandon Stevens",
           "result": "$227,400"
         },
         {
@@ -15738,7 +15738,7 @@
     "yLink": "https://www.youtube.com/watch?v=IQbM3itdfX0",
     "players": [
       {
-        "player": "Brandon Steven",
+        "player": "Brandon Stevens",
         "result": "$516,000"
       },
       {
@@ -18913,7 +18913,7 @@
         "result": "$144,900"
       },
       {
-        "player": "Brandon Steven",
+        "player": "Brandon Stevens",
         "result": "-$43,794"
       },
       {
@@ -19149,6 +19149,183 @@
       {
         "player": "Pepe",
         "result": "-$88,900"
+      }
+	],
+    "total": "$0"
+},
+{
+    "e": "Episode 425",
+    "date": "04/24/23",
+    "yTitle": "MAX PAIN MONDAY!! Alex Botez, Nemo, DGAF, DK, Nate Hill, Randy Pitchford & Sammy!!",
+    "yLink": "https://www.youtube.com/watch?v=VrQWH8Z8mTU",
+    "players": [
+      {
+        "player": "Randy Pitchford",
+        "result": "$16,370"
+      },
+      {
+        "player": "Nate Hill",
+        "result": "$11,680"
+      },
+      {
+        "player": "DK",
+        "result": "$5,900"
+      },
+      {
+        "player": "Brantzen",
+        "result": "$2,160"
+      },
+      {
+        "player": "Alexandra Botez",
+        "result": "-$3,520"
+      },
+      {
+        "player": "Pocket Yakis",
+        "result": "-$3,540"
+      },
+      {
+        "player": "Nemo",
+        "result": "-$5,960"
+      },
+      {
+        "player": "DGAF",
+        "result": "-$6,860"
+      },
+      {
+        "player": "Sammy",
+        "result": "-$16,230"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 426",
+    "date": "04/25/23",
+    "yTitle": "THE ANTE GAME w/ Francisco, Ronnie, Israeli Ron, Dark Knight & Mars - Commentary by DGAF",
+    "yLink": "https://www.youtube.com/watch?v=lg9cBQVhADk",
+    "players": [
+      {
+        "player": "Big John",
+        "result": "$56,675"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "$40,375"
+      },
+      {
+        "player": "Mars",
+        "result": "$32,200"
+      },
+      {
+        "player": "Israeli Ron",
+        "result": "$24,100"
+      },
+      {
+        "player": "Mayhem",
+        "result": "$14,825"
+      },
+      {
+        "player": "Francisco Fragoso",
+        "result": "-$15,125"
+      },
+      {
+        "player": "Nick L",
+        "result": "-$40,025"
+      },
+      {
+        "player": "Ronnie Ebanks",
+        "result": "-$40,025"
+      },
+      {
+        "player": "Dark Knight",
+        "result": "-$73,000"
+      }
+	],
+    "total": "$0"
+},
+{
+    "e": "Episode 427",
+    "date": "04/26/23",
+    "yTitle": "Andy, Nik Airball & Wesley Play $25/50/100!! Commentary by David Tuchman",
+    "yLink": "https://www.youtube.com/watch?v=KqGE8ezepRA",
+    "players": [
+      {
+        "player": "Nik Airball",
+        "result": "$29,950"
+      },
+      {
+        "player": "Andy Stacks",
+        "result": "$25,725"
+      },
+      {
+        "player": "Wesley Flan",
+        "result": "$24,600"
+      },
+      {
+        "player": "Dr. H",
+        "result": "$22,750"
+      },
+      {
+        "player": "Yoda",
+        "result": "$21,075"
+      },
+      {
+        "player": "Brown Balla",
+        "result": "-$3,750"
+      },
+      {
+        "player": "Mars",
+        "result": "-$20,850"
+      },
+      {
+        "player": "Henry",
+        "result": "-$99,500"
+      }
+	],
+    "total": "$0"
+},
+{
+    "e": "Episode 428",
+    "date": "04/27/23",
+    "yTitle": "Wesley, Ronnie & Israeli Ron Play $10/20/40!! Commentary by DGAF",
+    "yLink": "https://www.youtube.com/watch?v=yRIuC63nlrg",
+    "players": [
+      {
+        "player": "Boris",
+        "result": "$19,720"
+      },
+      {
+        "player": "Wesley Flan",
+        "result": "$11,280"
+      },
+      {
+        "player": "Israeli Ron",
+        "result": "$8,630"
+      },
+      {
+        "player": "Ronnie Ebanks",
+        "result": "$5,220"
+      },
+      {
+        "player": "Zeo",
+        "result": "$3,760"
+      },
+      {
+        "player": "Denis Bagdasarov",
+        "result": "-$3,050"
+      },
+      {
+        "player": "Tal",
+        "result": "-$4,850"
+      },
+      {
+        "player": "Darren",
+        "result": "-$17,540"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "-$23,170"
       }
 	],
     "total": "$0"
