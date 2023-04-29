@@ -19329,4 +19329,55 @@
       }
 	],
     "total": "$0"
+}
+,
+{
+    "e": "Episode 429",
+    "date": "04/28/23",
+    "yTitle": "Phil Hellmuth & Jungleman Play SUPER HIGH STAKES $100/200/400 w/ Andy, Nik Airball, Handz & Mike X",
+    "yLink": "https://www.youtube.com/watch?v=RO6L3Gf4o3I",
+    "players": [
+      {
+        "player": "Jungleman",
+        "result": "$169,600"
+      },
+      {
+        "player": "Nik Airball",
+        "result": "$103,200"
+      },
+      {
+        "player": "Mike X",
+        "result": "$52,500"
+      },
+      {
+        "player": "Bobo",
+        "result": "$35,300"
+      },
+      {
+        "player": "Dentist Dave",
+        "result": "-$19,000"
+      },
+      {
+        "player": "Phil Hellmuth",
+        "result": "-$40,000"
+      },
+      {
+        "player": "Handz",
+        "result": "-$47,100"
+      },
+      {
+        "player": "Stanley Choi",
+        "result": "-$54,100"
+      },
+      {
+        "player": "Israeli Ron",
+        "result": "-$67,700"
+      }
+      ,
+      {
+        "player": "Andy Stacks",
+        "result": "-$132,700"
+      }
+	],
+    "total": "$0"
 }]
