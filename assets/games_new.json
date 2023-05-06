@@ -19380,4 +19380,222 @@
       }
 	],
     "total": "$0"
+}
+,
+{
+    "e": "Episode 430",
+    "date": "05/01/23",
+    "yTitle": "MAX PAIN MONDAY!! Mariano, Dentist Dave, DGAF, Nate Hill & Sia - Commentary by RaverPoker",
+    "yLink": "https://www.youtube.com/watch?v=qOD21tQ53zA",
+    "players": [
+      {
+        "player": "DGAF",
+        "result": "$35,330"
+      },
+      {
+        "player": "Poudaddy",
+        "result": "$14,390"
+      },
+      {
+        "player": "Mariano",
+        "result": "$10,560"
+      },
+      {
+        "player": "Sia the Bot",
+        "result": "$3,640"
+      },
+      {
+        "player": "Randy Pitchford",
+        "result": "-$9,330"
+      },
+      {
+        "player": "Nate Hill",
+        "result": "-$11,810"
+      },
+      {
+        "player": "Dentist Dave",
+        "result": "-$13,260"
+      },
+      {
+        "player": "Johnny Steven",
+        "result": "-$14,760"
+      },
+      {
+        "player": "Rubiez",
+        "result": "-$14,760"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 431",
+    "date": "05/02/23",
+    "yTitle": "JBoogs is Back!! THE ANTE GAME w/ JBoogs, Luda Chris, Nick, Ronnie, Israeli Ron - Commentary by DGAF",
+    "yLink": "https://www.youtube.com/watch?v=EY53vRNHg3M",
+    "players": [
+      {
+        "player": "GT",
+        "result": "$31,825"
+      },
+      {
+        "player": "Israeli Ron",
+        "result": "$24,200"
+      },
+      {
+        "player": "Jeremy Levin",
+        "result": "$23,775"
+      },
+      {
+        "player": "Big John",
+        "result": "$9,500"
+      },
+      {
+        "player": "Luda Chris",
+        "result": "$9,225"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "$2,625"
+      },
+      {
+        "player": "Mayhem",
+        "result": "-$15,375"
+      },
+      {
+        "player": "Ronnie Ebanks",
+        "result": "-$32,725"
+      },
+      {
+        "player": "Johnny Steven",
+        "result": "-$53,050"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 432",
+    "date": "05/03/23",
+    "yTitle": "Andy, Wesley, Pepe & Mike X Play $25/50/100!! Commentary by Christian Soto",
+    "yLink": "https://www.youtube.com/watch?v=RhlPgm8PQIk",
+    "players": [
+      {
+        "player": "Wesley Flan",
+        "result": "$122,150"
+      },
+      {
+        "player": "Will",
+        "result": "$88,475"
+      },
+      {
+        "player": "Andy Stacks",
+        "result": "$28,175"
+      },
+      {
+        "player": "GT",
+        "result": "-$17,900"
+      },
+      {
+        "player": "Dr. H",
+        "result": "-$23,850"
+      },
+      {
+        "player": "Pepe",
+        "result": "-$38,775"
+      },
+      {
+        "player": "Henry",
+        "result": "-$60,150"
+      },
+      {
+        "player": "Mike X",
+        "result": "-$98,125"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 433",
+    "date": "05/04/23",
+    "yTitle": "Christian Soto, Israeli Ron, Francisco, Mr. Unlucky, Will & Zeo Play $10/20/40 - Commentary by DGAF",
+    "yLink": "https://www.youtube.com/watch?v=iEQNcd4keRI",
+    "players": [
+      {
+        "player": "Big John",
+        "result": "$34,780"
+      },
+      {
+        "player": "Chin",
+        "result": "$23,010"
+      },
+      {
+        "player": "Zeo",
+        "result": "$14,120"
+      },
+      {
+        "player": "Francisco Fragoso",
+        "result": "$9,330"
+      },
+      {
+        "player": "Mr. Unlucky",
+        "result": "$7,560"
+      },
+      {
+        "player": "Israeli Ron",
+        "result": "-$5,500"
+      },
+      {
+        "player": "Nick L",
+        "result": "-$19,000"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "-$28,970"
+      },
+      {
+        "player": "Will",
+        "result": "-$35,330"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 434",
+    "date": "05/05/23",
+    "yTitle": "$5.3 MILLION in Play! Wesley Buys in $2.77 MILLION! $100/200/400 w/ Mariano, Nik Airball, Andy, Bobo",
+    "yLink": "https://www.youtube.com/watch?v=p7OYVjMh23w",
+    "players": [
+      {
+        "player": "Henry",
+        "result": "$228,000"
+      },
+      {
+        "player": "Andy Stacks",
+        "result": "$193,500"
+      },
+      {
+        "player": "Pepe",
+        "result": "$163,800"
+      },
+      {
+        "player": "Mariano",
+        "result": "$23,300"
+      },
+      {
+        "player": "Bobo",
+        "result": "-$102,600"
+      },
+      {
+        "player": "Nik Airball",
+        "result": "-$216,500"
+      },
+      {
+        "player": "Wesley Flan",
+        "result": "-$289,500"
+      }
+	],
+    "total": "$0"
 }]
