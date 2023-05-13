@@ -19417,7 +19417,7 @@
         "result": "-$13,260"
       },
       {
-        "player": "Johnny Steven",
+        "player": "Johnny Stevens",
         "result": "-$14,760"
       },
       {
@@ -19467,7 +19467,7 @@
         "result": "-$32,725"
       },
       {
-        "player": "Johnny Steven",
+        "player": "Johnny Stevens",
         "result": "-$53,050"
       }
 	],
@@ -19595,6 +19595,234 @@
       {
         "player": "Wesley Flan",
         "result": "-$289,500"
+      }
+	],
+    "total": "$0"
+},
+{
+    "e": "Episode 435",
+    "date": "05/08/23",
+    "yTitle": "MAX PAIN MONDAY!! DQ, Nate Hill, DGAF, DK, Sia, Ayaka, Simon Yu - Commentary by Charlie Wilmoth",
+    "yLink": "https://www.youtube.com/watch?v=QRAdMBkr2FQ",
+    "players": [
+      {
+        "player": "DK",
+        "result": "$18,010"
+      },
+      {
+        "player": "Syko",
+        "result": "$14,760"
+      },
+      {
+        "player": "Dapper Drew",
+        "result": "$10,520"
+      },
+      {
+        "player": "DQ",
+        "result": "$8,820"
+      },
+      {
+        "player": "$8,820",
+        "result": "$1,750"
+      },
+      {
+        "player": "Nate Hill",
+        "result": "-$2,690"
+      },
+      {
+        "player": "Ayaka",
+        "result": "-$6,100"
+      },
+      {
+        "player": "Sia the Bot",
+        "result": "-$16,770"
+      },
+      {
+        "player": "Simon Yu",
+        "result": "-$28,300"
+      }
+	],
+    "total": "$0"
+}
+{
+    "e": "Episode 436",
+    "date": "05/09/23",
+    "yTitle": "THE ANTE GAME!! Nik Airball, Mars, Israeli Ron, Santa, Big John & Huge Time - Commentary by DGAF",
+    "yLink": "https://www.youtube.com/watch?v=R_55icC5IsE",
+    "players": [
+      {
+        "player": "Mars",
+        "result": "$17,850"
+      },
+      {
+        "player": "Brown Balla",
+        "result": "$12,150"
+      },
+      {
+        "player": "Nik Airball",
+        "result": "$9,775"
+      },
+      {
+        "player": "Big John",
+        "result": "$7,075"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "$4,925"
+      },
+      {
+        "player": "Huge Time",
+        "result": "-$4,425"
+      },
+      {
+        "player": "Brian (Santa)",
+        "result": "-$5,175"
+      },
+      {
+        "player": "Zeo",
+        "result": "-$19,625"
+      },
+      {
+        "player": "Israeli Ron",
+        "result": "-$22,550"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 437",
+    "date": "05/10/23",
+    "yTitle": "",
+    "yLink": "",
+    "players": [
+      {
+        "player": "Wesley Flan",
+        "result": "$80,100"
+      },
+      {
+        "player": "Andy Stacks",
+        "result": "$71,700"
+      },
+      {
+        "player": "Yoda",
+        "result": "$24,075"
+      },
+      {
+        "player": "Henry",
+        "result": "$2,950"
+      },
+      {
+        "player": "Rick (Task)",
+        "result": "$2,800"
+      },
+      {
+        "player": "Mike X",
+        "result": "-$14,175"
+      },
+      {
+        "player": "Dan",
+        "result": "-$20,000"
+      },
+      {
+        "player": "Dr. H",
+        "result": "-$40,175"
+      },
+      {
+        "player": "Nik Airball",
+        "result": "-$107,275"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 400",
+    "date": "05/11/23",
+    "yTitle": "Sashimi, JBoogs, Close2Broke, Francisco, Dentist Dave, Israeli Ron, Ronnie & Mike X Play $10/20/40",
+    "yLink": "https://www.youtube.com/watch?v=z5H2DvX0WBE",
+    "players": [
+      {
+        "player": "Sashimi",
+        "result": "$64,250"
+      },
+      {
+        "player": "Jeremy Levin",
+        "result": "$48,160"
+      },
+      {
+        "player": "Mike X",
+        "result": "$45,600"
+      },
+      {
+        "player": "Kiran C2B",
+        "result": "-$3,340"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "-$4,080"
+      },
+      {
+        "player": "Francisco Fragoso",
+        "result": "-$18,180"
+      },
+      {
+        "player": "Ronnie Ebanks",
+        "result": "-$28,010"
+      },
+      {
+        "player": "Israeli Ron",
+        "result": "-$39,620"
+      },
+      {
+        "player": "Dentist Dave",
+        "result": "-$64,780"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 439",
+    "date": "05/12/23",
+    "yTitle": "SUPER HIGH STAKES $100/200 w/ Mariano, Nik Airball, Wesley, Andy, Charles, Bobo & Brad",
+    "yLink": "https://www.youtube.com/watch?v=lxJ1b7yUblQ",
+    "players": [
+      {
+        "player": "Brad",
+        "result": "$359,900"
+      },
+      {
+        "player": "Mariano",
+        "result": "$332,900"
+      },
+      {
+        "player": "Wesley Flan",
+        "result": "$152,500"
+      },
+      {
+        "player": "Nik Airball",
+        "result": "$143,400"
+      },
+      {
+        "player": "Francisco Fragoso",
+        "result": "$17,900"
+      },
+      {
+        "player": "Dentist Dave",
+        "result": "-$11,300"
+      },
+      {
+        "player": "Charles",
+        "result": "-$42,100"
+      },
+      {
+        "player": "Bobo",
+        "result": "-$353,500"
+      },
+      {
+        "player": "Andy Stacks",
+        "result": "-$599,700"
       }
 	],
     "total": "$0"
