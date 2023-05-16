@@ -19737,7 +19737,7 @@
 }
 ,
 {
-    "e": "Episode 400",
+    "e": "Episode 438",
     "date": "05/11/23",
     "yTitle": "Sashimi, JBoogs, Close2Broke, Francisco, Dentist Dave, Israeli Ron, Ronnie & Mike X Play $10/20/40",
     "yLink": "https://www.youtube.com/watch?v=z5H2DvX0WBE",
@@ -19823,6 +19823,57 @@
       {
         "player": "Andy Stacks",
         "result": "-$599,700"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 440",
+    "date": "05/15/23",
+    "yTitle": "MAX PAIN MONDAY w/ Bryce Hall, Pierson Wodzynski, Tommy Unold, Nate Hill, DGAF, DJ Washburn & DK",
+    "yLink": "https://www.youtube.com/watch?v=NR_MCYlFiFk",
+    "players": [
+      {
+        "player": "Tommy Unold",
+        "result": "$18,830"
+      },
+      {
+        "player": "San Man",
+        "result": "$16,820"
+      },
+      {
+        "player": "DGAF",
+        "result": "$11,630"
+      },
+      {
+        "player": "Pierson Wodzynski",
+        "result": "$9,390"
+      },
+      {
+        "player": "DJ Washburn",
+        "result": "$8,330"
+      },
+      {
+        "player": "Nate Hill",
+        "result": "-$2,550"
+      },
+      {
+        "player": "Randy Pitchford",
+        "result": "-$4,550"
+      },
+      {
+        "player": "A.V.",
+        "result": "-$5,930"
+      },
+      {
+        "player": "Bryce Hall",
+        "result": "-$6,200"
+      }
+      ,
+      {
+        "player": "DK",
+        "result": "-$45,770"
       }
 	],
     "total": "$0"
