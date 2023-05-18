@@ -19922,4 +19922,54 @@
       }
 	],
     "total": "$0"
+}
+,
+{
+    "e": "Episode 442",
+    "date": "05/17/23",
+    "yTitle": "$25/50/100 w/ Blank Check Ben, Luda Chris, Pepe & GT - Commentary by Charlie Wilmoth",
+    "yLink": "https://www.youtube.com/watch?v=pCR3loqJnRM",
+    "players": [
+      {
+        "player": "Ben Lee",
+        "result": "$161,475"
+      },
+      {
+        "player": "Pepe",
+        "result": "$122,350"
+      },
+      {
+        "player": "Soby",
+        "result": "$120,175"
+      },
+      {
+        "player": "Will",
+        "result": "$55,800"
+      },
+      {
+        "player": "Mario",
+        "result": "$20,400"
+      },
+      {
+        "player": "Greg",
+        "result": "-$6,850"
+      },
+      {
+        "player": "Julio",
+        "result": "-$10,000"
+      },
+      {
+        "player": "Luda Chris",
+        "result": "-$85,025"
+      },
+      {
+        "player": "Dr. H",
+        "result": "-$125,000"
+      },
+      {
+        "player": "GT",
+        "result": "-$253,325"
+      }
+	],
+    "total": "$0"
 }]
