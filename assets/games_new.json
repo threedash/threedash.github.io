@@ -19972,4 +19972,50 @@
       }
 	],
     "total": "$0"
+}
+,
+{
+    "e": "Episode 443",
+    "date": "05/18/23",
+    "yTitle": "Sashimi, Wesley, DJ Washburn, Lex O, Hilary & Francisco Play $10/20/40 - Commentary by DGAF",
+    "yLink": "https://www.youtube.com/watch?v=XVGI-RCGg_A",
+    "players": [
+      {
+        "player": "Sashimi",
+        "result": "$15,550"
+      },
+      {
+        "player": "Wesley Flan",
+        "result": "$10,640"
+      },
+      {
+        "player": "Lex O",
+        "result": "$9,870"
+      },
+      {
+        "player": "Francisco Fragoso",
+        "result": "$9,670"
+      },
+      {
+        "player": "DJ Washburn",
+        "result": "$2,710"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "$1,590"
+      },
+      {
+        "player": "Hilary",
+        "result": "-$9,020"
+      },
+      {
+        "player": "Julio",
+        "result": "-$10,080"
+      },
+      {
+        "player": "Ray",
+        "result": "-$30,930"
+      }
+	],
+    "total": "$0"
 }]
