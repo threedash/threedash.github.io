@@ -8014,7 +8014,7 @@
           "result": "-$2,150"
         },
         {
-          "player": "Kiran",
+          "player": "Kiran C2B",
           "result": "-$4,480"
         },
         {
@@ -17556,7 +17556,7 @@
         "result": "$10,700"
       },
       {
-        "player": "Masato",
+        "player": "Masato Yokosowa",
         "result": "-$4,450"
       },
       {
@@ -19180,7 +19180,7 @@
         "result": "-$3,520"
       },
       {
-        "player": "Pocket Yakis",
+        "player": "Ayaka",
         "result": "-$3,540"
       },
       {
@@ -20015,6 +20015,48 @@
       {
         "player": "Ray",
         "result": "-$30,930"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 444",
+    "date": "05/19/23",
+    "yTitle": "SUPER HIGH STAKES $100/200!! Hoodie Allen, Ben, Nik Airball & Sashimi - Commentary by Christian Soto",
+    "yLink": "https://www.youtube.com/watch?v=I8xMs0eXdBw",
+    "players": [
+      {
+        "player": "Sashimi",
+        "result": "$226,400"
+      },
+      {
+        "player": "Ben Lee",
+        "result": "$80,100"
+      },
+      {
+        "player": "Victor",
+        "result": "$31,300"
+      },
+      {
+        "player": "Hoodie Allen",
+        "result": "-$10,400"
+      },
+      {
+        "player": "Greg",
+        "result": "-$28,700"
+      },
+      {
+        "player": "Nik Airball",
+        "result": "-$43,300"
+      },
+      {
+        "player": "Soby",
+        "result": "-$49,300"
+      },
+      {
+        "player": "Dentist Dave",
+        "result": "-$206,100"
       }
 	],
     "total": "$0"
