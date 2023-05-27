@@ -20114,7 +20114,7 @@
 }
 ,
 {
-    "e": "Episode 400",
+    "e": "Episode 446",
     "date": "05/23/23",
     "yTitle": "https://www.youtube.com/watch?v=EivNGRWF0z4",
     "yLink": "Luda Chris, JBoogs, Mike X, Francisco & Mike Nia Play THE ANTE GAME - Commentary by DGAF",
@@ -20154,6 +20154,94 @@
       {
         "player": "Francisco Fragoso",
         "result": "-$23,000"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 447",
+    "date": "05/24/23",
+    "yTitle": "Rampage Plays $25/50/100 w/ Mariano, Nik Airball & Wesley - Commentary by Charlie Wilmoth",
+    "yLink": "https://www.youtube.com/watch?v=0YK70SMElkY",
+    "players": [
+      {
+        "player": "Rampage",
+        "result": "$78,175"
+      },
+      {
+        "player": "Nik Airball",
+        "result": "$69,125"
+      },
+      {
+        "player": "Jun",
+        "result": "$42,900"
+      },
+      {
+        "player": "Brown Balla",
+        "result": "-$2,350"
+      },
+      {
+        "player": "Wesley Flan",
+        "result": "-$25,950"
+      },
+      {
+        "player": "Nick Lucas",
+        "result": "-$29,150"
+      },
+      {
+        "player": "Mariano",
+        "result": "-$33,750"
+      },
+      {
+        "player": "Mars",
+        "result": "-$38,900"
+      },
+      {
+        "player": "Henry",
+        "result": "-$60,100"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 448",
+    "date": "05/26/23",
+    "yTitle": "$1 MILLION BUYIN!! Alan Keating, Tony G, JRB, Rob Yong, Ben, Charles, Stanley Tang, Brandon Steven",
+    "yLink": "https://www.youtube.com/watch?v=59TnWm-2Q7c",
+    "players": [
+      {
+        "player": "Charles",
+        "result": "$484,000"
+      },
+      {
+        "player": "Ben Lee",
+        "result": "$315,000"
+      },
+      {
+        "player": "Brandon Steven",
+        "result": "$263,000"
+      },
+      {
+        "player": "Stanley Tang",
+        "result": "$111,000"
+      },
+      {
+        "player": "JRB",
+        "result": "-$89,500"
+      },
+      {
+        "player": "Tony G",
+        "result": "-$93,000"
+      },
+      {
+        "player": "Rob Yong",
+        "result": "-$311,000"
+      },
+      {
+        "player": "Alan Keating",
+        "result": "-$679,000"
       }
 	],
     "total": "$0"
