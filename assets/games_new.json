@@ -20245,4 +20245,46 @@
       }
 	],
     "total": "$0"
+}
+,
+{
+    "e": "Episode 449",
+    "date": "05/27/23",
+    "yTitle": "$500/1,000 w/ Tony G, JRB, Aussie Matt, Ben, Charles, Brandon Steven, Rob Yong - MILLION DOLLAR GAME",
+    "yLink": "https://www.youtube.com/watch?v=W-CEGjMTxCU",
+    "players": [
+      {
+        "player": "Huss",
+        "result": "$651,000"
+      },
+      {
+        "player": "JRB",
+        "result": "$494,000"
+      },
+      {
+        "player": "Tony G",
+        "result": "$313,000"
+      },
+      {
+        "player": "Rob Yong",
+        "result": "$94,500"
+      },
+      {
+        "player": "Nik Airball",
+        "result": "$90,000"
+      },
+      {
+        "player": "Ben Lee",
+        "result": "-$229,000"
+      },
+      {
+        "player": "Aussie Matt",
+        "result": "-$500,000"
+      },
+      {
+        "player": "Charles",
+        "result": "-$914,000"
+      }
+	],
+    "total": "$500"
 }]
