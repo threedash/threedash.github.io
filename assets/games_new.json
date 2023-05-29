@@ -20287,4 +20287,50 @@
       }
 	],
     "total": "$500"
+}
+,
+{
+    "e": "Episode 450",
+    "date": "05/28/23",
+    "yTitle": "$1 MILLION BUYIN! Rampage, Nik Airball, Tony G, Wesley, Handz, Stanley Tang! THE MILLION DOLLAR GAME",
+    "yLink": "https://www.youtube.com/watch?v=Ge3ZvqPSNBk",
+    "players": [
+      {
+        "player": "Huss",
+        "result": "$1,100,000"
+      },
+      {
+        "player": "Rampage",
+        "result": "$588,000"
+      },
+      {
+        "player": "Nik Airball",
+        "result": "$341,000"
+      },
+      {
+        "player": "Tony G",
+        "result": "$195,000"
+      },
+      {
+        "player": "Wesley Flan",
+        "result": "$0"
+      },
+      {
+        "player": "Pav",
+        "result": "-$289,000"
+      },
+      {
+        "player": "Ben Lee",
+        "result": "-$360,000"
+      },
+      {
+        "player": "Handz",
+        "result": "-$543,000"
+      },
+      {
+        "player": "Stanley Choi",
+        "result": "-$1,000,000"
+      }
+	],
+    "total": "$32,000"
 }]
