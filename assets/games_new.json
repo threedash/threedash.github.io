@@ -19790,7 +19790,7 @@
     "players": [
       {
         "player": "Brad",
-        "result": "$359,900"
+        "result": "-$199,700"
       },
       {
         "player": "Mariano",
@@ -19798,31 +19798,31 @@
       },
       {
         "player": "Wesley Flan",
-        "result": "$152,500"
+        "result": "$212,300"
       },
       {
         "player": "Nik Airball",
-        "result": "$143,400"
+        "result": "$239,100"
       },
       {
         "player": "Francisco Fragoso",
-        "result": "$17,900"
+        "result": "$63,600"
       },
       {
         "player": "Dentist Dave",
-        "result": "-$11,300"
+        "result": "$23,700"
       },
       {
         "player": "Charles",
-        "result": "-$42,100"
+        "result": "-$2,600"
       },
       {
         "player": "Bobo",
-        "result": "-$353,500"
+        "result": "-$177,300"
       },
       {
         "player": "Andy Stacks",
-        "result": "-$599,700"
+        "result": "-$492,000"
       }
 	],
     "total": "$0"
