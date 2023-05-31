@@ -20333,4 +20333,46 @@
       }
 	],
     "total": "$32,000"
+}
+,
+{
+    "e": "Episode 451",
+    "date": "05/30/23",
+    "yTitle": "$1 MILLION BUYIN!! Tom Dwan, Doug Polk, Nik Airball, Wesley, Handz, Rob Yong - MILLION DOLLAR GAME",
+    "yLink": "https://www.youtube.com/watch?v=9QH0QSCOP8g",
+    "players": [
+      {
+        "player": "Tom Dwan",
+        "result": "1600000"
+      },
+      {
+        "player": "Rob Yong",
+        "result": "$919,000"
+      },
+      {
+        "player": "Handz",
+        "result": "$400,000"
+      },
+      {
+        "player": "LSG Hank",
+        "result": "-$82,000"
+      },
+      {
+        "player": "Haralobos Voulgaris",
+        "result": "-$160,000"
+      },
+      {
+        "player": "Wesley Flan",
+        "result": "-$753,000"
+      },
+      {
+        "player": "Doug Polk",
+        "result": "-$928,000"
+      },
+      {
+        "player": "Nik Airball",
+        "result": "-$997,000"
+      }
+	],
+    "total": "-$1,000"
 }]
