@@ -20472,4 +20472,42 @@
       }
 	],
     "total": "$6,300"
+}
+,
+{
+    "e": "Episode 454",
+    "date": "06/02/23",
+    "yTitle": "Tom Dwan Plays SUPER HIGH STAKES $100/200 w/ Ben, Nik Airball, Francisco, LSG Hank & Henry",
+    "yLink": "https://www.youtube.com/watch?v=XLPcMqx0wLk&t=20027s",
+    "players": [
+      {
+        "player": "Ryan Feldman",
+        "result": "$89,694"
+      },
+      {
+        "player": "Nik Airball",
+        "result": "$86,606"
+      },
+      {
+        "player": "Tom Dwan",
+        "result": "$46,400"
+      },
+      {
+        "player": "Francisco Fragoso",
+        "result": "$45,647"
+      },
+      {
+        "player": "LSG Hank",
+        "result": "-$26,200"
+      },
+      {
+        "player": "Henry Guttman",
+        "result": "-$109,050"
+      },
+      {
+        "player": "Ben Lee",
+        "result": "-$133,097"
+      }
+	],
+    "total": "$0"
 }]
