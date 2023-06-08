@@ -20510,4 +20510,142 @@
       }
 	],
     "total": "$0"
+}
+,
+{
+    "e": "Episode 455",
+    "date": "06/05/23",
+    "yTitle": "MAX PAIN MONDAY!! Alexandra Botez, TSM Reginald, Liquid Steve, Nate Hill, RaverPoker, Brazil God",
+    "yLink": "https://www.youtube.com/watch?v=ohMf3kw5nEA",
+    "players": [
+      {
+        "player": "DK",
+        "result": "$6,840"
+      },
+      {
+        "player": "Liquid Steve",
+        "result": "$12,540"
+      },
+      {
+        "player": "Nate Hill",
+        "result": "$5,410"
+      },
+      {
+        "player": "Crazy Drew",
+        "result": "$7,420"
+      },
+      {
+        "player": "TSM Reginald",
+        "result": "$1,280"
+      },
+      {
+        "player": "Hilary",
+        "result": "$6,130"
+      },
+      {
+        "player": "Alexandra Botez",
+        "result": "-$9,050"
+      },
+      {
+        "player": "Raver Poker",
+        "result": "-$14,000"
+      },
+      {
+        "player": "Brazil God",
+        "result": "-$16,570"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 456",
+    "date": "06/06/23",
+    "yTitle": "$25/50/100 The Chicago Game w/ Brazil God, Texas Mike, Pink & Soby - Commentary by DGAF",
+    "yLink": "https://www.youtube.com/watch?v=TEkZG1pvrUY",
+    "players": [
+      {
+        "player": "Ala",
+        "result": "$85,650"
+      },
+      {
+        "player": "Pink",
+        "result": "$31,575"
+      },
+      {
+        "player": "Freddy",
+        "result": "$26,525"
+      },
+      {
+        "player": "Texas Mike",
+        "result": "$23,150"
+      },
+      {
+        "player": "Soby",
+        "result": "-$18,400"
+      },
+      {
+        "player": "Top G",
+        "result": "-$21,900"
+      },
+      {
+        "player": "Brazil God",
+        "result": "-$36,075"
+      },
+      {
+        "player": "Josh",
+        "result": "-$38,700"
+      },
+      {
+        "player": "AP",
+        "result": "-$51,825"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 457",
+    "date": "06/07/23",
+    "yTitle": "Jungleman Plays $25/50/100 w/ Mariano, Wesley, Mike X, Henry & Francisco - Commentary by DGAF",
+    "yLink": "https://www.youtube.com/watch?v=GdytNAJM-No",
+    "players": [
+      {
+        "player": "Mariano",
+        "result": "$101,400"
+      },
+      {
+        "player": "Klu",
+        "result": "$85,375"
+      },
+      {
+        "player": "Jungleman",
+        "result": "$78,900"
+      },
+      {
+        "player": "Francisco Fragoso",
+        "result": "-$5,850"
+      },
+      {
+        "player": "Brown Balla",
+        "result": "-$16,500"
+      },
+      {
+        "player": "Suited Superman",
+        "result": "-$19,050"
+      },
+      {
+        "player": "Henry Guttman",
+        "result": "-$26,500"
+      },
+      {
+        "player": "Mike X",
+        "result": "-$77,650"
+      },
+      {
+        "player": "Wesley Flan",
+        "result": "-$120,125"
+      }
+	],
+    "total": "$0"
 }]
