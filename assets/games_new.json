@@ -5015,7 +5015,7 @@
           "result": "-$29,513"
         },
         {
-          "player": "Luiz",
+          "player": "Brazil God",
           "result": "$9,300"
         },
         {
@@ -17962,7 +17962,7 @@
         "result": "-$9,650"
       },
       {
-        "player": "Aaron Zang",
+        "player": "Aaron Zhang",
         "result": "-$10,200"
       },
       {
@@ -18629,7 +18629,7 @@
         "result": "$14,990"
       },
       {
-        "player": "Aaron Zang",
+        "player": "Aaron Zhang",
         "result": "$10,090"
       },
       {
@@ -20694,4 +20694,285 @@
       }
 	],
     "total": "$0"
+}
+,
+{
+    "e": "Episode 459",
+    "date": "06/09/23",
+    "yTitle": "SUPER HIGH STAKES $100/200 w/ Mariano, Jacky, Pepe, Dentist Dave, Henry & Mike X",
+    "yLink": "https://www.youtube.com/watch?v=ZiixE0JwnVg",
+    "players": [
+      {
+        "player": "Henry Guttman",
+        "result": "$109,100"
+      },
+      {
+        "player": "Mariano",
+        "result": "$102,800"
+      },
+      {
+        "player": "William",
+        "result": "$86,500"
+      },
+      {
+        "player": "Pepe",
+        "result": "$11,100"
+      },
+      {
+        "player": "Jacky",
+        "result": "-$6,100"
+      },
+      {
+        "player": "Mars",
+        "result": "-$11,600"
+      },
+      {
+        "player": "-$11,600",
+        "result": "-$56,500"
+      },
+      {
+        "player": "Ferdinand",
+        "result": "-$67,300"
+      },
+      {
+        "player": "Dentist Dave",
+        "result": "-$168,000"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 460",
+    "date": "06/12/23",
+    "yTitle": "MAX PAIN MONDAY!! DGAF, DK, Nate Hill, Brandon Frazier, Sia, Ash Kardash, Yara - Commentary by Raver",
+    "yLink": "https://www.youtube.com/watch?v=STBad_yCdFw",
+    "players": [
+      {
+        "player": "DGAF",
+        "result": "$14,540"
+      },
+      {
+        "player": "Yara",
+        "result": "$9,990"
+      },
+      {
+        "player": "DK",
+        "result": "$8,780"
+      },
+      {
+        "player": "Nate Hill",
+        "result": "$6,430"
+      },
+      {
+        "player": "Sia the Bot",
+        "result": "-$370"
+      },
+      {
+        "player": "Ash Kardash",
+        "result": "-$1,660"
+      },
+      {
+        "player": "Brandon Frazier",
+        "result": "-$5,960"
+      },
+      {
+        "player": "Johnny Steven",
+        "result": "-$13,950"
+      },
+      {
+        "player": "Darren",
+        "result": "-$17,800"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 461",
+    "date": "06/13/23",
+    "yTitle": "Luda Chris, Linglin, Mike X, Mars & Dark Knight Play THE ANTE GAME - Commentary by DGAF",
+    "yLink": "https://www.youtube.com/watch?v=sb3JKfWSElQ",
+    "players": [
+      {
+        "player": "Mars",
+        "result": "$90,675"
+      },
+      {
+        "player": "Mike X",
+        "result": "$84,175"
+      },
+      {
+        "player": "Dark Knight",
+        "result": "$18,825"
+      },
+      {
+        "player": "Johnny Steven",
+        "result": "$14,250"
+      },
+      {
+        "player": "LingLin",
+        "result": "-$13,225"
+      },
+      {
+        "player": "Mayhem",
+        "result": "-$24,550"
+      },
+      {
+        "player": "Big John",
+        "result": "-$37,675"
+      },
+      {
+        "player": "Luda Chris",
+        "result": "-$132,475"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 462",
+    "date": "06/14/23",
+    "yTitle": "Hoodie Allen, Wesley, Mariano & Christian Soto Play $25/50/100!! Commentary by DGAF",
+    "yLink": "https://www.youtube.com/watch?v=0Dtd4UWcWek",
+    "players": [
+      {
+        "player": "Wesley Flan",
+        "result": "$69,650"
+      },
+      {
+        "player": "Mariano",
+        "result": "$50,575"
+      },
+      {
+        "player": "Will",
+        "result": "$38,825"
+      },
+      {
+        "player": "Henry Guttman",
+        "result": "$27,950"
+      },
+      {
+        "player": "Alex",
+        "result": "$24,350"
+      },
+      {
+        "player": "Hoodie Allen",
+        "result": "-$31,900"
+      },
+      {
+        "player": "Michael",
+        "result": "-$44,600"
+      },
+      {
+        "player": "Klu",
+        "result": "-$50,125"
+      },
+      {
+        "player": "Christian Soto",
+        "result": "-$84,725"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 463",
+    "date": "06/15/23",
+    "yTitle": "Sashimi, Kiran C2B, Israeli Ron & Mike X Play $10/20/40 - Commentary by Christian Soto",
+    "yLink": "https://www.youtube.com/watch?v=dVs7ORBHsF0",
+    "players": [
+      {
+        "player": "Alex",
+        "result": "$27,530"
+      },
+      {
+        "player": "Johnny Steven",
+        "result": "$12,480"
+      },
+      {
+        "player": "Kiran C2B",
+        "result": "$11,760"
+      },
+      {
+        "player": "Sashimi",
+        "result": "$5,840"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "$5,540"
+      },
+      {
+        "player": "Wei",
+        "result": "$2,290"
+      },
+      {
+        "player": "Faizal",
+        "result": "-$5,180"
+      },
+      {
+        "player": "Tal",
+        "result": "-$13,560"
+      },
+      {
+        "player": "Mike X",
+        "result": "-$21,840"
+      }
+      ,
+      {
+        "player": "Israeli Ron",
+        "result": "-$24,8600"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 450",
+    "date": "06/16/23",
+    "yTitle": "Rampage Plays SUPER HIGH STAKES $100/200 w/ Nik Airball, Charles, J.R., Henry, Mike X & Will",
+    "yLink": "https://www.youtube.com/watch?v=DZnJ2Fu1n60",
+    "players": [
+      {
+        "player": "Henry Guttman",
+        "result": "$255,200"
+      },
+      {
+        "player": "Will",
+        "result": "$91,300"
+      },
+      {
+        "player": "Mike X",
+        "result": "$77,000"
+      },
+      {
+        "player": "Nik Airball",
+        "result": "-$3,500"
+      },
+      {
+        "player": "Charles",
+        "result": "-$88,900"
+      },
+      {
+        "player": "J.R.",
+        "result": "-$138,500"
+      },
+      {
+        "player": "Rampage",
+        "result": "-$192,600"
+      }
+	],
+    "total": "$0"
 }]
+
+
+
+
+
+
+
+
+
+
+
+
