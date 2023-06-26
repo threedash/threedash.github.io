@@ -20928,7 +20928,7 @@
 }
 ,
 {
-    "e": "Episode 450",
+    "e": "Episode 464",
     "date": "06/16/23",
     "yTitle": "Rampage Plays SUPER HIGH STAKES $100/200 w/ Nik Airball, Charles, J.R., Henry, Mike X & Will",
     "yLink": "https://www.youtube.com/watch?v=DZnJ2Fu1n60",
@@ -20963,16 +20963,224 @@
       }
 	],
     "total": "$0"
+}
+,
+{
+    "e": "Episode 465",
+    "date": "06/19/23",
+    "yTitle": "MAX PAIN MONDAY!! Alexandra Botez, Brandon Frazier, Nate Hill, DGAF, DK, Sia, Neve & Yara",
+    "yLink": "https://www.youtube.com/watch?v=81RAZCM2zhI",
+    "players": [
+      {
+        "player": "Nate Hill",
+        "result": "$34,720"
+      },
+      {
+        "player": "Alexandra Botez",
+        "result": "$27,970"
+      },
+      {
+        "player": "Sia the Bot",
+        "result": "$16,080"
+      },
+      {
+        "player": "Brettie",
+        "result": "$14,210"
+      },
+      {
+        "player": "Brandon Frazier",
+        "result": "$7,340"
+      },
+      {
+        "player": "Yara",
+        "result": "-$14,560"
+      },
+      {
+        "player": "San Man",
+        "result": "-$15,530"
+      },
+      {
+        "player": "Neve",
+        "result": "-$16,000"
+      },
+      {
+        "player": "DGAF",
+        "result": "-$18,210"
+      },
+      {
+        "player": "DK",
+        "result": "-$36,020"
+      }
+	],
+    "total": "$0"
+},
+{
+    "e": "Episode 466",
+    "date": "06/20/23",
+    "yTitle": "Luda Chris, Mike X, Nick V, Dark Knight & Big John Play THE ANTE GAME - Commentary by DGAF",
+    "yLink": "https://www.youtube.com/watch?v=idR4CKDUbqo",
+    "players": [
+      {
+        "player": "Brian (Santa)",
+        "result": "$110,650"
+      },
+      {
+        "player": "Luda Chris",
+        "result": "$57,000"
+      },
+      {
+        "player": "Mike X",
+        "result": "-$2,850"
+      },
+      {
+        "player": "Dark Knight",
+        "result": "-$20,250"
+      },
+      {
+        "player": "DK",
+        "result": "-$20,600"
+      },
+      {
+        "player": "Eli Strickland",
+        "result": "-$25,000"
+      },
+      {
+        "player": "Big John",
+        "result": "-$27,925"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "-$71,000"
+      }
+	],
+    "total": "$25"
+},
+{
+    "e": "Episode 467",
+    "date": "06/21/23",
+    "yTitle": "Mikita Badziakouski, Mariano, Sashimi, Henry & Brandon Frazier Play $25/50/100!! Commentary by DGAF",
+    "yLink": "https://www.youtube.com/watch?v=U6BEPBNVILU",
+    "players": [
+      {
+        "player": "Henry Guttman",
+        "result": "$43,575"
+      },
+      {
+        "player": "Brandon Frazier",
+        "result": "$40,800"
+      },
+      {
+        "player": "Mikita Badziakouski",
+        "result": "$25,175"
+      },
+      {
+        "player": "Sashimi",
+        "result": "-$475"
+      },
+      {
+        "player": "Michael",
+        "result": "-$19,000"
+      },
+      {
+        "player": "Dylan",
+        "result": "-$20,550"
+      },
+      {
+        "player": "Tal",
+        "result": "-$24,875"
+      },
+      {
+        "player": "Mariano",
+        "result": "-$44,650"
+      }
+	],
+    "total": "$0"
+},
+{
+    "e": "Episode 468",
+    "date": "06/22/23",
+    "yTitle": "Benny Blanco, Jonas Wood, Shelli Azoff & Mark Grotjahn Play $25/50 -- THE ART GAME!!",
+    "yLink": "https://www.youtube.com/watch?v=KyE9lb8liOU",
+    "players": [
+      {
+        "player": "Benny Blanco",
+        "result": "$13,825"
+      },
+      {
+        "player": "Dean",
+        "result": "$11,600"
+      },
+      {
+        "player": "Eddie",
+        "result": "$6,450"
+      },
+      {
+        "player": "Shelli Azoff",
+        "result": "$5,975"
+      },
+      {
+        "player": "Michael Haywire",
+        "result": "$3,800"
+      },
+      {
+        "player": "Eric Kim",
+        "result": "-$100"
+      },
+      {
+        "player": "Mark Grotjahn",
+        "result": "-$4,850"
+      },
+      {
+        "player": "Driss",
+        "result": "-$7,025"
+      },
+      {
+        "player": "Parker",
+        "result": "-$10,000"
+      }
+      ,
+      {
+        "player": "Jonas Wood",
+        "result": "-$19,675"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 469",
+    "date": "06/22/23",
+    "yTitle": "SUPER HIGH STAKES $100/200 w/ Hoodie Allen, Mariano, Mike X, LSG Hank & Ryan Feldman",
+    "yLink": "https://www.youtube.com/watch?v=lCy4KmcFQig",
+    "players": [
+      {
+        "player": "Ryan Feldman",
+        "result": "$125,275"
+      },
+      {
+        "player": "Mike X",
+        "result": "$82,775"
+      },
+      {
+        "player": "Klu",
+        "result": "$47,925"
+      },
+      {
+        "player": "Dylan",
+        "result": "$24,100"
+      },
+      {
+        "player": "LSG Hank",
+        "result": "-$8,225"
+      },
+      {
+        "player": "Hoodie Allen",
+        "result": "-$24,150"
+      },
+      {
+        "player": "Mariano",
+        "result": "-$247,700"
+      }
+	],
+    "total": "$0"
 }]
-
-
-
-
-
-
-
-
-
-
-
-
