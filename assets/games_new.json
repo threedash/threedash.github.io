@@ -38,7 +38,7 @@
           "result": "-$20,180"
         },
         {
-          "player": "Pablo (tattoos)",
+          "player": "Pablo",
           "result": "-$21,150"
         }
       ],
@@ -353,7 +353,7 @@
           "result": "$445"
         },
         {
-          "player": "Eider",
+          "player": "Eider Da Cruz",
           "result": "$170"
         },
         {
@@ -365,7 +365,7 @@
           "result": "-$1,655"
         },
         {
-          "player": "AA",
+          "player": "RB",
           "result": "-$1,720"
         },
         {
@@ -2048,7 +2048,7 @@
           "result": "-$975"
         },
         {
-          "player": "Michael",
+          "player": "Michael Guy",
           "result": "-$1,140"
         },
         {
@@ -4213,7 +4213,7 @@
           "result": "$3,300"
         },
         {
-          "player": "Josh Macciello",
+          "player": "Josh Remitio",
           "result": "$110"
         },
         {
@@ -5907,7 +5907,7 @@
           "result": "$25,850"
         },
         {
-          "player": "Kaufman",
+          "player": "Jeremy Kaufman",
           "result": "$11,425"
         },
         {
@@ -9803,7 +9803,7 @@
     "e": "Episode 216",
     "date": "06/14/22",
     "yTitle": "JBoogs, Julie, Nik Airballirball, Mike X & Nitucci Play $5/5/100 Ante Game - Commentary by DGAF",
-    "yLink": "https://www.youtube.com/watch?v=UIygZrjbDSk&ab_channel=HustlerCasinoLive",
+    "yLink": "https://www.youtube.com/watch?v=LBnmTldo3gw",
     "players": [
       {
         "player": "Eli Strickland",
@@ -9944,7 +9944,7 @@
 ,
 {
     "e": "Episode 219",
-    "date": "06/07/22",
+    "date": "06/17/22",
     "yTitle": "SUPER HIGH STAKES $100/200 w/ Garrett Adelstein, Ryan Feldman, Han, Tiger - Commentary by Nick V",
     "yLink": "https://www.youtube.com/watch?v=u_GAveLp7FA&ab_channel=HustlerCasinoLive",
     "players": [
@@ -11665,6 +11665,98 @@
 }
 ,
 {
+  "e": "Episode 257",
+  "date": "08/17/22",
+    "yTitle": "Garrett, Greg Merson, Krish, Andy, Eli & Mike A Play $25/50/100/200 - Commentary by David Tuchman",
+    "yLink": "https://www.youtube.com/watch?v=sw78VHhwsck&lc=Ugwa4bxnY9lDs3UPUGx4AaABAg&ab_",
+    "players": [
+      {
+        "player": "Krish",
+        "result": "$25,825"
+      },
+      {
+        "player": "Andy Stacks",
+        "result": "$19,400"
+      },
+      {
+        "player": "Dylan Flashner",
+        "result": "$15,300"
+      },
+      {
+        "player": "Greg Merson",
+        "result": "$9,975"
+      },
+      {
+        "player": "Garrett Adelstein",
+        "result": "$6,125"
+      },
+      {
+        "player": "Mike A",
+        "result": "-$5,325"
+      },
+      {
+        "player": "Max Value Mike",
+        "result": "-$6,725"
+      },
+      {
+        "player": "Ryusuke",
+        "result": "-$15,075"
+      },
+      {
+        "player": "Eli Strickland",
+        "result": "-$49,500"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+  "e": "Episode 258",
+  "date": "08/18/22",
+    "yTitle": "$5/5/100 Ante Game w/ Ronnie, Mike X, Francisco, Nick & Brown Balla - Commentary by DGAF",
+    "yLink": "https://www.youtube.com/watch?v=30Oj2B6UJO0&ab_",
+    "players": [
+      {
+        "player": "Ronnie Ebanks",
+        "result": "$22,265"
+      },
+      {
+        "player": "Mike X",
+        "result": "$9,595"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "$8,285"
+      },
+      {
+        "player": "Brown Balla",
+        "result": "$6,470"
+      },
+      {
+        "player": "Tal",
+        "result": "-$1,525"
+      },
+      {
+        "player": "Dustin Aab",
+        "result": "-$2,895"
+      },
+      {
+        "player": "Francisco Fragoso",
+        "result": "-$6,705"
+      },
+      {
+        "player": "Ryan Jboogs",
+        "result": "-$16,040"
+      },
+      {
+        "player": "Leo (hat)",
+        "result": "-$19,450"
+      }
+	],
+    "total": "$0"
+}
+,
+{
     "e": "Episode 259",
     "date": "08/19/22",
     "yTitle": "SUPER HIGH STAKES $100/200 w/ Garrett, Andy, Stanley Tang & Krish!! Commentary by David Tuchman",
@@ -13339,7 +13431,7 @@
         "result": "-$8,590"
       },
       {
-        "player": "Haralobos Voulgaris",
+        "player": "Haralabos Voulgaris",
         "result": "-$30,530"
       }
 	],
@@ -13557,7 +13649,7 @@
         "result": "-$19,300"
       },
       {
-        "player": "Haralobos Voulgaris",
+        "player": "Haralabos Voulgaris",
         "result": "-$19,700"
       }
 	],
@@ -13737,7 +13829,7 @@
         "result": "-$81,975"
       },
       {
-        "player": "Stanley Tsang",
+        "player": "Stanley Tang",
         "result": "-$123,800"
       }
 	],
@@ -15249,7 +15341,7 @@
         "result": "$98,900"
       },
       {
-        "player": "Haralobos Voulgaris",
+        "player": "Haralabos Voulgaris",
         "result": "$92,400"
       },
       {
@@ -15295,7 +15387,7 @@
         "result": "$29,500"
       },
       {
-        "player": "Haralobos Voulgaris",
+        "player": "Haralabos Voulgaris",
         "result": "-$135,000"
       },
       {
@@ -15358,7 +15450,7 @@
       }
       ,
       {
-        "player": "Haralobos Voulgaris",
+        "player": "Haralabos Voulgaris",
         "result": "-$56,950"
       }
 	],
@@ -16161,7 +16253,7 @@
         "result": "$205"
       },
       {
-        "player": "Christian",
+        "player": "Christian Soto",
         "result": "-$1,730"
       },
       {
@@ -16341,7 +16433,7 @@
         "result": "-$3,100"
       },
       {
-        "player": "Christian",
+        "player": "Christian Soto",
         "result": "-$5,525"
       },
       {
@@ -17037,7 +17129,7 @@
         "result": "$24,030"
       },
       {
-        "player": "Eldar",
+        "player": "Bear Jew",
         "result": "$18,350"
       },
       {
@@ -19897,7 +19989,7 @@
         "result": "$10,450"
       },
       {
-        "player": "Mike X",
+        "player": "Mike Nia",
         "result": "$4,625"
       },
       {
@@ -20358,7 +20450,7 @@
         "result": "-$82,000"
       },
       {
-        "player": "Haralobos Voulgaris",
+        "player": "Haralabos Voulgaris",
         "result": "-$160,000"
       },
       {
@@ -20921,7 +21013,7 @@
       ,
       {
         "player": "Israeli Ron",
-        "result": "-$24,8600"
+        "result": "-$24,860"
       }
 	],
     "total": "$0"
@@ -21149,7 +21241,7 @@
 ,
 {
     "e": "Episode 469",
-    "date": "06/22/23",
+    "date": "06/23/23",
     "yTitle": "SUPER HIGH STAKES $100/200 w/ Hoodie Allen, Mariano, Mike X, LSG Hank & Ryan Feldman",
     "yLink": "https://www.youtube.com/watch?v=lCy4KmcFQig",
     "players": [
@@ -21183,4 +21275,400 @@
       }
 	],
     "total": "$0"
+}
+,
+{
+    "e": "Episode 470",
+    "date": "06/26/23",
+    "yTitle": "MAX PAIN MONDAY!! Alex Botez, Nate Hill, DGAF, Brazil God, Sia, DK - Commentary by RaverPoker",
+    "yLink": "https://www.youtube.com/watch?v=ECBlH9yX_DI",
+    "players": [
+      {
+        "player": "Sia the Bot",
+        "result": "$55,400"
+      },
+      {
+        "player": "Dean",
+        "result": "$15,020"
+      },
+      {
+        "player": "DGAF",
+        "result": "$9,980"
+      },
+      {
+        "player": "Nate Hill",
+        "result": "$3,220"
+      },
+      {
+        "player": "Charlie",
+        "result": "$1,290"
+      },
+      {
+        "player": "Julian",
+        "result": "-$3,430"
+      },
+      {
+        "player": "Brazil God",
+        "result": "-$4,270"
+      },
+      {
+        "player": "Rad Eli",
+        "result": "-$6,600"
+      },
+      {
+        "player": "Alexandra Botez",
+        "result": "-$32,940"
+      },
+      {
+        "player": "DK",
+        "result": "-$37,670"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 471",
+    "date": "06/27/23",
+    "yTitle": "THE ANTE GAME!! Mars, Santa, Big John, Ryan Feldman, Mike X, Nick V - Commentary by DGAF",
+    "yLink": "https://www.youtube.com/watch?v=2oA3Mfhh6d8",
+    "players": [
+      {
+        "player": "Law",
+        "result": "$23,475"
+      },
+      {
+        "player": "Bear Jew",
+        "result": "$21,325"
+      },
+      {
+        "player": "Big John",
+        "result": "$20,950"
+      },
+      {
+        "player": "Ryan Feldman",
+        "result": "$14,350"
+      },
+      {
+        "player": "Denis",
+        "result": "$3,800"
+      },
+      {
+        "player": "Mike X",
+        "result": "$650"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "-$7,725"
+      },
+      {
+        "player": "Eric",
+        "result": "-$15,525"
+      },
+      {
+        "player": "Brian (Santa)",
+        "result": "-$22,000"
+      },
+      {
+        "player": "Mars",
+        "result": "-$39,300"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 472",
+    "date": "06/28/23",
+    "yTitle": "Andy, Mariano, Henry, Mikita Badziakouski, LSG Hank & Mars Play $50/100 - Commentary by DGAF",
+    "yLink": "https://www.youtube.com/watch?v=rXkHSqbmv-c",
+    "players": [
+      {
+        "player": "Mariano",
+        "result": "$85,400"
+      },
+      {
+        "player": "Henry Guttman",
+        "result": "$42,150"
+      },
+      {
+        "player": "LSG Hank",
+        "result": "$38,000"
+      },
+      {
+        "player": "Law",
+        "result": "$8,575"
+      },
+      {
+        "player": "Andy Stacks",
+        "result": "-$9,700"
+      },
+      {
+        "player": "Mars",
+        "result": "-$16,950"
+      },
+      {
+        "player": "Sinan",
+        "result": "-$45,075"
+      },
+      {
+        "player": "Mikita Badziakouski",
+        "result": "-$47,850"
+      },
+      {
+        "player": "Britney",
+        "result": "-$54,550"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 473",
+   "date": "06/29/23",
+    "yTitle": "$10/20/40 w/ Nick Vertucci, Eli, Patrick, Tal & Zeo - Commentary by DGAF",
+    "yLink": "https://www.youtube.com/watch?v=X4-zaANge4M",
+    "players": [
+      {
+        "player": "Michael",
+        "result": "$12,680"
+      },
+      {
+        "player": "Alex",
+        "result": "$8,490"
+      },
+      {
+        "player": "Zeo",
+        "result": "$8,470"
+      },
+      {
+        "player": "Dr. Patel",
+        "result": "$6,810"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "$6,590"
+      },
+      {
+        "player": "Patrick",
+        "result": "$280"
+      },
+      {
+        "player": "Tal",
+        "result": "-$11,410"
+      },
+      {
+        "player": "Eli Strickland",
+        "result": "-$14,750"
+      },
+      {
+        "player": "Rick",
+        "result": "-$17,160"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 474",
+    "date": "06/30/23",
+    "yTitle": "SUPER HIGH STAKES $100/200/400 w/ Rampage, Andy, Sashimi, Britney & LSG Hank - Commentary by DGAF",
+    "yLink": "https://www.youtube.com/watch?v=J3OBkFcFyBI",
+    "players": [
+      {
+        "player": "Jamie",
+        "result": "$100,100"
+      },
+      {
+        "player": "Sinan",
+        "result": "$54,000"
+      },
+      {
+        "player": "LSG Hank",
+        "result": "$47,200"
+      },
+      {
+        "player": "Rampage",
+        "result": "$7,100"
+      },
+      {
+        "player": "Sashimi",
+        "result": "-$31,300"
+      },
+      {
+        "player": "Britney",
+        "result": "-$40,800"
+      },
+      {
+        "player": "Andy Stacks",
+        "result": "-$136,300"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 475",
+    "date": "07/10/23",
+    "yTitle": "MAX PAIN MONDAY!! DGAF, Sia, DK, Drew, AV Sleeps, Ash Kardash!! Commentary by RaverPoker",
+    "yLink": "https://www.youtube.com/watch?v=TaFd3Wwq2lc",
+    "players": [
+      {
+        "player": "Luckbox Tony",
+        "result": "$32,610"
+      },
+      {
+        "player": "DK",
+        "result": "$6,040"
+      },
+      {
+        "player": "San Man",
+        "result": "$5,820"
+      },
+      {
+        "player": "Crazy Drew Donen",
+        "result": "-$890"
+      },
+      {
+        "player": "Sia the Bot",
+        "result": "$5,360"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "-$2,630"
+      },
+      {
+        "player": "Wei",
+        "result": "-$14,380"
+      },
+      {
+        "player": "DGAF",
+        "result": "-$19,530"
+      },
+      {
+        "player": "Ash Kardash",
+        "result": "-$5,080"
+      }
+      ,
+      {
+        "player": "A.V.",
+        "result": "-$7,320"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 476",
+    "date": "07/11/23",
+    "yTitle": "Sashimi, Big John, Santa, Mars, Nick Vertucci & Mayhem Play THE ANTE GAME - Commentary by DGAF",
+    "yLink": "https://www.youtube.com/watch?v=7I8RK2vzCN0",
+    "players": [
+      {
+        "player": "Big John",
+        "result": "$30,925"
+      },
+      {
+        "player": "Jamie",
+        "result": "$22,825"
+      },
+      {
+        "player": "Alex",
+        "result": "$19,775"
+      },
+      {
+        "player": "Sashimi",
+        "result": "$3,425"
+      },
+      {
+        "player": "Mayhem",
+        "result": "$2,675"
+      },
+      {
+        "player": "Brian (Santa)",
+        "result": "-$12,100"
+      },
+      {
+        "player": "Mars",
+        "result": "-$18,850"
+      },
+      {
+        "player": "Jetman",
+        "result": "-$22,225"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "-$26,450"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 477",
+    "date": "07/12/23",
+    "yTitle": "SUPER HIGH STAKES $100/200 w/ Andy, Mariano, Britney, Nik Airball, Charles, Mike X & Mars",
+    "yLink": "https://www.youtube.com/watch?v=uBX-UK1Z5UQ",
+    "players": [
+      {
+        "player": "Andy Stacks",
+        "result": "$183,500"
+      },
+      {
+        "player": "Charles",
+        "result": "$118,900"
+      },
+      {
+        "player": "Mars",
+        "result": "$106,100"
+      },
+      {
+        "player": "Britney",
+        "result": "$3,100"
+      },
+      {
+        "player": "Nik Airball",
+        "result": "-$36,100"
+      },
+      {
+        "player": "Peter",
+        "result": "-$114,300"
+      },
+      {
+        "player": "Mariano",
+        "result": "-$129,200"
+      },
+      {
+        "player": "Mike X",
+        "result": "-$132,000"
+      }
+	],
+    "total": "$0"
 }]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
