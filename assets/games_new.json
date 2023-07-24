@@ -9567,51 +9567,6 @@
     "total": "$0"
 },
 {
-    "e": "Episode 211",
-    "date": "06/07/22",
-    "yTitle": "",
-    "yLink": "",
-    "players": [
-      {
-        "player": "",
-        "result": "0"
-      },
-      {
-        "player": "",
-        "result": "0"
-      },
-      {
-        "player": "",
-        "result": "0"
-      },
-      {
-        "player": "",
-        "result": "0"
-      },
-      {
-        "player": "",
-        "result": "0"
-      },
-      {
-        "player": "",
-        "result": "0"
-      },
-      {
-        "player": "",
-        "result": "0"
-      },
-      {
-        "player": "",
-        "result": "0"
-      },
-      {
-        "player": "",
-        "result": "0"
-      }
-	],
-    "total": "$0"
-},
-{
     "e": "Episode 212",
     "date": "06/08/22",
     "yTitle": "$25/50/100 No Limit Hold'em w/ Wesley, Henry, LG , Nitucci, David & GT - Commentary by DGAF",
@@ -19881,7 +19836,7 @@
     "yLink": "https://www.youtube.com/watch?v=lxJ1b7yUblQ",
     "players": [
       {
-        "player": "Brad",
+        "player": "Brad Kil",
         "result": "-$199,700"
       },
       {
@@ -21644,31 +21599,307 @@
       }
 	],
     "total": "$0"
+}
+,
+{
+    "e": "Episode 478",
+    "date": "07/13/23",
+    "yTitle": "Sashimi, Nick Austin, Mike X, Bear Jew & Patrick Play $10/20/40 - Commentary by DGAF & Nik Airball",
+    "yLink": "https://www.youtube.com/watch?v=ntUYI_PHDNo",
+    "players": [
+      {
+        "player": "Patrick",
+        "result": "$34,080"
+      },
+      {
+        "player": "Mike X",
+        "result": "$31,200"
+      },
+      {
+        "player": "Sashimi",
+        "result": "$17,070"
+      },
+      {
+        "player": "Alex",
+        "result": "$15,670"
+      },
+      {
+        "player": "Junlin",
+        "result": "$6,040"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "$4,000"
+      },
+      {
+        "player": "Bear Jew",
+        "result": "-$15,990"
+      },
+      {
+        "player": "Shay",
+        "result": "-$32,330"
+      },
+      {
+        "player": "Tal",
+        "result": "-$59,740"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 479",
+    "date": "07/14/23",
+    "yTitle": "SUPER HIGH STAKES $100/200/400 w/ Andy, Nik Airball, Charles, Britney, Sashimi, Henry & Peter",
+    "yLink": "https://www.youtube.com/watch?v=c7ZcBNz-R4U",
+    "players": [
+      {
+        "player": "Peter",
+        "result": "$121,700"
+      },
+      {
+        "player": "Andy Stacks",
+        "result": "$94,600"
+      },
+      {
+        "player": "Nik Airball",
+        "result": "$92,700"
+      },
+      {
+        "player": "Britney",
+        "result": "$12,600"
+      },
+      {
+        "player": "Charles",
+        "result": "-$15,300"
+      },
+      {
+        "player": "Sashimi",
+        "result": "-$74,600"
+      },
+      {
+        "player": "Henry Guttman",
+        "result": "-$231,700"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 480",
+    "date": "07/17/23",
+    "yTitle": "MAX PAIN MONDAY!! Alex Botez, Randall Emmett, Luda Chris, Pouya, DGAF, DK, Randy, Faizal, Big John",
+    "yLink": "https://www.youtube.com/watch?v=yA4x8WE1vMY",
+    "players": [
+      {
+        "player": "Luda Chris",
+        "result": "$50,420"
+      },
+      {
+        "player": "DGAF",
+        "result": "$27,030"
+      },
+      {
+        "player": "Pouya",
+        "result": "$12,350"
+      },
+      {
+        "player": "Randy Pitchford",
+        "result": "$1,330"
+      },
+      {
+        "player": "Randall Emmett",
+        "result": "-$1,660"
+      },
+      {
+        "player": "Nate Hill",
+        "result": "-$1,700"
+      },
+      {
+        "player": "Faizal",
+        "result": "-$12,120"
+      },
+      {
+        "player": "Alexandra Botez",
+        "result": "-$15,900"
+      },
+      {
+        "player": "Big John",
+        "result": "-$29,130"
+      },
+      {
+        "player": "DK",
+        "result": "-$30,620"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 481",
+    "date": "07/18/23",
+    "yTitle": "",
+    "yLink": "",
+    "players": [
+      {
+        "player": "Anthony",
+        "result": "$413,000"
+      },
+      {
+        "player": "Tom Dwan",
+        "result": "$160,000"
+      },
+      {
+        "player": "Santhosh",
+        "result": "$100,500"
+      },
+      {
+        "player": "Marius",
+        "result": "-$17,500"
+      },
+      {
+        "player": "Professor",
+        "result": "-$47,500"
+      },
+      {
+        "player": "Charles",
+        "result": "-$89,500"
+      },
+      {
+        "player": "Nik Airball",
+        "result": "-$519,000"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 482",
+    "date": "07/19/23",
+    "yTitle": "$500/500/1,000 POT LIMIT OMAHA w/ Tom Dwan, Nik Airball & Santhosh - Commentary by Joey Ingram",
+    "yLink": "https://www.youtube.com/watch?v=lninreOtDY8",
+    "players": [
+      {
+        "player": "Marius",
+        "result": "$454,000"
+      },
+      {
+        "player": "Nik Airball",
+        "result": "$420,000"
+      },
+      {
+        "player": "Tom Dwan",
+        "result": "$318,500"
+      },
+      {
+        "player": "Anthony",
+        "result": "$20,000"
+      },
+      {
+        "player": "Firas",
+        "result": "-$202,500"
+      },
+      {
+        "player": "Professor",
+        "result": "-$290,500"
+      },
+      {
+        "player": "Charles",
+        "result": "-$342,000"
+      },
+      {
+        "player": "Santhosh",
+        "result": "-$377,500"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+  "e": "Episode 483",
+    "date": "07/20/23",
+    "yTitle": "Tom Dwan, Nik Airball, Bad Brad & Charles Play $500/500/1K POT LIMIT OMAHA! Commentary by Joe Ingram",
+    "yLink": "https://www.youtube.com/watch?v=i7CYXxP0y4k",
+    "players": [
+      {
+        "player": "Anthony",
+        "result": "$499,000"
+      },
+      {
+        "player": "Firas",
+        "result": "$397,500"
+      },
+      {
+        "player": "Charles",
+        "result": "$252,000"
+      },
+      {
+        "player": "Tom Dwan",
+        "result": "$197,000"
+      },
+      {
+        "player": "Pav",
+        "result": "$53,000"
+      },
+      {
+        "player": "Nik Airball",
+        "result": "$34,000"
+      },
+      {
+        "player": "Marius",
+        "result": "-$39,500"
+      },
+      {
+        "player": "Tan",
+        "result": "-$386,500"
+      },
+      {
+        "player": "Brad Kil",
+        "result": "-$401,000"
+      }
+      ,
+      {
+        "player": "Professor",
+        "result": "-$505,500"
+      }
+	],
+    "total": "$100,000"
+}
+,
+{
+    "e": "Episode 450",
+    "date": "07/21/23",
+    "yTitle": "Tom Dwan, Nik Airball, Santhosh, Charles & Bobo Play $500/500 PLO!! Commentary by Joey Ingram",
+    "yLink": "https://www.youtube.com/watch?v=VT_eoO1SzQI",
+    "players": [
+      {
+        "player": "Bobo",
+        "result": "$146,500"
+      },
+      {
+        "player": "Charles",
+        "result": "$129,500"
+      },
+      {
+        "player": "Anthony",
+        "result": "$121,000"
+      },
+      {
+        "player": "Professor",
+        "result": "$98,000"
+      },
+      {
+        "player": "Tom Dwan",
+        "result": "$85,500"
+      },
+      {
+        "player": "Nik Airball",
+        "result": "-$59,500"
+      },
+      {
+        "player": "Santhosh",
+        "result": "-$521,000"
+      }
+	],
+    "total": "$0"
 }]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
