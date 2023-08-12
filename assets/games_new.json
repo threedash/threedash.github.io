@@ -22141,7 +22141,7 @@
         "result": "$21,800"
       },
       {
-        "player": "Peter",
+        "player": "Peter Martin",
         "result": "$9,690"
       },
       {
@@ -22255,6 +22255,276 @@
       {
         "player": "Professor",
         "result": "-$163,000"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 493",
+    "date": "08/03/23",
+    "yTitle": "ALL-STAR GAME!! Mikki Buys In $450K!! Mikki, Wesley, Andy, Mariano, Charles, Professor, Sia, Xuan",
+    "yLink": "https://www.youtube.com/watch?v=ugKUcEKTEYw",
+    "players": [
+      {
+        "player": "Mariano",
+        "result": "$106,675"
+      },
+      {
+        "player": "Wesley Flan",
+        "result": "$49,075"
+      },
+      {
+        "player": "Professor",
+        "result": "$42,025"
+      },
+      {
+        "player": "Sia the Bot",
+        "result": "$20,100"
+      },
+      {
+        "player": "Andy Stacks",
+        "result": "-$12,625"
+      },
+      {
+        "player": "Mikki",
+        "result": "-$21,950"
+      },
+      {
+        "player": "Charles",
+        "result": "-$89,575"
+      },
+      {
+        "player": "Xuan Liu",
+        "result": "-$93,725"
+      }
+	],
+    "total": "$0"
+}
+
+,
+{
+    "e": "Episode 494",
+    "date": "08/04/23",
+    "yTitle": "SUPER HIGH STAKES $100/200 w/ Andy, Mariano, Professor, Wesley, Mike X, Pepe & Mars",
+    "yLink": "https://www.youtube.com/watch?v=Go8hz138Vpk",
+    "players": [
+      {
+        "player": "Mariano",
+        "result": "$86,200"
+      },
+      {
+        "player": "Andy Stacks",
+        "result": "$84,700"
+      },
+      {
+        "player": "Professor",
+        "result": "$43,000"
+      },
+      {
+        "player": "Pepe",
+        "result": "-$500"
+      },
+      {
+        "player": "Mike X",
+        "result": "-$3,200"
+      },
+      {
+        "player": "Wesley Flan",
+        "result": "-$34,900"
+      },
+      {
+        "player": "Mars",
+        "result": "-$175,300"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 495",
+    "date": "08/07/23",
+    "yTitle": "MAX PAIN MONDAY!! JBoogs, Xuan, DGAF, Nate Hill, Sia, Nick Vertucci - Commentary by RaverPoker",
+    "yLink": "https://www.youtube.com/watch?v=vP2p6cIciGQ",
+    "players": [
+      {
+        "player": "Jeremy 'Jboogs' Levin",
+        "result": "$30,960"
+      },
+      {
+        "player": "Sia the Bot",
+        "result": "$19,170"
+      },
+      {
+        "player": "Nate Hill",
+        "result": "$4,500"
+      },
+      {
+        "player": "Steddie",
+        "result": "$3,540"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "$460"
+      },
+      {
+        "player": "Bear Jew",
+        "result": "-$1,940"
+      },
+      {
+        "player": "Wei",
+        "result": "-$7,550"
+      },
+      {
+        "player": "Xuan Liu",
+        "result": "-$8,910"
+      },
+      {
+        "player": "Soby",
+        "result": "-$16,460"
+      }
+      ,
+      {
+        "player": "DGAF",
+        "result": "-$23,770"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 496",
+    "date": "08/08/23",
+    "yTitle": "Luda Chris, Linglin, Francisco, Mike X, Big John & Santa Play THE ANTE GAME - Commentary by DGAF",
+    "yLink": "https://www.youtube.com/watch?v=NBFaw0Yp7UA",
+    "players": [
+      {
+        "player": "Eli Strickland",
+        "result": "$55,500"
+      },
+      {
+        "player": "Mike X",
+        "result": "$24,725"
+      },
+      {
+        "player": "Patrick",
+        "result": "$1,975"
+      },
+      {
+        "player": "Francisco Fragoso",
+        "result": "$725"
+      },
+      {
+        "player": "Luda Chris",
+        "result": "-$1,625"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "-$13,200"
+      },
+      {
+        "player": "Linglin",
+        "result": "-$15,350"
+      },
+      {
+        "player": "Big John",
+        "result": "-$20,750"
+      },
+      {
+        "player": "Brian (Santa)",
+        "result": "-$32,000"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 497",
+    "date": "08/09/23",
+    "yTitle": "Rampage Plays HIGH STAKES $25/50/100 w/ Nik Airball, Wesley & Andy!! Commentary by DGAF",
+    "yLink": "https://www.youtube.com/watch?v=eZSIY09qnXY",
+    "players": [
+      {
+        "player": "Rampage",
+        "result": "$233,900"
+      },
+      {
+        "player": "Andy Stacks",
+        "result": "$192,900"
+      },
+      {
+        "player": "Brown Balla",
+        "result": "$51,200"
+      },
+      {
+        "player": "Soby",
+        "result": "$35,025"
+      },
+      {
+        "player": "Nik Airball",
+        "result": "-$18,975"
+      },
+      {
+        "player": "Rina",
+        "result": "-$34,475"
+      },
+      {
+        "player": "Chen",
+        "result": "-$116,125"
+      },
+      {
+        "player": "Wesley Flan",
+        "result": "-$168,450"
+      },
+      {
+        "player": "Pepe",
+        "result": "-$175,000"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 498",
+    "date": "08/10/23",
+    "yTitle": "THIRSTY THURSDAY!! DGAF, Mike X, Wei, San Man & Nikos Play $10/20/40 - Commentary by David Tuchman",
+    "yLink": "https://www.youtube.com/watch?v=hp-iypEhWRg",
+    "players": [
+      {
+        "player": "San Man",
+        "result": "$9,940"
+      },
+      {
+        "player": "Mike X",
+        "result": "$6,160"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "$5,760"
+      },
+      {
+        "player": "DGAF",
+        "result": "$820"
+      },
+      {
+        "player": "Steddie",
+        "result": "$320"
+      },
+      {
+        "player": "Wei",
+        "result": "-$10"
+      },
+      {
+        "player": "Nikos",
+        "result": "-$3,890"
+      },
+      {
+        "player": "Dr. P",
+        "result": "-$6,670"
+      },
+      {
+        "player": "Luckbox Tony",
+        "result": "-$12,430"
       }
 	],
     "total": "$0"
