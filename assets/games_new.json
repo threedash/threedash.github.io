@@ -22528,4 +22528,189 @@
       }
 	],
     "total": "$0"
+}
+,
+{
+    "e": "Episode 499",
+    "date": "08/11/23",
+    "yTitle": "Mikki, Aussie Matt, Wesley, Professor, Nik Airball & Charles Play $500/500/5K POT LIMIT OMAHA!",
+    "yLink": "https://www.youtube.com/watch?v=p16DUK3uNv0",
+    "players": [
+      {
+        "player": "Charles",
+        "result": "$758,000"
+      },
+      {
+        "player": "Fat Al",
+        "result": "$400,000"
+      },
+      {
+        "player": "Danny",
+        "result": "$66,500"
+      },
+      {
+        "player": "Professor",
+        "result": "$66,500"
+      },
+      {
+        "player": "Nik Airball",
+        "result": "-$145,500"
+      },
+      {
+        "player": "Aussie Matt",
+        "result": "-$150,000"
+      },
+      {
+        "player": "Jon",
+        "result": "-$242,000"
+      },
+      {
+        "player": "Wesley Flan",
+        "result": "-$355,000"
+      },
+      {
+        "player": "Mikki",
+        "result": "-$398,500"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 500",
+    "date": "08/14/23",
+    "yTitle": "MAX PAIN MONDAY! 500th HCL Show! Nate Hill, Randy, DGAF, Sia, LiquidSteve - Commentary by RaverPoker",
+    "yLink": "https://www.youtube.com/watch?v=V-g-qot_dXY",
+    "players": [
+      {
+        "player": "San Man",
+        "result": "$22,790"
+      },
+      {
+        "player": "DGAF",
+        "result": "$15,620"
+      },
+      {
+        "player": "Randy Pitchford",
+        "result": "$7,800"
+      },
+      {
+        "player": "Nate Hill",
+        "result": "$6,140"
+      },
+      {
+        "player": "Crazy Drew Donen",
+        "result": "$5,530"
+      },
+      {
+        "player": "Bear Jew",
+        "result": "$620"
+      },
+      {
+        "player": "Safia",
+        "result": "-$2,100"
+      },
+      {
+        "player": "Sia the Bot",
+        "result": "-$12,280"
+      },
+      {
+        "player": "Liquid Steve",
+        "result": "-$21,960"
+      }
+      ,
+      {
+        "player": "Big John",
+        "result": "-$22,160"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 501",
+    "date": "08/15/23",
+    "yTitle": "JBoogs, Luda Chris, Mike X, Francisco & Mike Nia Play THE ANTE GAME - Commentary by DGAF",
+    "yLink": "https://www.youtube.com/watch?v=Z3KJPXPJGCo",
+    "players": [
+      {
+        "player": "JT",
+        "result": "$104,075"
+      },
+      {
+        "player": "Mike X",
+        "result": "$20,675"
+      },
+      {
+        "player": "Big John",
+        "result": "$11,050"
+      },
+      {
+        "player": "Jeremy 'Jboogs' Levin",
+        "result": "$4,925"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "-$6,350"
+      },
+      {
+        "player": "Francisco Fragoso",
+        "result": "-$7,800"
+      },
+      {
+        "player": "Eli Strickland",
+        "result": "-$31,800"
+      },
+      {
+        "player": "Mike Nia",
+        "result": "-$36,100"
+      },
+      {
+        "player": "Luda Chris",
+        "result": "-$58,675"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 502",
+    "date": "08/16/23",
+    "yTitle": "Jungleman, Wesley, Mariano & Andy Play $100/200!! Commentary by David Tuchman",
+    "yLink": "https://www.youtube.com/watch?v=9mdyyzWxCKk",
+    "players": [
+      {
+        "player": "Brown Balla",
+        "result": "$174,725"
+      },
+      {
+        "player": "Henry Guttman",
+        "result": "$19,150"
+      },
+      {
+        "player": "Wesley Flan",
+        "result": "$13,975"
+      },
+      {
+        "player": "Bryan",
+        "result": "$5,825"
+      },
+      {
+        "player": "Andy Stacks",
+        "result": "-$1,900"
+      },
+      {
+        "player": "Will",
+        "result": "-$24,375"
+      },
+      {
+        "player": "Mariano",
+        "result": "-$49,275"
+      },
+      {
+        "player": "Jungleman",
+        "result": "-$138,125"
+      }
+	],
+    "total": "$0"
 }]
