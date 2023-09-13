@@ -23534,4 +23534,51 @@
       }
 	],
     "total": "$0"
-}]
+}
+,
+{
+    "e": "Episode 521",
+    "date": "09/12/23",
+    "yTitle": "Luda Chris, Dentist Dave, Francisco, Nikos & Eli Play THE ANTE GAME - Commentary by Charlie Wilmoth",
+    "yLink": "https://www.youtube.com/watch?v=Z_hP2giyXBQ",
+    "players": [
+      {
+        "player": "Dentist Dave",
+        "result": "$33,600"
+      },
+      {
+        "player": "Francisco Fragoso",
+        "result": "$19,175"
+      },
+      {
+        "player": "Eli Strickland",
+        "result": "$14,800"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "$9,725"
+      },
+      {
+        "player": "Luda Chris",
+        "result": "$6,900"
+      },
+      {
+        "player": "Big John",
+        "result": "-$9,150"
+      },
+      {
+        "player": "The King",
+        "result": "-$19,700"
+      },
+      {
+        "player": "Nikos",
+        "result": "-$22,325"
+      },
+      {
+        "player": "Johnny Steven",
+        "result": "-$33,025"
+      }
+	],
+    "total": "$0"
+}
+]
