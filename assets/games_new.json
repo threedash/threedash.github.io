@@ -23581,4 +23581,138 @@
 	],
     "total": "$0"
 }
+,
+{
+    "e": "Episode 522",
+    "date": "09/13/23",
+    "yTitle": "HIGH STAKES $25/50/100 w/ Andy, Mariano, Pepe, Mike X & The King - Commentary by David Tuchman",
+    "yLink": "https://www.youtube.com/watch?v=_oVQyeHxiQ8",
+    "players": [
+      {
+        "player": "Pepe",
+        "result": "$102,775"
+      },
+      {
+        "player": "Mike X",
+        "result": "$33,100"
+      },
+      {
+        "player": "Mariano",
+        "result": "$21,200"
+      },
+      {
+        "player": "Victor (asian)",
+        "result": "$15,800"
+      },
+      {
+        "player": "Brown Balla",
+        "result": "$7,100"
+      },
+      {
+        "player": "Stan",
+        "result": "$3,775"
+      },
+      {
+        "player": "The King",
+        "result": "-$39,925"
+      },
+      {
+        "player": "Yoda",
+        "result": "-$52,025"
+      },
+      {
+        "player": "Andy Stacks",
+        "result": "-$91,800"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 523",
+    "date": "09/14/23",
+    "yTitle": "THIRSTY THURSDAY!! Bart Hanson, Sia, Bear Jew, Nick V, Nikos - Commentary by David Tuchman",
+    "yLink": "https://www.youtube.com/watch?v=coZXLtHn1PQ",
+    "players": [
+      {
+        "player": "Bart Hanson",
+        "result": "$22,180"
+      },
+      {
+        "player": "Jerry (asian)",
+        "result": "$12,330"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "$10,150"
+      },
+      {
+        "player": "Nikos",
+        "result": "$7,100"
+      },
+      {
+        "player": "Sia the Bot",
+        "result": "$5,110"
+      },
+      {
+        "player": "Alex",
+        "result": "-$5,710"
+      },
+      {
+        "player": "Johnny Steven",
+        "result": "-$6,940"
+      },
+      {
+        "player": "Matt (crypto)",
+        "result": "-$7,590"
+      },
+      {
+        "player": "Bear Jew",
+        "result": "-$36,630"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 524",
+    "date": "09/15/23",
+    "yTitle": "Jungleman, Andy, Pepe, Mike X & Mars Play HIGH STAKES $50/100/200 - Commentary by Bart Hanson",
+    "yLink": "https://www.youtube.com/watch?v=SoAaUNttTes",
+    "players": [
+      {
+        "player": "Jungleman",
+        "result": "$76,475"
+      },
+      {
+        "player": "Mike X",
+        "result": "$61,200"
+      },
+      {
+        "player": "Dr. Patel",
+        "result": "$29,200"
+      },
+      {
+        "player": "Tony Mars",
+        "result": "$22,400"
+      },
+      {
+        "player": "Pepe",
+        "result": "$18,400"
+      },
+      {
+        "player": "Brown Balla",
+        "result": "-$43,700"
+      },
+      {
+        "player": "Yoda",
+        "result": "-$56,250"
+      },
+      {
+        "player": "Andy Stacks",
+        "result": "-$107,725"
+      }
+	],
+    "total": "$0"
+}
 ]
