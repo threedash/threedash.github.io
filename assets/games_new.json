@@ -24292,8 +24292,8 @@
 }
 ,
 {
-    "e": "Episode 500",
-    "date": "10/00/23",
+    "e": "Episode 538",
+    "date": "10/05/23",
     "yTitle": "THIRSTY THURSDAY!! DGAF, Ronnie, Wei, Steddie, Nick V - Commentary by David Tuchman",
     "yLink": "https://www.youtube.com/watch?v=qXNBYQmOe4E",
     "players": [
@@ -24323,19 +24323,19 @@
       },
       {
         "player": "DGAF",
-        "result": "$2,560"
+        "result": "-$2,560"
       },
       {
         "player": "Sia the Bot",
-        "result": "$3,800"
+        "result": "-$3,800"
       },
       {
         "player": "Jeffrey",
-        "result": "$11,160"
+        "result": "-$11,160"
       },
       {
         "player": "Steddie",
-        "result": "$26,770"
+        "result": "-$26,770"
       }
 	],
     "total": "$0"
