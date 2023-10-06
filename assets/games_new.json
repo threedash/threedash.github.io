@@ -24289,4 +24289,57 @@
       }
 	],
     "total": "$0"
+}
+,
+{
+    "e": "Episode 500",
+    "date": "10/00/23",
+    "yTitle": "THIRSTY THURSDAY!! DGAF, Ronnie, Wei, Steddie, Nick V - Commentary by David Tuchman",
+    "yLink": "https://www.youtube.com/watch?v=qXNBYQmOe4E",
+    "players": [
+      {
+        "player": "Driss",
+        "result": "$23,780"
+      },
+      {
+        "player": "Tyler D",
+        "result": "$9,780"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "$6,070"
+      },
+      {
+        "player": "Wei",
+        "result": "$2,760"
+      },
+      {
+        "player": "Ronnie Ebanks",
+        "result": "$1,470"
+      },
+      {
+        "player": "Gustavo",
+        "result": "$430"
+      },
+      {
+        "player": "DGAF",
+        "result": "$2,560"
+      },
+      {
+        "player": "Sia the Bot",
+        "result": "$3,800"
+      },
+      {
+        "player": "Jeffrey",
+        "result": "$11,160"
+      },
+      {
+        "player": "Steddie",
+        "result": "$26,770"
+      }
+	],
+    "total": "$0"
 }]
+
+
+
