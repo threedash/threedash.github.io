@@ -24339,7 +24339,274 @@
       }
 	],
     "total": "$0"
-}]
-
-
-
+}
+,
+{
+    "e": "Episode 539",
+    "date": "10/06/23",
+    "yTitle": "SUPER HIGH STAKES $100/200/400!! Jungleman, Andy, Nik Airball, Pepe, Mars - Commentary by Marc Goone",
+    "yLink": "https://www.youtube.com/watch?v=-wx2d3EudeM",
+    "players": [
+      {
+        "player": "Andy Stacks",
+        "result": "$232,800"
+      },
+      {
+        "player": "Harsheel",
+        "result": "$106,000"
+      },
+      {
+        "player": "Pepe",
+        "result": "$95,800"
+      },
+      {
+        "player": "Dan",
+        "result": "$16,400"
+      },
+      {
+        "player": "Tony Mars",
+        "result": "$3,400"
+      },
+      {
+        "player": "Nik Airball",
+        "result": "-$81,000"
+      },
+      {
+        "player": "Jungleman",
+        "result": "-$148,600"
+      },
+      {
+        "player": "Jimmy",
+        "result": "-$224,800"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 540",
+    "date": "10/09/23",
+    "yTitle": "MAX PAIN MONDAY! Sia, DGAF, RaverPoker, Nate Hill, Pepe, Nikos, Kennedy! Commentary by David Tuchman",
+    "yLink": "https://www.youtube.com/watch?v=rbjwsABDJFs",
+    "players": [
+      {
+        "player": "Mr. J",
+        "result": "$35,170"
+      },
+      {
+        "player": "Pepe",
+        "result": "$30,190"
+      },
+      {
+        "player": "Sia the Bot",
+        "result": "$2,540"
+      },
+      {
+        "player": "Raver Poker",
+        "result": "$2,350"
+      },
+      {
+        "player": "Peter Martin",
+        "result": "$1,880"
+      },
+      {
+        "player": "Nate Hill",
+        "result": "-$920"
+      },
+      {
+        "player": "Andrew",
+        "result": "-$7,640"
+      },
+      {
+        "player": "DGAF",
+        "result": "-$9,460"
+      },
+      {
+        "player": "Nikos",
+        "result": "-$25,290"
+      }
+      ,
+      {
+        "player": "Kennedy",
+        "result": "-$28,820"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 541",
+    "date": "10/10/23",
+    "yTitle": "Pennzoil Don, Luda Chris, JT, Nikos & Dr. H Play THE ANTE GAME - Commentary by DGAF",
+    "yLink": "https://www.youtube.com/watch?v=cpKn5gZIqE4",
+    "players": [
+      {
+        "player": "Luda Chris",
+        "result": "$45,125"
+      },
+      {
+        "player": "Nikos",
+        "result": "$24,050"
+      },
+      {
+        "player": "Dr. H",
+        "result": "$23,325"
+      },
+      {
+        "player": "JT",
+        "result": "$8,400"
+      },
+      {
+        "player": "Pennzoil Don",
+        "result": "$7,100"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "$500"
+      },
+      {
+        "player": "Big John",
+        "result": "-$5,050"
+      },
+      {
+        "player": "Eli Strickland",
+        "result": "-$31,350"
+      },
+      {
+        "player": "Sun",
+        "result": "-$72,100"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 542",
+    "date": "10/11/23",
+    "yTitle": "HIGH STAKES $25/50/100 w/ Mariano, Andy, Nik Airball, Henry & Will - Commentary by DGAF",
+    "yLink": "https://www.youtube.com/watch?v=xfzt3jIZ7OU",
+    "players": [
+      {
+        "player": "Nik Airball",
+        "result": "$98,600"
+      },
+      {
+        "player": "Alex",
+        "result": "$82,475"
+      },
+      {
+        "player": "Andy Stacks",
+        "result": "$53,850"
+      },
+      {
+        "player": "Henry Guttman",
+        "result": "$40,700"
+      },
+      {
+        "player": "Sun",
+        "result": "-$3,325"
+      },
+      {
+        "player": "Will Park",
+        "result": "-$40,750"
+      },
+      {
+        "player": "Colin",
+        "result": "-$54,025"
+      },
+      {
+        "player": "Mariano",
+        "result": "-$177,525"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 543",
+    "date": "10/12/23",
+    "yTitle": "THIRSTY THURSDAY! Bart Hanson, DGAF, JBoogs, Sia, Dr. P & Gary the Goat! Commentary by David Tuchman",
+    "yLink": "https://www.youtube.com/watch?v=8Ho-L_7AuSE",
+    "players": [
+      {
+        "player": "Nikos",
+        "result": "$18,290"
+      },
+      {
+        "player": "Jeremy 'Jboogs' Levin",
+        "result": "$11,100"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "$8,350"
+      },
+      {
+        "player": "DGAF",
+        "result": "$4,370"
+      },
+      {
+        "player": "Dr. Patel",
+        "result": "-$680"
+      },
+      {
+        "player": "Sia the Bot",
+        "result": "-$1,280"
+      },
+      {
+        "player": "Tom T",
+        "result": "-$7,420"
+      },
+      {
+        "player": "Bart Hanson",
+        "result": "-$11,650"
+      },
+      {
+        "player": "Gary the Goat",
+        "result": "-$21,080"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 500",
+    "date": "10/13/23",
+    "yTitle": "SUPER HIGH STAKES $100/200/400!! Andy, Charles, Stanley Tang, Nik Airball, Pepe, Professor!!",
+    "yLink": "https://www.youtube.com/watch?v=JhHR6U0GRy8",
+    "players": [
+      {
+        "player": "Nik Airball",
+        "result": "$141,600"
+      },
+      {
+        "player": "Andy Stacks",
+        "result": "$103,800"
+      },
+      {
+        "player": "Stanley Tang",
+        "result": "$98,600"
+      },
+      {
+        "player": "Pepe",
+        "result": "$38,100"
+      },
+      {
+        "player": "Charles Yu",
+        "result": "$22,800"
+      },
+      {
+        "player": "Professor",
+        "result": "-$49,300"
+      },
+      {
+        "player": "Lawrence",
+        "result": "-$125,600"
+      },
+      {
+        "player": "Ryan Feldman",
+        "result": "-$230,000"
+      }
+	],
+    "total": "$0"
+}
+]
