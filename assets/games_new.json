@@ -24751,8 +24751,8 @@
 {
     "e": "Episode 548",
     "date": "10/19/23",
-    "yTitle": "",
-    "yLink": "",
+    "yTitle": "SUPER HIGH STAKES $500/500/1K POT LIMIT OMAHA!! Nik Airball, Charles, Professor, Firas & Anthony!!",
+    "yLink": "https://www.youtube.com/watch?v=d4_jIoegMKk",
     "players": [
       {
         "player": "Charles Yu",
@@ -24789,36 +24789,36 @@
 {
     "e": "Episode 549",
     "date": "10/20/23",
-    "yTitle": "SUPER HIGH STAKES $500/500/1K POT LIMIT OMAHA!! Nik Airball, Charles, Professor, Firas & Anthony!!",
-    "yLink": "https://www.youtube.com/watch?v=d4_jIoegMKk",
+    "yTitle": "SUPER HIGH STAKES $500/500/1K POT LIMIT OMAHA!! Professor, Firas, Anthony, Charles, Danny, Fat Al",
+    "yLink": "https://www.youtube.com/watch?v=NL_-zSNsIEc",
     "players": [
       {
-        "player": "Charles Yu",
-        "result": "$110,000"
-      },
-      {
-        "player": "Anthony",
-        "result": "$81,500"
-      },
-      {
-        "player": "Fat Al",
-        "result": "$79,500"
-      },
-      {
-        "player": "Jon",
-        "result": "$44,500"
-      },
-      {
-        "player": "Firas",
-        "result": "$23,500"
+        "player": "Danny",
+        "result": "$414,000"
       },
       {
         "player": "Professor",
-        "result": "$500"
+        "result": "$219,500"
       },
       {
-        "player": "Nik Airball",
-        "result": "-$339,500"
+        "player": "Firas",
+        "result": "-$40,500"
+      },
+      {
+        "player": "Jon",
+        "result": "-$116,000"
+      },
+      {
+        "player": "Anthony",
+        "result": "-$153,000"
+      },
+      {
+        "player": "Charles Yu",
+        "result": "-$160,000"
+      },
+      {
+        "player": "Fat Al",
+        "result": "-$164,000"
       }
 	],
     "total": "$0"
