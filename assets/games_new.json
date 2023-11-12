@@ -25325,5 +25325,139 @@
 	],
     "total": "$0"
 }
+,
+{
+    "e": "Episode 562",
+    "date": "11/08/23",
+    "yTitle": "HIGH STAKES $25/50/100 w/ Pennzoil Don, Andy, Nik Airball, Henry & JT - Commentary by David Tuchman",
+    "yLink": "https://www.youtube.com/watch?v=yNWIVT3mAOA",
+    "players": [
+      {
+        "player": "Tony Mars",
+        "result": "$106,600"
+      },
+      {
+        "player": "Henry Guttman",
+        "result": "$75,325"
+      },
+      {
+        "player": "Pennzoil Don",
+        "result": "$73,200"
+      },
+      {
+        "player": "Will Park",
+        "result": "-$16,225"
+      },
+      {
+        "player": "Raymond",
+        "result": "-$20,625"
+      },
+      {
+        "player": "Andy Stacks",
+        "result": "-$36,525"
+      },
+      {
+        "player": "Jacky",
+        "result": "-$41,250"
+      },
+      {
+        "player": "Nik Airball",
+        "result": "-$53,750"
+      },
+      {
+        "player": "JT",
+        "result": "-$86,750"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 563",
+    "date": "11/09/23",
+    "yTitle": "THIRSTY THURSDAY!! Sia, DGAF, DJ Washburn, Nate Hill, Nikos, Dr. P - Commentary by David Tuchman",
+    "yLink": "https://www.youtube.com/watch?v=0g2BSx3NXHM",
+    "players": [
+      {
+        "player": "Sia the Bot",
+        "result": "$17,050"
+      },
+      {
+        "player": "Big John",
+        "result": "$11,480"
+      },
+      {
+        "player": "DGAF",
+        "result": "$9,190"
+      },
+      {
+        "player": "Nikos",
+        "result": "$$3,230"
+      },
+      {
+        "player": "Kaptain Fish",
+        "result": "-$3,280"
+      },
+      {
+        "player": "Nate Hill",
+        "result": "-$3,920"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "-$4,150"
+      },
+      {
+        "player": "DJ Washburn",
+        "result": "-$13,140"
+      },
+      {
+        "player": "Dr. Patel",
+        "result": "-$17,410"
+      }
+	],
+    "total": "$0"
+}
 
+,
+{
+    "e": "Episode 564",
+    "date": "11/10/23",
+    "yTitle": "Jungleman Plays HIGH STAKES $50/100/200 w/ Andy, Mariano, Pepe, DJ Washburn & Mars",
+    "yLink": "https://www.youtube.com/watch?v=wngIczOh4to",
+    "players": [
+      {
+        "player": "Raymond",
+        "result": "$93,625"
+      },
+      {
+        "player": "Andy Stacks",
+        "result": "$72,475"
+      },
+      {
+        "player": "Tony Mars",
+        "result": "$7,550"
+      },
+      {
+        "player": "DJ Washburn",
+        "result": "$5,100"
+      },
+      {
+        "player": "Jungleman",
+        "result": "-$13,125"
+      },
+      {
+        "player": "Will Park",
+        "result": "-$45,275"
+      },
+      {
+        "player": "Pepe",
+        "result": "-$48,000"
+      },
+      {
+        "player": "Mariano Grandoli",
+        "result": "-$72,350"
+      }
+	],
+    "total": "$0"
+}
 ]
