@@ -16744,7 +16744,7 @@
         "result": "-$940"
       },
       {
-        "player": "Victor",
+        "player": "Victor Li",
         "result": "-$9,730"
       },
       {
@@ -23601,7 +23601,7 @@
         "result": "$21,200"
       },
       {
-        "player": "Victor (asian)",
+        "player": "Victor Li",
         "result": "$15,800"
       },
       {
@@ -25460,4 +25460,188 @@
 	],
     "total": "$0"
 }
-]
+,
+{
+    "e": "Episode 565",
+    "date": "11/13/23",
+    "yTitle": "MAX PAIN MONDAY!! Driss, DGAF, San Man, Crazy Drew, Johnny, Tyler D - Commentary by RaverPoker",
+    "yLink": "https://www.youtube.com/watch?v=9qkEgqIvU3E",
+    "players": [
+      {
+        "player": "Crazy Drew Donen",
+        "result": "27540"
+      },
+      {
+        "player": "DGAF",
+        "result": "22,680"
+      },
+      {
+        "player": "Johnny Steven",
+        "result": "$14,090"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "$11,720"
+      },
+      {
+        "player": "Tyler Dickinson",
+        "result": "$7,580"
+      },
+      {
+        "player": "Simon",
+        "result": "-$8,470"
+      },
+      {
+        "player": "Rocky",
+        "result": "-$9,710"
+      },
+      {
+        "player": "San Man",
+        "result": "-$25,870"
+      },
+      {
+        "player": "Driss",
+        "result": "-$39,930"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 566",
+    "date": "11/14/23",
+    "yTitle": "Wesley, Sashimi, JBoogs, Francisco, Ronnie, Efan & Zeo Play THE ANTE GAME!! Commentary by DGAF",
+    "yLink": "https://www.youtube.com/watch?v=eDtBmfHZy_c",
+    "players": [
+      {
+        "player": "Big Rick",
+        "result": "$31,775"
+      },
+      {
+        "player": "Ronnie Ebanks",
+        "result": "$16,950"
+      },
+      {
+        "player": "Zeo Guo",
+        "result": "$12,250"
+      },
+      {
+        "player": "Efan Chen",
+        "result": "$3,300"
+      },
+      {
+        "player": "Sashimi",
+        "result": "$2,625"
+      },
+      {
+        "player": "Francisco Fragoso",
+        "result": "-$9,500"
+      },
+      {
+        "player": "Wesley Flan",
+        "result": "-$14,450"
+      },
+      {
+        "player": "Big John",
+        "result": "-$21,400"
+      },
+      {
+        "player": "Jeremy 'Jboogs' Levin",
+        "result": "-$22,425"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 567",
+    "date": "11/15/23",
+    "yTitle": "Andy, Sashimi, Mariano, Efan & Souzirou Play HIGH STAKES $25/50/100! Commentary by Christian Soto",
+    "yLink": "https://www.youtube.com/watch?v=YipHggWCZ5g",
+    "players": [
+      {
+        "player": "Henry Guttman",
+        "result": "$75,775"
+      },
+      {
+        "player": "Souzirou",
+        "result": "$20,700"
+      },
+      {
+        "player": "Brown Balla",
+        "result": "$8,150"
+      },
+      {
+        "player": "Andy Stacks",
+        "result": "-$3,775"
+      },
+      {
+        "player": "Alex",
+        "result": "-$8,800"
+      },
+      {
+        "player": "Efan Chen",
+        "result": "-$9,950"
+      },
+      {
+        "player": "Mariano Grandoli",
+        "result": "-$21,475"
+      },
+      {
+        "player": "Sashimi",
+        "result": "-$27,225"
+      },
+      {
+        "player": "Drew",
+        "result": "-$33,400"
+      }
+      
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 568",
+    "date": "11/16/23",
+    "yTitle": "THIRSTY THURSDAY!! Nate Hill, Ronnie, Francisco & Efan Play $10/20/40! Commentary by Christian Soto",
+    "yLink": "https://www.youtube.com/watch?v=T8eflJj1Yqo",
+    "players": [
+      {
+        "player": "Efan Chen",
+        "result": "$26,270"
+      },
+      {
+        "player": "Micah",
+        "result": "$7,650"
+      },
+      {
+        "player": "Dr. Patel",
+        "result": "$1,970"
+      },
+      {
+        "player": "Francisco Fragoso",
+        "result": "$1,580"
+      },
+      {
+        "player": "Jarius",
+        "result": "$980"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "-$1,150"
+      },
+      {
+        "player": "Ronnie Ebanks",
+        "result": "-$7,730"
+      },
+      {
+        "player": "Nate Hill",
+        "result": "-$12,590"
+      },
+      {
+        "player": "Andrew",
+        "result": "-$18,980"
+      }
+	],
+    "total": "$0"
+}]
