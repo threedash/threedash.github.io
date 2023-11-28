@@ -25644,4 +25644,50 @@
       }
 	],
     "total": "$0"
+}
+,
+{
+    "e": "Episode 569",
+    "date": "11/27/23",
+    "yTitle": "SUPER HIGH STAKES WEEK!! $100K Buyin!! Mariano, Martin Kabrhel, Santhosh, Brandon Steven, Charles",
+    "yLink": "https://www.youtube.com/watch?v=1v9zuJUetZ0",
+    "players": [
+      {
+        "player": "Brandon Steven",
+        "result": "$388,300"
+      },
+      {
+        "player": "Santhosh",
+        "result": "$345,800"
+      },
+      {
+        "player": "Martin Kabrhel",
+        "result": "$280,900"
+      },
+      {
+        "player": "Pepe",
+        "result": "$113,300"
+      },
+      {
+        "player": "Bryan",
+        "result": "-$26,500"
+      },
+      {
+        "player": "Mariano Grandoli",
+        "result": "-$56,400"
+      },
+      {
+        "player": "Harry",
+        "result": "-$84,100"
+      },
+      {
+        "player": "MO",
+        "result": "-$245,800"
+      },
+      {
+        "player": "Charles Yu",
+        "result": "-$715,500"
+      }
+	],
+    "total": "$0"
 }]
