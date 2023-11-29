@@ -10276,7 +10276,7 @@
         "result": "-$35,300"
       },
       {
-        "player": "Don (auto lube owner)",
+        "player": "Pennzoil Don",
         "result": "-$41,650"
       }
 	],
@@ -21750,7 +21750,7 @@
         "result": "$160,000"
       },
       {
-        "player": "Santhosh",
+        "player": "Santhosh Suvarna",
         "result": "$100,500"
       },
       {
@@ -21808,7 +21808,7 @@
         "result": "-$342,000"
       },
       {
-        "player": "Santhosh",
+        "player": "Santhosh Suvarna",
         "result": "-$377,500"
       }
 	],
@@ -21897,7 +21897,7 @@
         "result": "-$59,500"
       },
       {
-        "player": "Santhosh",
+        "player": "Santhosh Suvarna",
         "result": "-$521,000"
       }
 	],
@@ -25647,7 +25647,7 @@
 }
 ,
 {
-    "e": "Episode 569",
+    "e": "Episode 570",
     "date": "11/27/23",
     "yTitle": "SUPER HIGH STAKES WEEK!! $100K Buyin!! Mariano, Martin Kabrhel, Santhosh, Brandon Steven, Charles",
     "yLink": "https://www.youtube.com/watch?v=1v9zuJUetZ0",
@@ -25657,7 +25657,7 @@
         "result": "$388,300"
       },
       {
-        "player": "Santhosh",
+        "player": "Santhosh Suvarna",
         "result": "$345,800"
       },
       {
@@ -25690,4 +25690,43 @@
       }
 	],
     "total": "$0"
-}]
+}
+,
+{
+    "e": "Episode 571",
+    "date": "11/28/23",
+    "yTitle": "SUPER HIGH STAKES WEEK!! $100K Min Buyin!! Jungleman, Andy, Nik Airball, Santhosh, Professor",
+    "yLink": "https://www.youtube.com/watch?v=wc4juoy1v40",
+    "players": [
+      {
+        "player": "Professor",
+        "result": "$296,700"
+      },
+      {
+        "player": "Andy Stacks",
+        "result": "$168,200"
+      },
+      {
+        "player": "Nik Airball",
+        "result": "$117,300"
+      },
+      {
+        "player": "Jungleman",
+        "result": "$58,200"
+      },
+      {
+        "player": "Francisco Fragoso",
+        "result": "$16,500"
+      },
+      {
+        "player": "Henry Guttman",
+        "result": "-$183,900"
+      },
+      {
+        "player": "Santhosh Suvarna",
+        "result": "-$473,000"
+      }
+	],
+    "total": "$0"
+}
+]
