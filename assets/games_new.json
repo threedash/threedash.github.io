@@ -25770,6 +25770,259 @@
 	],
     "total": "$0"
 }
-]
-
-
+,
+{
+    "e": "Episode 573",
+    "date": "11/30/23",
+    "yTitle": "SUPER HIGH STAKES WEEK!! Rampage, Jungleman, Martin Kabrhel, Andy, Nik Airball, Santhosh",
+    "yLink": "https://www.youtube.com/watch?v=wer_5bi_g-I",
+    "players": [
+      {
+        "player": "Martin Kabrhel",
+        "result": "$331,500"
+      },
+      {
+        "player": "Professor",
+        "result": "$255,400"
+      },
+      {
+        "player": "Raymond",
+        "result": "$179,700"
+      },
+      {
+        "player": "Santhosh Suvarna",
+        "result": "$95,800"
+      },
+      {
+        "player": "Nik Airball",
+        "result": "$41,400"
+      },
+      {
+        "player": "Jungleman",
+        "result": "-$128,800"
+      },
+      {
+        "player": "Rampage",
+        "result": "-$304,900"
+      },
+      {
+        "player": "Andy Stacks",
+        "result": "-$470,100"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 574",
+    "date": "12/01/23",
+    "yTitle": "24-HOUR STREAM!! Alan Keating, Hanks, Santhosh, Jibrael, JBoogs, Nik Airball, Pepe! $1,000/1,000!!",
+    "yLink": "https://www.youtube.com/watch?v=O_BbqdmiTWI",
+    "players": [
+      {
+        "player": "Charles Yu",
+        "result": "$689,000"
+      },
+      {
+        "player": "Professor",
+        "result": "$335,000"
+      },
+      {
+        "player": "Jibrael",
+        "result": "$260,400"
+      },
+      {
+        "player": "Jeremy 'Jboogs' Levin",
+        "result": "$217,100"
+      },
+      {
+        "player": "Pepe",
+        "result": "$191,600"
+      },
+      {
+        "player": "J.R.",
+        "result": "$158,200"
+      },
+      {
+        "player": "Andy Stacks",
+        "result": "$106,000"
+      },
+      {
+        "player": "DJ",
+        "result": "$89,500"
+      },
+      {
+        "player": "MO",
+        "result": "$59,200"
+      }
+      ,
+      {
+        "player": "Alan Keating",
+        "result": "-$6,300"
+      },
+      {
+        "player": "Sashimi",
+        "result": "-$13,000"
+      }
+      ,
+      {
+        "player": "Lawrence",
+        "result": "-$209,900"
+      }
+      ,
+      {
+        "player": "Nik Airball",
+        "result": "-$345,800"
+      }
+      ,
+      {
+        "player": "Matthew 'Hanks'Honig",
+        "result": "-$392,000"
+      }
+      ,
+      {
+        "player": "Santhosh Suvarna",
+        "result": "-$1,139,000"
+      }
+      
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 575",
+    "date": "12/04/23",
+    "yTitle": "MAX PAIN MONDAY!! DQ, DGAF, Crazy Drew, Yara, DK, Nikos - Commentary by Charlie Wilmoth",
+    "yLink": "https://www.youtube.com/watch?v=DINZdCwAQIY",
+    "players": [
+      {
+        "player": "DGAF",
+        "result": "$13,670"
+      },
+      {
+        "player": "Yara",
+        "result": "$6,810"
+      },
+      {
+        "player": "DQ",
+        "result": "$5,900"
+      },
+      {
+        "player": "Crazy Drew Donen",
+        "result": "$1,400"
+      },
+      {
+        "player": "DK",
+        "result": "$1,200"
+      },
+      {
+        "player": "Nikos",
+        "result": "-$960"
+      },
+      {
+        "player": "Mean Jean",
+        "result": "-$2,790"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "-$9,320"
+      },
+      {
+        "player": "Dr. Patel",
+        "result": "-$15,910"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 576",
+    "date": "12/05/23",
+    "yTitle": "Luda Chris, JBoogs, Ronnie & Nikos Play THE ANTE GAME -- Commentary by DGAF",
+    "yLink": "https://www.youtube.com/watch?v=O3MCpB8Z-ek",
+    "players": [
+      {
+        "player": "Victor",
+        "result": "$32,050"
+      },
+      {
+        "player": "Jeremy 'Jboogs' Levin",
+        "result": "$27,375"
+      },
+      {
+        "player": "Big John",
+        "result": "$25,450"
+      },
+      {
+        "player": "Nikos",
+        "result": "$5,350"
+      },
+      {
+        "player": "Ronnie Ebanks",
+        "result": "-$5,850"
+      },
+      {
+        "player": "Dr. Patel",
+        "result": "-$11,550"
+      },
+      {
+        "player": "Nick Vertucci",
+        "result": "-$12,900"
+      },
+      {
+        "player": "Luda Chris",
+        "result": "-$22,375"
+      },
+      {
+        "player": "Patrick",
+        "result": "-$37,550"
+      }
+	],
+    "total": "$0"
+}
+,
+{
+    "e": "Episode 500",
+    "date": "12/01/23",
+    "yTitle": "Adam22, Andy, Henry, Raymond & Brown Balla Play HIGH STAKES $25/50/100!! Commentary by David Tuchman",
+    "yLink": "https://www.youtube.com/watch?v=S_C2nfdFcbM",
+    "players": [
+      {
+        "player": "Andy Stacks",
+        "result": "$157,625"
+      },
+      {
+        "player": "Adam22",
+        "result": "$22,525"
+      },
+      {
+        "player": "Gary Blackwood",
+        "result": "$19,675"
+      },
+      {
+        "player": "Henry Guttman",
+        "result": "$18,100"
+      },
+      {
+        "player": "Dustin",
+        "result": "-$1,900"
+      },
+      {
+        "player": "Orient Express",
+        "result": "-$7,350"
+      },
+      {
+        "player": "Raymond",
+        "result": "-$43,975"
+      },
+      {
+        "player": "Jeffrey",
+        "result": "-$47,100"
+      },
+      {
+        "player": "Brown Balla",
+        "result": "-$117,600"
+      }
+	],
+    "total": "$0"
+}]
